@@ -1,0 +1,26 @@
+{
+  "generated": "2026-02-06T18:46:48.904449",
+  "total_relationships": 9088,
+  "by_type": {
+    "AppToCapability": 2230,
+    "AppToOrganization": 2646,
+    "AppToProcess": 1406,
+    "CapabilityToValueStream": 223,
+    "CapabilityToOrganization": 1649,
+    "ProcessToValueStream": 12,
+    "AppToProvider": 803,
+    "AppToPlatform": 85,
+    "AppToApp": 34
+  },
+  "stats": {
+    "App→Capability": 2230,
+    "App→Organization": 2646,
+    "App→Process": 1406,
+    "Capability→ValueStream": 223,
+    "Capability→Organization": 1649,
+    "Process→ValueStream": 12,
+    "App→Provider": 803,
+    "App→Platform": 85,
+    "App→App (Supporting)": 34
+  }
+}

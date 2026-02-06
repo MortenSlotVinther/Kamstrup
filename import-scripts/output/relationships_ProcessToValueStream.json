@@ -1,0 +1,98 @@
+[
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "4cc09d0a-6683-56c9-8017-981390457654",
+    "parentType": "ProcessFactSheet",
+    "childId": "8fa7b192-527d-54fd-a3af-d8368776619e",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "7837f330-d702-58ba-8a41-a0b159049383",
+    "parentType": "ProcessFactSheet",
+    "childId": "93c5b19b-7b97-54f4-b299-233737a768e3",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "edb4db0f-37da-5d38-80b1-a214afa7bb1b",
+    "parentType": "ProcessFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "26416338-6adb-5865-88f2-d649803f51ed",
+    "parentType": "ProcessFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "740fa86b-c850-5cc1-a418-479253c6445a",
+    "parentType": "ProcessFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "7cc218b3-7443-5095-b714-2b9a713165d0",
+    "parentType": "ProcessFactSheet",
+    "childId": "ec18ed78-2ce3-5d83-8700-911dc4b76474",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "8495d7d0-1085-5eac-893f-30d14b760dab",
+    "parentType": "ProcessFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "b5feede8-6e29-56a3-a431-b9e63352d39b",
+    "parentType": "ProcessFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "69c3826e-c453-515e-a5d7-33adbebb1e8a",
+    "parentType": "ProcessFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "b477859a-75d0-518b-82e9-672ec602d659",
+    "parentType": "ProcessFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "8c8a883f-f7a6-5e8c-adcf-a995ee543020",
+    "parentType": "ProcessFactSheet",
+    "childId": "cb2bab1f-c97c-5d23-ae5f-9e553d48e92e",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  },
+  {
+    "type": "ProcessToValueStream",
+    "parentId": "63eb78ab-c305-5e83-bd6b-7e3861461d14",
+    "parentType": "ProcessFactSheet",
+    "childId": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "childType": "ValueStreamFactSheet",
+    "source": "C-Business Context"
+  }
+]

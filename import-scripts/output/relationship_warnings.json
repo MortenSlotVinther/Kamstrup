@@ -1,0 +1,5 @@
+[
+  "App→Cap: 2 unresolved caps: ['3095-Sales-Sales Management of Indirect Sales-Partner Channel management', '4301-Manufacturing-Manufacturing Software-Software Development']",
+  "App→Process: 8 unresolved: ['NoProcess', 'P07-Innovation & Solution Development-SP07.1-Innovation pipeline', 'P15-Accreditations & Authorisation-SP15.2-Reverification (DK)', 'P15-Accreditations & Authorisation-SP15.4-Initial Verification of Cooling Meters in (DK)', 'P15-Accreditations & Authorisation-SP15.7-Reverification (PL)', 'P16-Asset Management-SP16.1-Measuring Instruments', 'P20-Communication Management-SP20.2-Sustainability Communication & Reporting', 'P36-Talent attraction, Recruitment & Exit-SP36.2-Employee Exit']",
+  "App→App: 2 unresolved: ['Kubernets', 'MESH Network']"
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "type": "AppToApp",
+    "parentId": "692d853b-b5fb-5d94-8236-c2479e784090",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "8e626dce-c1c7-5601-946a-9fab90ea3542",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "01ad7d3d-ea64-5379-95fa-4e2044e23d24",
+    "parentType": "ApplicationFactSheet",
+    "childId": "12f89256-1d56-5f00-a40a-63dd94581266",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "10a61edb-eaad-549d-92c6-de15f239280f",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "b4a56364-bd8f-5ba8-b3bc-351a7477fe22",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "01865dad-d029-5c13-a7d4-53e410642750",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "1ab3015b-c36c-5b50-9b4d-fb850a730267",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "933dd0e1-6bb4-5e79-b2b3-c27a2b4d0927",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "7647b880-43cf-5541-87d4-ee318b2deb77",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "4d9569d4-81e1-52e6-b79c-8e9fa43f6b7c",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "e636f5c6-7470-5bf2-868c-7742d1ef4057",
+    "parentType": "ApplicationFactSheet",
+    "childId": "12f89256-1d56-5f00-a40a-63dd94581266",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "338f15f5-582d-51c2-93af-84ae71562497",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "8c08dfcd-76da-5a86-b591-dc6e0b358eb1",
+    "parentType": "ApplicationFactSheet",
+    "childId": "61d37b41-f398-5087-9671-12e94c59b73d",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "e3728e78-b185-5136-98f8-221b10b747d6",
+    "parentType": "ApplicationFactSheet",
+    "childId": "61d37b41-f398-5087-9671-12e94c59b73d",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "c0077b41-cc1d-5108-8442-ca923c220dea",
+    "parentType": "ApplicationFactSheet",
+    "childId": "61d37b41-f398-5087-9671-12e94c59b73d",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "3a94046d-f58e-5b1d-a70b-12d2cf0c69a2",
+    "parentType": "ApplicationFactSheet",
+    "childId": "61d37b41-f398-5087-9671-12e94c59b73d",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "cb39b407-96cd-58d2-bf59-962223fda7aa",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "7f9682b7-f5f5-5291-b6db-b2b81cfca756",
+    "parentType": "ApplicationFactSheet",
+    "childId": "61d37b41-f398-5087-9671-12e94c59b73d",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "f2da6ef9-e02e-5b46-bca1-c20fc8340bf9",
+    "parentType": "ApplicationFactSheet",
+    "childId": "61d37b41-f398-5087-9671-12e94c59b73d",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "a8aeb5d0-3990-5ab6-accb-e68f62cfb07b",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "75340482-add8-54bc-8119-1e8ee4020b33",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "019dfdc8-d011-5a4c-99b6-b6e09bab52da",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "1a74d507-0ab1-589f-b9ce-e7e8ed46e0d4",
+    "parentType": "ApplicationFactSheet",
+    "childId": "12f89256-1d56-5f00-a40a-63dd94581266",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "1124ded2-850b-5b85-8c60-b1bb42d7ec1b",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "df067993-d24c-5fc3-8f2a-6f9d1d206b06",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "a6d84670-e83f-5b01-b797-3c6fd862bc2d",
+    "parentType": "ApplicationFactSheet",
+    "childId": "61d37b41-f398-5087-9671-12e94c59b73d",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "a6d84670-e83f-5b01-b797-3c6fd862bc2d",
+    "parentType": "ApplicationFactSheet",
+    "childId": "12f89256-1d56-5f00-a40a-63dd94581266",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "ca211f60-2995-56d9-814a-b2fa47cd8b01",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "b6b20ea3-7b30-597c-91d2-c0dcfbd487e1",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "396d97e8-b6f9-5830-a86d-59b95c02b0d3",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "7662b908-081e-5e13-bf4c-ef8dc199b92a",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "acc058ee-097d-5ce4-ae4a-372155a1022b",
+    "parentType": "ApplicationFactSheet",
+    "childId": "12f89256-1d56-5f00-a40a-63dd94581266",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "286a2401-cb79-5602-98ad-cec80629981e",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  },
+  {
+    "type": "AppToApp",
+    "parentId": "3ece3133-4aec-57eb-a7c2-4bf8a65a3406",
+    "parentType": "ApplicationFactSheet",
+    "childId": "88193e26-3c61-5069-94e9-99aca396f9a5",
+    "childType": "ApplicationFactSheet",
+    "relationshipKind": "Supporting",
+    "source": "A-Applications"
+  }
+]

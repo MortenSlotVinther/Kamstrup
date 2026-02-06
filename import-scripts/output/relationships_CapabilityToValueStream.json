@@ -1,0 +1,1786 @@
+[
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "52a6d38f-26b8-52a1-9e6e-7bb92755a547",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "59fc2bc7-ea98-58f3-8cb5-18af7f699a9a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "6063d654-7e7a-5dbb-9e37-aea23d1a67ae",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "fab64c4e-5473-55b0-bc2c-70a12f8d14b5",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "278cd189-8000-5e22-bd9e-7223ef84050b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "2847d48e-e606-50d1-a88e-c760fe79d485",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1f449916-a864-597b-aeb1-e66e2fbd9a99",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "f943eb13-0962-57fd-8b73-8c2b7694e73a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1af75234-fc5c-58f7-a432-f2ec42dc1b62",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "754d9120-da4e-5ab1-960a-976b3f450c21",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "280a5831-1627-5ef9-b186-3c6b25a14925",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "69399164-04fd-51db-9dc6-e15cbf375e1d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "33dcb037-e5ff-58f1-a95c-0633a370393e",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "90c9d8d9-0d1a-5817-b8ff-495d92fcc933",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "20326bdd-6d5e-5aeb-8bc0-dc58eb90ff6a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "5eed68a5-fa46-5200-a6dc-a7853878c100",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "5300082e-7097-5971-8e16-a93c0cfd72f2",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "971ab783-a350-5949-8357-13eaecaef9b3",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8736e1d1-3f2c-5c23-ab1b-9b83dea65f42",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "746c4fcc-95f9-5d5a-bf8a-e7479b874108",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "76b70c2d-cc9a-57f1-afa7-9589cea6501f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "6d828269-2cad-5cd9-b033-14b8b2e18f5f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "3fbb0628-cf1e-595b-be42-40796b91cf67",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0c755c60-8e20-51a6-837e-62e38d0847a6",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "49fce7a2-243a-54a1-a700-360b6f6bef8d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "98b66e60-f32b-5b0d-8578-544c54bdf7d9",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "dcf6ed6c-70bb-5f92-b8a1-507176765885",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8ff02b5d-32f8-52e5-ac6e-fbf02a3322da",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "09f0efce-e015-51d4-b643-024ede76bd0d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7fa6f779-ba31-557b-a00a-bc2db2df9d8a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "18aab9a7-ebca-5743-80bf-643ed67312f7",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "09f7cc3b-3d35-58e2-b1f5-c79f0ca23ecd",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d3d25785-c475-554d-8ca3-2f0948f8ed1b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "54628abd-803f-536e-a411-f444e03aef09",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "4171db39-a563-5beb-bf2c-1a299fa74e7f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "12f8dcb3-db7e-5daf-804c-2bea05f63080",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c01fb304-716c-53d8-bc0b-d556efaa132e",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "55fb5519-9afd-567f-a34a-796aaf8517cf",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "5c69224d-2055-572c-b2ce-58351a37813f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "bda6f77b-199f-5468-b621-52ba4593aef8",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "b4bf433d-f4ca-54fd-8eb8-c1805c27d60f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "4f1ed4ac-e21c-5227-98c2-142942ae2a00",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1132ff36-89d6-56b9-8251-2858fa703886",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "5fda00c5-a3c9-58b8-98a0-7992cf271ace",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "ded98088-ec8e-5b1f-8a94-4797e5aae641",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "33321b1b-1633-5153-b2eb-ba85157856ea",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "b7b73c7a-e5df-5b03-a003-c06580fa88da",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "742872d4-7691-54fd-a9b1-926620dfadef",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0516edf7-62a0-5a93-b3b1-37d76753aba6",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "810bf809-9ab8-586d-a2fc-23828d8f48ee",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "67f6522e-c447-5f39-ae93-f3fa5c3ac952",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d8df7aaa-8ec1-59c1-a59c-3b7395c4290e",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "b933e9c0-04c1-509d-ba72-392192bcbc7b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "3a3c986e-2d02-52e4-a054-d4676ce59acc",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e4ac7abb-56e1-59db-8ce4-1000a41476de",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e885456d-e2bc-561c-9b95-82a1010f6aa2",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "fc2b1c46-c857-5621-af15-601c23b0ead4",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "6aad2c60-a6a2-51a8-aefb-9e91de98e682",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "af0ef0d5-86e2-5e11-a249-17adc86d0a32",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d8c52319-810f-5877-a5e6-abadc302c4c8",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e0883edb-0dbb-5b46-979d-37a848fc359f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d076ac41-f79b-51ad-b77a-45ca35bcc67e",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "cb2bab1f-c97c-5d23-ae5f-9e553d48e92e",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8b13f00a-8773-52c7-89d7-f009376d542b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "cb2bab1f-c97c-5d23-ae5f-9e553d48e92e",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "53634393-d6c7-5301-b6f6-04a49ea87236",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7266e7d5-d97b-50f7-ae05-b1e275ef5379",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "cb2bab1f-c97c-5d23-ae5f-9e553d48e92e",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "ab6f8229-459a-57b9-be31-17b55b22acc5",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "fc468ef2-2f6a-50b8-9aec-068e0379db0a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0714e198-412a-57f0-8625-0426b3a1537f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "60fdfc59-edc6-525b-a31d-f3608461951f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "61afaaea-7c20-5936-a355-6bdb41107fae",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "956766ca-5476-55c0-81b7-30f8d1ca5654",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "530f6042-494b-5a26-8202-2f3aba82277a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "ec18ed78-2ce3-5d83-8700-911dc4b76474",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "51cea039-464f-5580-bb87-f74602326157",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "ec18ed78-2ce3-5d83-8700-911dc4b76474",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e8033a40-6ccf-5bb6-adbf-3723cc55eebd",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "ec18ed78-2ce3-5d83-8700-911dc4b76474",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7a7b84ac-7739-5be9-a419-ef0c28327e5a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "ec18ed78-2ce3-5d83-8700-911dc4b76474",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "2d9c07c7-9e84-5198-bf79-29e4be73a205",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e3e5d1cd-1321-584f-a329-b7635db0705f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "86230d7b-1c98-57e2-a63b-2dda84357471",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1e366742-36b6-595e-b977-a2cb4e818fab",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "4b59c7f9-1638-53c9-a69d-193d66a087ed",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "21422aee-b12a-5a74-a28c-accfaaf360d9",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a46fd95e-2f60-5aeb-bc70-a84c85c9d07b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8f92f1c9-8f7e-56ab-b081-5d34bbaea9a2",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "78b598bd-413d-5baf-896f-be9966205ff3",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "3b6a9cca-02c1-5110-b5cb-6b74f3d15fbd",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0a7a4765-d8a7-57c4-b2c3-2a71c59d5586",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "dd2ecb17-3019-5d4c-95fd-de1001d93d80",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "22e69a32-076e-5ff0-8e8c-d5783750f2b6",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "75312ea4-1e76-5216-819c-0b9abc1cb81c",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "61703314-82e9-5a85-bc65-87ff7c70669a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "da5ba8ba-2464-5f56-a1d5-3d1b068fdca1",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "f03cfb78-ff23-5d64-8a6e-5e6adf9cfa5d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8696ab3b-fa24-50cf-80d3-8ef07216c91f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c3eb28e9-d53b-5bbf-b2f9-f833772ce22c",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8e24c4e0-7999-51c3-a536-a55228d082bc",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "965b9f1b-ab18-5720-be5f-f172c8b1eff9",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "9913abaf-11b7-586b-966b-0fcd6ece9966",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a321358c-e2da-5aca-bdb7-3635586557e8",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c31ec486-23d0-5372-835c-90c59d9ed993",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a13ef76e-26d0-56e4-8bfc-550a4e4ef025",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a1b4c8ae-aa7f-57cd-9857-1a58b176ee61",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "ce55b580-affe-53db-9d69-37759fe515db",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "9daded3b-d4a9-5be1-972d-a6c8ec87140c",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d22bab63-c702-531c-b46c-a261d8e67561",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7ac4fe43-d334-5aa9-9d35-db8173fde5a9",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "af50c052-8568-5fe3-9a05-3ec308104ebc",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "ecde0f88-8255-56b4-8d7c-0022b804e5ed",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "6d4fb4e3-1cd4-58e9-bd42-07af75049fe8",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "659611ed-c279-5f52-a338-c7ddb6a354fa",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "f85bb5e6-a233-5491-92da-712be9630004",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "9e4c95d2-a5bf-51cc-b6cd-904c12548f5d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "fc56773a-9918-599b-b9b0-e68db1d11287",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1d5e60c6-ae18-58cc-ae11-efd67e5a7efa",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "9e1c6d59-1283-5fd4-9cb6-8977d1141da5",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d2e27a9e-ff51-5cc0-9783-e6881d4174fb",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "9b9be372-a25f-5efc-a76c-8617243e7ba7",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a310fe37-b964-5f64-90e5-25c83c7e5777",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "3848440c-48ab-5fd2-91f4-ff0ed72ccb7b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8cb699d0-26f8-597e-bc77-9f8dd5b69746",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0d53c4d1-9891-5605-b347-0d85d89f253a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e09ff1bb-5f04-5c79-bcb1-955fad54e45d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0ee398d7-f8aa-5794-a769-f02ce3e8687b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "76657443-0e4d-56fe-9fff-d40e139ee9de",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "49fa3d5f-d20e-5cc1-aa1d-9dd32cabcf2a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d86140b4-2ba4-56d6-ba5a-08b062776152",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0d64dcf6-af0b-52fc-89ad-d656f6701f9b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e54d72f4-f8d4-53fe-8295-c45d38c74639",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "166869f6-0332-5bb3-ac13-aac69021be33",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1e9c9a6f-0631-548a-866b-fec5180d8793",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "890c4980-fea5-5806-908f-08241a27de59",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1429eead-0338-542d-877e-37b2ec76f976",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "924a2264-1825-57e5-ad9d-7e5d1029ddfd",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a09fd386-afa2-582f-a1a7-3d63cb621819",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "bdfc0a03-f015-5d84-a636-903dc97af66d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "25b1f6ee-a577-535b-8203-dc891c8172e4",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "df8fb225-b188-56dd-aad8-a58f8ff3c1e0",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "fce73ae4-aa5d-54d6-8bb7-6224a7fc812f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "17e915bf-9bc5-5a5a-b73a-58a3d2c688ee",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "cafaaa0f-75ad-5b00-b6ed-12f7d551157f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "247a693f-4041-5d1b-918a-d582987a8c8d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7f887b8b-4822-5dc4-81fb-1d3350f98773",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8323b445-f63e-5a38-b242-059a236bb03e",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "bf7f6c3a-c255-5725-b8ef-e67c7de422e6",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0e85fd18-cbb8-53be-a246-40480b6a3201",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "03ec0602-efa0-5c7d-8c9a-4e5d5a169e62",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "64dadd3b-63a2-5302-8c9a-4903b726a81c",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "6f558526-fa15-51f3-823d-ea304468930a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "ee514cbd-a887-57c6-9e68-875b24c14e9b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d3d70d27-c557-506a-a16f-fb819fcd74cc",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "fc996a5d-0fa1-56e2-8c93-649969c35ee8",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c74086bd-be13-5cc7-b997-a7d7a61ec0ae",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0e4a639e-0538-5b37-ad05-a533b72988c3",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "94a339a3-72e2-503f-a506-90bc2b7c393a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "8f8f773c-474d-5aa1-b845-5b9673ea1041",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "c4819d49-2282-546a-b077-6e39f098213f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d789be1f-5504-5619-8d8b-eb25d7a4d3f6",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1a643759-6a9a-5e47-bdbc-bfaecf813e13",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0d8ed9bb-df63-55de-8f47-a4ea75710fad",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "4f10509e-5d41-5551-99b8-04d9083123b6",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "792d57e5-7666-535f-9682-391026d39757",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c301fd7d-682c-5d95-bb2b-232a478129e4",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "184548b7-1389-52a5-b4d3-432d9e61322e",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "6fadf2c8-42af-5833-bb42-df177eb1fc8c",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "80a385e9-1194-53a0-ab85-530a818bc9a2",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "333ba4c2-c1be-51a9-9431-390933a9b672",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "18917de3-7b41-504f-955f-9e1c50c90a65",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e33bc134-e8b1-59ce-89b7-8c4f82e09f80",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "4ce2d78d-9ca4-53e6-b65b-95f138e2e69f",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c2568e43-57c9-5d00-9c7e-059141e0ce90",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7a51f8d2-5136-53ea-b65c-f1a757fe103a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "3e8ca38a-5003-597c-b3a0-b77fd1153bda",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1318275e-8902-593a-889d-c818cbbacafa",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "fe9e6ecd-ed9e-5824-8aeb-ce16d2b86643",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "ca9cefbf-b325-5d23-8059-4e10f8d9108b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "35bf48a6-25cd-52c9-b6ae-8d18ca66cbaa",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d382326a-c4ca-5e5c-8bc8-6452e8b3aa98",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1088f75f-4178-5571-9f4d-46be506e78a7",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d4e54bda-2fce-58e1-9d7e-b3d192028c65",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c9a60022-dbb2-507c-b569-7e01f1af9462",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "cd0afb93-21d8-5609-b5b3-0b71f6567056",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c6e153d6-1c2c-5a2b-8800-8cea035d387d",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "19916512-f47e-5104-87ae-8956f7d98e86",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "f920a0b5-cf35-581d-af2f-729d25c060d3",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7da5aeb9-1c11-5e0f-8d0b-6c85c38e6348",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "bba0a089-3b6e-5df2-8b1a-01b90647983a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "52c55305-d097-57a5-bb49-03fdffed001a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1e5bf94f-c0a6-59ed-bde2-69857dfd7721",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "82d2ceaa-f97d-5b0a-8e83-11598e51751c",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "1a0b3a9b-8af3-5256-af42-b5ce063aed49",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0ced1a54-da40-5bb9-96a8-841b6e91e6b0",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e02348d2-3edc-53aa-8b0d-f0eac85ec396",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "c7d33d29-c536-5983-8024-ed0c5d42ce4c",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "88797e2e-57a4-5fa9-ac19-9503640b4ba9",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "96b68769-7cb9-5e65-a43c-5d7bfd5978b5",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "595e113f-da9f-565e-9c3a-d45ec85bf30b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "cdee6c09-7f6e-55ea-a57e-5b6430d6896b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "9425a356-c45c-5671-bcd7-1020eb7a5064",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "97497800-9473-5ae1-bac7-32ea279fbfce",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "decf364b-bac9-5f79-adb9-b414205585d6",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a2c88f41-3daa-57cd-8291-3d3854993752",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "78fc4ffa-8fc8-592a-af25-85fc704e41e4",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "e8a589be-f70a-50f9-a163-482b9c9b3252",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "48ba7fee-a51a-5970-8522-de064a404f15",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "aac44326-2d57-5d47-9a4d-147363184814",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7043b842-ca51-5bca-90de-ec51ff9746e1",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "90f85748-c1f5-5b8b-af3e-1d62876e997a",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "245b060b-41b9-5158-862a-4eee375699a0",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "3f2a71b1-cd8a-5925-a428-cda065e06205",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "2dedaa96-6407-5be4-b8ed-afa8317e21d6",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "d1275641-da07-5fcb-bad3-6286f0c3593b",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a81f3604-f7ce-55e9-8dc0-4007bb74f747",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "33eeeac6-a4f4-5eac-ad65-99daa7541dbf",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "3755342b-d940-5bcd-b26f-bc88e44483bf",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "403b32b5-7de8-5d29-a6ec-e41e876a6a43",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "76c69121-52b2-5c2c-9822-4fce60f73b39",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "a15d35e4-8a80-58b3-9eab-cdcf3f993003",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "203339c5-2762-5bb6-ae3f-69dbf1678327",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "6127b905-dc80-5cac-a918-3f374de017a4",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "0ea05729-6003-504d-966f-ddd60b53d405",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "aa91358b-3c97-5111-9e28-73ac2bb7a6b2",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "85b96f1d-85fa-5984-9aa6-1424d6a27a47",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "08548b7f-0381-5f59-afdc-018f3da36dcf",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  },
+  {
+    "type": "CapabilityToValueStream",
+    "parentId": "7dd1973f-6569-55cf-bb54-872a9d795ca2",
+    "parentType": "BusinessCapabilityFactSheet",
+    "childId": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "childType": "ValueStreamFactSheet",
+    "source": "B-Business Capability"
+  }
+]
