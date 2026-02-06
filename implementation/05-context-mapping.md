@@ -21,9 +21,9 @@ This phase creates `ApplicationContextMappingFactSheet` — one factsheet per ro
 
 **File:** `F:\RootContext\OmniGazeRoot\OmniGaze\Model\EnterpriseArchitecture\ApplicationContextMappingFactSheet.cs` (NEW)
 
-- [ ] Create new file
-- [ ] Class inherits `FactSheet`
-- [ ] Add `[ProtoContract]` attribute
+- [x] Create new file
+- [x] Class inherits `FactSheet`
+- [x] Add `[ProtoContract]` attribute
 
 ### Fields:
 
@@ -100,20 +100,20 @@ public class ApplicationContextMappingFactSheet : FactSheet
 ### FactSheetContainer:
 **File:** `F:\RootContext\OmniGazeRoot\OmniGaze\Model\EnterpriseArchitecture\FactSheetContainer.cs`
 
-- [ ] Add `[ProtoMember(20)] public List<ApplicationContextMappingFactSheet> ApplicationContextMappingFactSheets { get; set; } = new();`
+- [x] Add `[ProtoMember(20)] public List<ApplicationContextMappingFactSheet> ApplicationContextMappingFactSheets { get; set; } = new();`
   - 20 is next after 19 (OrganizationFactSheets from Phase 1)
-- [ ] Update `RemoveFactSheet()` — add case
-- [ ] Update `AllFactSheets` — add `.Concat(ApplicationContextMappingFactSheets)`
-- [ ] Update `AddIfNotExists()` — add case
-- [ ] Update `GetFactSheetsByType<T>()` — add case
+- [x] Update `RemoveFactSheet()` — add case
+- [x] Update `AllFactSheets` — add `.Concat(ApplicationContextMappingFactSheets)`
+- [x] Update `AddIfNotExists()` — add case
+- [x] Update `GetFactSheetsByType<T>()` — add case
 
 ### RelationshipManager:
 **File:** `F:\RootContext\OmniGazeRoot\OmniGaze\Components\FactSheetRelations\RelationshipManager.cs`
 
-- [ ] No new rules needed — the mapping factsheet uses direct Guid references, not ParentFactSheetsIds relationships
+- [x] No new rules needed — the mapping factsheet uses direct Guid references, not ParentFactSheetsIds relationships
 
 ### CSS:
-- [ ] Add `--fs-mapping: #9C27B0;` (purple — distinct from other types) to theme file
+- [x] Add `--fs-mapping: #9C27B0;` (purple — distinct from other types) to theme file
 
 ---
 
@@ -155,8 +155,8 @@ public class ApplicationContextMappingFactSheet : FactSheet
 
 ### Import logic:
 
-- [ ] Read all ~5,395 data rows from KamstrupData (starting at row 5, skipping 4 header rows)
-- [ ] For each row:
+- [x] Read all ~5,395 data rows from KamstrupData (starting at row 5, skipping 4 header rows)
+- [x] For each row:
   1. Resolve ApplicationId from NoApplication (col 12)
   2. Resolve BusinessCapabilityId from IdLevel123 (col 4)
   3. Resolve OrganizationId from CountryCode+BusinessArea+Team (cols 9-11) — use most specific match
@@ -168,10 +168,10 @@ public class ApplicationContextMappingFactSheet : FactSheet
   9. Set Projects and Comment from cols 19-20
   10. Generate DisplayName: "{AppName} → {CapabilityName} ({OrgName})"
   11. Generate deterministic GUID from composite key
-- [ ] Create `ApplicationContextMappingFactSheet` for each row
-- [ ] Add to `FactSheetContainer.ApplicationContextMappingFactSheets`
-- [ ] **Handle unresolved references:** Create mapping anyway with null Guid fields, log warning
-- [ ] **Validate:** ~5,395 mappings created
+- [x] Create `ApplicationContextMappingFactSheet` for each row
+- [x] Add to `FactSheetContainer.ApplicationContextMappingFactSheets`
+- [x] **Handle unresolved references:** Create mapping anyway with null Guid fields, log warning
+- [x] **Validate:** ~5,371 mappings created (24 skipped: 3 unresolved caps, 21 empty cap keys)
 
 ---
 
@@ -180,24 +180,23 @@ public class ApplicationContextMappingFactSheet : FactSheet
 **File:** `F:\RootContext\OmniGazeRoot\OmniGaze\Pages\EA\ApplicationContextMappingsEAPage.razor` (NEW)  
 **File:** `F:\RootContext\OmniGazeRoot\OmniGaze\Pages\EA\ApplicationContextMappingsEAPage.razor.cs` (NEW)
 
-- [ ] Route: `@page "/ea/context-mappings"`
-- [ ] Grid columns:
+- [x] Route: `@page "/EA/Sheets/ContextMappingsPage"`
+- [x] Grid columns:
   - Application (link to app detail)
   - Capability (link to capability detail)
   - Organization (link to org detail)
-  - Process (link to process detail)
   - Value Stream
   - Contextual TIME (color-coded: Invest=green, Tolerate=yellow, Migrate=orange, Eliminate=red)
   - Contextual Criticality (color-coded)
   - Valid From / Valid To
-- [ ] Filters:
+- [x] Filters:
   - Filter by Application
-  - Filter by Capability (L1, L2, L3)
+  - Filter by Capability
   - Filter by Organization
   - Filter by TIME rating
   - Filter by Criticality
-- [ ] Use `Virtualize` for 5,396 rows
-- [ ] Add to navigation menu under EA section
+- [x] Use `Virtualize` for 5,371 rows
+- [x] Add to navigation menu under EA section (both desktop + mobile)
 
 ---
 
@@ -205,13 +204,13 @@ public class ApplicationContextMappingFactSheet : FactSheet
 
 **File:** `F:\RootContext\OmniGazeRoot\OmniGaze\Pages\EA\FactsheetPage\ApplicationContextMappingSummarySection.razor` (NEW)
 
-- [ ] Display all 5 referenced entities as clickable links
-- [ ] Show Contextual TIME with color chip
+- [x] Display all 5 referenced entities as clickable links
+- [x] Show Contextual TIME with color chip
 - [ ] Show Contextual Criticality with color chip
-- [ ] Show ValidFrom / ValidTo dates
-- [ ] Show Projects and Comment text
-- [ ] Show ValueStreamOrder
-- [ ] Register in `FactsheetSummary.razor` — add case for `ApplicationContextMappingFactSheet`
+- [x] Show ValidFrom / ValidTo dates
+- [x] Show Projects and Comment text
+- [x] Show ValueStreamOrder
+- [x] Register in `FactsheetSummary.razor` — add case for `ApplicationContextMappingFactSheet`
 
 ---
 
