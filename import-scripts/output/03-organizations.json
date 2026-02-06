@@ -1,0 +1,2358 @@
+[
+  {
+    "Id": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "DisplayName": "Denmark",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "DK10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "3808066e-6cff-5ad7-b42b-0640960f8977",
+      "96411738-deb0-5cd7-af2b-2bd8ef3e8eff",
+      "956c9555-8e3f-5abe-a916-c12ca26d0f42",
+      "ae2684c3-0c3a-5cb2-9fba-41544fb19907",
+      "74cce26b-b10a-5bc3-82b1-b42c30bbc317",
+      "906d6a2d-adba-54fa-8bf8-358039457753",
+      "8d7ae436-eee3-5cb6-99ff-7984c1cd608e",
+      "a26253cc-0642-5535-84f6-ef8db8204a83",
+      "b8865809-6325-518c-b5f9-3844f8a82469",
+      "7654fc60-6fb6-53c3-b6f3-89957b6e4689",
+      "7558f6a5-94b4-5658-9bb8-86426fe0d81f",
+      "59f47824-f9d8-51a1-8eef-d58baed1b535",
+      "b95fe924-5ded-5af2-978f-e4576b007556",
+      "58423212-cafe-58ed-a106-0656531e36b7"
+    ]
+  },
+  {
+    "Id": "590c2427-7bac-5e7f-887c-85dcfed1396c",
+    "DisplayName": "Switzerland",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "CH10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "190bfba9-1492-5490-b86f-1fef0be0fcb1",
+      "1ac72a8d-a739-557c-b602-bfdbff567e42",
+      "64a99eac-bae7-5c98-8291-9c3bee46973a"
+    ]
+  },
+  {
+    "Id": "04e59356-ceda-572b-ba8d-8a177a0936e8",
+    "DisplayName": "Spain",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "ES10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "88d13f6f-574b-5ee0-b860-438912fe56db",
+      "6bf26f05-1ba8-5d5a-ac54-b304f100b1ef",
+      "757295b0-533c-5fdb-800e-9e772fec6ce6",
+      "58e534fa-95c5-5326-b3b6-895e38dc937c",
+      "0c33cc76-84e4-5085-a49d-a5a2a7015199",
+      "7ad22541-0e9d-57f9-a6c2-baa914230019",
+      "f2af78e0-aa2f-5fa2-958f-d10f55210ecf"
+    ]
+  },
+  {
+    "Id": "30660aba-6782-5c78-83b0-9a2cc050891c",
+    "DisplayName": "France",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "FR10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "64129111-48bf-5cd6-8ffc-1a467b838ee1",
+      "44f2d278-473a-5678-9b12-c562d8013bf4",
+      "e6f3f786-d6ab-5f7b-b930-a18cf7149f80",
+      "5cc6ca82-7272-58e3-a364-38336402324e"
+    ]
+  },
+  {
+    "Id": "aa952226-7de6-5417-a7e0-7c82d21d3a47",
+    "DisplayName": "Netherlands",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "NL10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "6a772bc6-5b88-55c0-bc1f-21f0dcf4c889",
+      "63bc285e-7dd5-5d5e-8e34-3800a78c7899"
+    ]
+  },
+  {
+    "Id": "6444cbdd-fe6b-5cfc-96f8-fba04a1f9f3d",
+    "DisplayName": "Norway",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "NO10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "03b1a4b6-a292-5412-b813-692459f0ed41",
+      "e2a9de2e-9a08-5b6a-a500-a490f0c841ff",
+      "e2497b32-b087-54ec-a518-6fa3e685b5ab"
+    ]
+  },
+  {
+    "Id": "08c2b871-0bbe-5d68-9467-ad3073add070",
+    "DisplayName": "Sweden",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "SE10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "bd0a1dc8-ba66-53ba-9fff-cb47a915c4d4",
+      "bc7eb54e-1e69-5f19-80d7-f46a90ff5e09",
+      "083f2b24-57a5-5941-82b2-d5c0d3051706",
+      "691739e5-6540-532a-9041-4f7b5aaafe98",
+      "4b6d491f-0c95-5bac-b96b-adf365e9c611",
+      "a9246590-fde1-5e78-b01e-122f32ee246a",
+      "f9bacdcc-50c4-5e59-8328-6ede28f4f0b3"
+    ]
+  },
+  {
+    "Id": "f3fbaae7-fe20-5ab8-b6f5-11061d27850b",
+    "DisplayName": "United States",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "US10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "fbf79f27-4f97-5a91-990d-113b9924f91a",
+      "dcab5bdc-9ac0-57cf-8164-6693ec19843d",
+      "23318997-71ed-55a5-8b28-5edc05571124",
+      "3d102cca-64ae-5a56-ad23-8899e56738f4",
+      "a8b1fcc2-a54f-5c2e-9aad-7fb167438aeb"
+    ]
+  },
+  {
+    "Id": "d4a05052-fe9d-5734-a2f1-1ecf1f66f1e1",
+    "DisplayName": "Malaysia",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "MY10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "76ff0461-bf38-587a-9d5f-7488381d4f5d"
+    ]
+  },
+  {
+    "Id": "e7c2de2f-2144-5525-a7fe-b9d1b1615eaa",
+    "DisplayName": "Poland",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "PL10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "5a12fd4c-3e7a-58d7-b31f-852d525d7006"
+    ]
+  },
+  {
+    "Id": "b8bcf0e0-64b9-5523-b584-21e866dabcef",
+    "DisplayName": "Austria",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "AT10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "dda0c4b7-9582-5e6a-8bd9-309a55052598",
+      "bc37a412-9521-5f67-a631-80ea6e590ccc"
+    ]
+  },
+  {
+    "Id": "954785cb-b89d-59dc-8a0f-4ddd3c4f33a6",
+    "DisplayName": "Canada",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "CA10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "87ebb57a-b5ab-5710-aef1-f25a314ebbfe"
+    ]
+  },
+  {
+    "Id": "6cf8b2ab-ab87-5f2e-9e3a-9216bf6a8201",
+    "DisplayName": "China",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "CN10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "effb44dc-1ced-537f-9bce-36c16e3f522c"
+    ]
+  },
+  {
+    "Id": "771b351e-03f9-5eb8-8661-044d5ee7d175",
+    "DisplayName": "Germany",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "DE10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "a7a48882-0f22-546a-a890-8d622fb0b86e"
+    ]
+  },
+  {
+    "Id": "d0cef97a-8e7a-52c4-b608-21a342e61be3",
+    "DisplayName": "Finland",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "FI10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "0353922e-cef3-505c-b7f3-f4bf7bc4c390"
+    ]
+  },
+  {
+    "Id": "1520f86b-8ec3-5240-82e6-476b5816600e",
+    "DisplayName": "Italy",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Country",
+    "CountryCode": "IT10",
+    "HierarchyParentId": null,
+    "HierarchyLevel": 1,
+    "HierarchyChildrenIds": [
+      "a86db89c-8979-5137-8912-68d3e6c2ae4a"
+    ]
+  },
+  {
+    "Id": "3808066e-6cff-5ad7-b42b-0640960f8977",
+    "DisplayName": "Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "f653082f-8b42-5912-a82b-1e9e53a5e19e"
+    ]
+  },
+  {
+    "Id": "190bfba9-1492-5490-b86f-1fef0be0fcb1",
+    "DisplayName": "Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "590c2427-7bac-5e7f-887c-85dcfed1396c",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "295656b6-42c0-577c-a5b7-332e8ae08c86"
+    ]
+  },
+  {
+    "Id": "1ac72a8d-a739-557c-b602-bfdbff567e42",
+    "DisplayName": "Customer Service",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "590c2427-7bac-5e7f-887c-85dcfed1396c",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "ba1a6941-e67e-58f8-b9a4-48af286f9b3d"
+    ]
+  },
+  {
+    "Id": "88d13f6f-574b-5ee0-b860-438912fe56db",
+    "DisplayName": "Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "04e59356-ceda-572b-ba8d-8a177a0936e8",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "799d999c-48be-532e-b31a-98b81a4faefb"
+    ]
+  },
+  {
+    "Id": "6bf26f05-1ba8-5d5a-ac54-b304f100b1ef",
+    "DisplayName": "Customer Service",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "04e59356-ceda-572b-ba8d-8a177a0936e8",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "4c22ec4e-cb0f-50ff-96ad-78d6c3c32fa9"
+    ]
+  },
+  {
+    "Id": "64129111-48bf-5cd6-8ffc-1a467b838ee1",
+    "DisplayName": "Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "30660aba-6782-5c78-83b0-9a2cc050891c",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "12b6e048-195c-513b-8d1d-bb3c0cdd3877",
+      "608d197e-653c-5328-bd5f-722cbb3e9763"
+    ]
+  },
+  {
+    "Id": "6a772bc6-5b88-55c0-bc1f-21f0dcf4c889",
+    "DisplayName": "Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "NL10",
+    "HierarchyParentId": "aa952226-7de6-5417-a7e0-7c82d21d3a47",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "d0406f42-0a85-544d-9a78-c1af77462cf5"
+    ]
+  },
+  {
+    "Id": "03b1a4b6-a292-5412-b813-692459f0ed41",
+    "DisplayName": "Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "6444cbdd-fe6b-5cfc-96f8-fba04a1f9f3d",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "2c2412c4-d848-5816-8512-a3a0462cc9bf"
+    ]
+  },
+  {
+    "Id": "bd0a1dc8-ba66-53ba-9fff-cb47a915c4d4",
+    "DisplayName": "Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "08c2b871-0bbe-5d68-9467-ad3073add070",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "b629b16e-a80d-5ad2-a03d-6b636731d479"
+    ]
+  },
+  {
+    "Id": "e2a9de2e-9a08-5b6a-a500-a490f0c841ff",
+    "DisplayName": "Customer Service",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "6444cbdd-fe6b-5cfc-96f8-fba04a1f9f3d",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "ebbcf13d-639b-5cb3-98b4-5f34c3bc535f"
+    ]
+  },
+  {
+    "Id": "96411738-deb0-5cd7-af2b-2bd8ef3e8eff",
+    "DisplayName": "Supply Chain",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "8c0dac99-87b1-5f71-ab5a-6299abd91655"
+    ]
+  },
+  {
+    "Id": "956c9555-8e3f-5abe-a916-c12ca26d0f42",
+    "DisplayName": "Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "2b61d327-145c-519b-ab4e-bbbc7e59334c",
+      "ebc85090-495b-5149-98b8-e3b36e2578a9",
+      "5f006d84-459e-5c60-b882-78f4d62db4a4",
+      "3575633b-480a-5211-875e-1b4365d4fa1c",
+      "1a32996e-7c4a-596a-9cea-52570e8affbf",
+      "9a50ea4d-39ba-52c0-95bf-fe75485a0edd"
+    ]
+  },
+  {
+    "Id": "44f2d278-473a-5678-9b12-c562d8013bf4",
+    "DisplayName": "Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "30660aba-6782-5c78-83b0-9a2cc050891c",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "44c5edd5-5ea0-5a4f-a67a-f993fdae4e5d"
+    ]
+  },
+  {
+    "Id": "757295b0-533c-5fdb-800e-9e772fec6ce6",
+    "DisplayName": "Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "04e59356-ceda-572b-ba8d-8a177a0936e8",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "becc3cdb-95f4-55f7-8aa8-5718048e5778"
+    ]
+  },
+  {
+    "Id": "bc7eb54e-1e69-5f19-80d7-f46a90ff5e09",
+    "DisplayName": "Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "08c2b871-0bbe-5d68-9467-ad3073add070",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "1090547b-e9dc-52b6-aa7e-0132b436f19e"
+    ]
+  },
+  {
+    "Id": "fbf79f27-4f97-5a91-990d-113b9924f91a",
+    "DisplayName": "Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "US10",
+    "HierarchyParentId": "f3fbaae7-fe20-5ab8-b6f5-11061d27850b",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "69c18ed2-729b-514d-bfd0-70ebad475130"
+    ]
+  },
+  {
+    "Id": "ae2684c3-0c3a-5cb2-9fba-41544fb19907",
+    "DisplayName": "Executive Management office",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "4f93aaca-c39c-548f-b73a-a943071a4e21"
+    ]
+  },
+  {
+    "Id": "74cce26b-b10a-5bc3-82b1-b42c30bbc317",
+    "DisplayName": "Facility",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "fa134cda-6d0a-5262-bccf-eab255ecb683"
+    ]
+  },
+  {
+    "Id": "dcab5bdc-9ac0-57cf-8164-6693ec19843d",
+    "DisplayName": "Facility",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "US10",
+    "HierarchyParentId": "f3fbaae7-fe20-5ab8-b6f5-11061d27850b",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "fbb7d08f-836b-5562-a5d2-c235347dbe55"
+    ]
+  },
+  {
+    "Id": "906d6a2d-adba-54fa-8bf8-358039457753",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "c04e3cd0-b697-5ea3-adbc-9a4ee3d1ffed"
+    ]
+  },
+  {
+    "Id": "76ff0461-bf38-587a-9d5f-7488381d4f5d",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "MY10",
+    "HierarchyParentId": "d4a05052-fe9d-5734-a2f1-1ecf1f66f1e1",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "d743d410-5a71-5671-874a-f16039bb4784"
+    ]
+  },
+  {
+    "Id": "63bc285e-7dd5-5d5e-8e34-3800a78c7899",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "NL10",
+    "HierarchyParentId": "aa952226-7de6-5417-a7e0-7c82d21d3a47",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "fcb44b4f-77a2-5507-9c98-df9a6878cbe0"
+    ]
+  },
+  {
+    "Id": "e2497b32-b087-54ec-a518-6fa3e685b5ab",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "6444cbdd-fe6b-5cfc-96f8-fba04a1f9f3d",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "4eac076a-2014-51f0-b6c1-a5a5889d87de"
+    ]
+  },
+  {
+    "Id": "5a12fd4c-3e7a-58d7-b31f-852d525d7006",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "PL10",
+    "HierarchyParentId": "e7c2de2f-2144-5525-a7fe-b9d1b1615eaa",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "6371b08a-e84d-5d56-a1d7-1b7e6a306df0"
+    ]
+  },
+  {
+    "Id": "083f2b24-57a5-5941-82b2-d5c0d3051706",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "08c2b871-0bbe-5d68-9467-ad3073add070",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "3ad3a413-bc3a-58c1-a37d-ebbcb1876f96"
+    ]
+  },
+  {
+    "Id": "23318997-71ed-55a5-8b28-5edc05571124",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "US10",
+    "HierarchyParentId": "f3fbaae7-fe20-5ab8-b6f5-11061d27850b",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "2d25ff53-f81d-576d-948c-6dae62886a53"
+    ]
+  },
+  {
+    "Id": "dda0c4b7-9582-5e6a-8bd9-309a55052598",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "AT10",
+    "HierarchyParentId": "b8bcf0e0-64b9-5523-b584-21e866dabcef",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "018377c9-d318-5c8d-9f57-20fbdca7ee24"
+    ]
+  },
+  {
+    "Id": "87ebb57a-b5ab-5710-aef1-f25a314ebbfe",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "CA10",
+    "HierarchyParentId": "954785cb-b89d-59dc-8a0f-4ddd3c4f33a6",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "c0624e6e-7ec5-55b5-a207-24ec8b6d3ad8"
+    ]
+  },
+  {
+    "Id": "64a99eac-bae7-5c98-8291-9c3bee46973a",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "590c2427-7bac-5e7f-887c-85dcfed1396c",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "6c09e52e-254e-5173-8222-b61dd879f409"
+    ]
+  },
+  {
+    "Id": "effb44dc-1ced-537f-9bce-36c16e3f522c",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "CN10",
+    "HierarchyParentId": "6cf8b2ab-ab87-5f2e-9e3a-9216bf6a8201",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "d68537bc-0ae2-5ab2-95f7-c10902b37f02"
+    ]
+  },
+  {
+    "Id": "a7a48882-0f22-546a-a890-8d622fb0b86e",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DE10",
+    "HierarchyParentId": "771b351e-03f9-5eb8-8661-044d5ee7d175",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "23c50e0e-a537-5699-ba0a-068a09ef181a"
+    ]
+  },
+  {
+    "Id": "58e534fa-95c5-5326-b3b6-895e38dc937c",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "04e59356-ceda-572b-ba8d-8a177a0936e8",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "ccadfa19-6006-5c5b-9453-36a78ad050dd"
+    ]
+  },
+  {
+    "Id": "0353922e-cef3-505c-b7f3-f4bf7bc4c390",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "FI10",
+    "HierarchyParentId": "d0cef97a-8e7a-52c4-b608-21a342e61be3",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "85afa175-a4ce-5827-839a-7c0424f5207a"
+    ]
+  },
+  {
+    "Id": "e6f3f786-d6ab-5f7b-b930-a18cf7149f80",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "30660aba-6782-5c78-83b0-9a2cc050891c",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "bf0facf0-29d4-5cca-9821-6d24600959a3"
+    ]
+  },
+  {
+    "Id": "a86db89c-8979-5137-8912-68d3e6c2ae4a",
+    "DisplayName": "Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "IT10",
+    "HierarchyParentId": "1520f86b-8ec3-5240-82e6-476b5816600e",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "a55ddbd8-9597-5bf2-9d02-a4d68debef6c"
+    ]
+  },
+  {
+    "Id": "8d7ae436-eee3-5cb6-99ff-7984c1cd608e",
+    "DisplayName": "Commercial & Legal Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "c147b2b0-d608-57f2-9cdd-bcde2adfc2eb"
+    ]
+  },
+  {
+    "Id": "a26253cc-0642-5535-84f6-ef8db8204a83",
+    "DisplayName": "People & Culture",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "1a4a49fe-9d2a-555f-89ff-fa043bc99a56"
+    ]
+  },
+  {
+    "Id": "0c33cc76-84e4-5085-a49d-a5a2a7015199",
+    "DisplayName": "People & Culture",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "04e59356-ceda-572b-ba8d-8a177a0936e8",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "57d58058-a191-5c48-b968-e6534bfe55db"
+    ]
+  },
+  {
+    "Id": "691739e5-6540-532a-9041-4f7b5aaafe98",
+    "DisplayName": "People & Culture",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "08c2b871-0bbe-5d68-9467-ad3073add070",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "959dca32-6da9-5b88-b057-c100c6833116"
+    ]
+  },
+  {
+    "Id": "3d102cca-64ae-5a56-ad23-8899e56738f4",
+    "DisplayName": "People & Culture",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "US10",
+    "HierarchyParentId": "f3fbaae7-fe20-5ab8-b6f5-11061d27850b",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "44c10ece-567f-54bc-bd76-d6428d7bf4e1"
+    ]
+  },
+  {
+    "Id": "b8865809-6325-518c-b5f9-3844f8a82469",
+    "DisplayName": "Quality & Sustainability",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "4613ff50-1b12-574c-9978-7a071ee34f1d"
+    ]
+  },
+  {
+    "Id": "a8b1fcc2-a54f-5c2e-9aad-7fb167438aeb",
+    "DisplayName": "Water",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "US10",
+    "HierarchyParentId": "f3fbaae7-fe20-5ab8-b6f5-11061d27850b",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "b04360a0-788e-5b81-94d9-eedaccc7d235",
+      "7a4d189d-1863-557b-b284-af4991f6b84e"
+    ]
+  },
+  {
+    "Id": "5cc6ca82-7272-58e3-a364-38336402324e",
+    "DisplayName": "Water",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "30660aba-6782-5c78-83b0-9a2cc050891c",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "8485cff1-5d64-5655-b5bf-e5d8271896b5"
+    ]
+  },
+  {
+    "Id": "7654fc60-6fb6-53c3-b6f3-89957b6e4689",
+    "DisplayName": "Water",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "170e3e3b-e088-5b8f-ac4f-3958779e1d78",
+      "db70c4f5-90bb-5649-ad55-0344d4f6bf86",
+      "7f459158-2d45-59d5-987f-fdd86736b8a4",
+      "886bac7c-d1e8-5db2-a79d-4be65467fe04",
+      "ee5b8a33-ecf1-5e15-9fbd-650b3c3d3bdc"
+    ]
+  },
+  {
+    "Id": "7ad22541-0e9d-57f9-a6c2-baa914230019",
+    "DisplayName": "Water",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "04e59356-ceda-572b-ba8d-8a177a0936e8",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "917258ba-7cf9-5419-b4af-2719f2126889"
+    ]
+  },
+  {
+    "Id": "4b6d491f-0c95-5bac-b96b-adf365e9c611",
+    "DisplayName": "Water",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "08c2b871-0bbe-5d68-9467-ad3073add070",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "a48989f4-e8e3-5d3b-8c49-fb75eb09f69f"
+    ]
+  },
+  {
+    "Id": "7558f6a5-94b4-5658-9bb8-86426fe0d81f",
+    "DisplayName": "Heat & Cooling",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "0c403674-2523-52de-abe7-bfaabec5f6a4",
+      "4dc7801b-5ec2-5280-8c5d-b76041ddcfcb",
+      "17d033dc-4c1c-5149-8416-b973e7ebb26c",
+      "8e992b6e-887c-5c44-990d-be5f6b6838e6",
+      "580f9173-31bb-518b-a359-b3b9378418a0"
+    ]
+  },
+  {
+    "Id": "f2af78e0-aa2f-5fa2-958f-d10f55210ecf",
+    "DisplayName": "Heat & Cooling",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "04e59356-ceda-572b-ba8d-8a177a0936e8",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "76877dcf-e990-57f4-801b-aaee48a96153"
+    ]
+  },
+  {
+    "Id": "a9246590-fde1-5e78-b01e-122f32ee246a",
+    "DisplayName": "Heat & Cooling",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "08c2b871-0bbe-5d68-9467-ad3073add070",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "9581f353-1d5a-506f-9109-11ef39381395"
+    ]
+  },
+  {
+    "Id": "59f47824-f9d8-51a1-8eef-d58baed1b535",
+    "DisplayName": "Electricity",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "2f9a9681-b82b-5068-9756-7bf42ab10b03",
+      "28b3d6e1-e428-5562-a35d-378d7de3d684",
+      "de4cb1d6-f37b-5ffa-a750-ed8060054e44",
+      "bf16b329-1a9e-5f5e-b367-6e7129e5800f",
+      "bf26ad8b-337f-5cf6-a047-a7772f1f9fc8"
+    ]
+  },
+  {
+    "Id": "bc37a412-9521-5f67-a631-80ea6e590ccc",
+    "DisplayName": "Electricity",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "AT10",
+    "HierarchyParentId": "b8bcf0e0-64b9-5523-b584-21e866dabcef",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "7d81ea39-2d14-5e50-aa5b-6ec118249f73"
+    ]
+  },
+  {
+    "Id": "f9bacdcc-50c4-5e59-8328-6ede28f4f0b3",
+    "DisplayName": "Electricity",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "08c2b871-0bbe-5d68-9467-ad3073add070",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "7c698ad1-ce45-5e16-8016-e22af4844a0b",
+      "ece89fd6-45ac-56d7-a3b8-08a884a1ce9a"
+    ]
+  },
+  {
+    "Id": "b95fe924-5ded-5af2-978f-e4576b007556",
+    "DisplayName": "All",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "e0c2d724-e8d6-5112-aa8b-b4af3e328ed6"
+    ]
+  },
+  {
+    "Id": "58423212-cafe-58ed-a106-0656531e36b7",
+    "DisplayName": "Unknown",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "BusinessUnit",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "63f055b7-616b-546f-be8a-60f16a99c187",
+    "HierarchyLevel": 2,
+    "HierarchyChildrenIds": [
+      "55b78744-5949-5ab0-878b-ecc9075f8758"
+    ]
+  },
+  {
+    "Id": "f653082f-8b42-5912-a82b-1e9e53a5e19e",
+    "DisplayName": "Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "3808066e-6cff-5ad7-b42b-0640960f8977",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "ff362d38-9feb-5ee8-bce6-64fd38a45c57"
+    ]
+  },
+  {
+    "Id": "295656b6-42c0-577c-a5b7-332e8ae08c86",
+    "DisplayName": "CH_Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "190bfba9-1492-5490-b86f-1fef0be0fcb1",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "b50dfee3-20a2-5d07-b212-4cb2fcb160c4"
+    ]
+  },
+  {
+    "Id": "ba1a6941-e67e-58f8-b9a4-48af286f9b3d",
+    "DisplayName": "CH_Customer Services (Project & Support)",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "1ac72a8d-a739-557c-b602-bfdbff567e42",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "a1878fb6-dd52-5d77-a0b0-8ccf28f89800"
+    ]
+  },
+  {
+    "Id": "799d999c-48be-532e-b31a-98b81a4faefb",
+    "DisplayName": "ES_Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "88d13f6f-574b-5ee0-b860-438912fe56db",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "0df40497-dbc8-5341-89ac-30a357a1ca9d"
+    ]
+  },
+  {
+    "Id": "4c22ec4e-cb0f-50ff-96ad-78d6c3c32fa9",
+    "DisplayName": "ES_Customer Service",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "6bf26f05-1ba8-5d5a-ac54-b304f100b1ef",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "339e1b52-64e9-5bed-8650-97b7573ba9bb"
+    ]
+  },
+  {
+    "Id": "12b6e048-195c-513b-8d1d-bb3c0cdd3877",
+    "DisplayName": "FR_Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "64129111-48bf-5cd6-8ffc-1a467b838ee1",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "34c1ccbe-547b-5316-ad5d-8a7ffde25a8d"
+    ]
+  },
+  {
+    "Id": "d0406f42-0a85-544d-9a78-c1af77462cf5",
+    "DisplayName": "NL_Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "NL10",
+    "HierarchyParentId": "6a772bc6-5b88-55c0-bc1f-21f0dcf4c889",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "20cc3f1b-2f22-59f9-9ff6-3e50a0075214"
+    ]
+  },
+  {
+    "Id": "2c2412c4-d848-5816-8512-a3a0462cc9bf",
+    "DisplayName": "NO_Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "03b1a4b6-a292-5412-b813-692459f0ed41",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "85991290-9885-525a-9acf-23821283adeb"
+    ]
+  },
+  {
+    "Id": "b629b16e-a80d-5ad2-a03d-6b636731d479",
+    "DisplayName": "SE_Sales & Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "bd0a1dc8-ba66-53ba-9fff-cb47a915c4d4",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "78e53dce-cb40-5f81-a3ca-fbb9ba6e22b0"
+    ]
+  },
+  {
+    "Id": "ebbcf13d-639b-5cb3-98b4-5f34c3bc535f",
+    "DisplayName": "NO_Customer Service",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "e2a9de2e-9a08-5b6a-a500-a490f0c841ff",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "ce75eb77-8dce-5c17-a395-fc5904f234c0"
+    ]
+  },
+  {
+    "Id": "8c0dac99-87b1-5f71-ab5a-6299abd91655",
+    "DisplayName": "Supply Chain",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "96411738-deb0-5cd7-af2b-2bd8ef3e8eff",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "a6a678ed-1d9d-5cb1-b994-8aa8c4ad410d"
+    ]
+  },
+  {
+    "Id": "2b61d327-145c-519b-ab4e-bbbc7e59334c",
+    "DisplayName": "DK_Digitalization_Customer Operations",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "956c9555-8e3f-5abe-a916-c12ca26d0f42",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "d61ea89e-67a2-56fb-88da-028959043382"
+    ]
+  },
+  {
+    "Id": "ebc85090-495b-5149-98b8-e3b36e2578a9",
+    "DisplayName": "DK_Digitalization_ Digital Business Development & Transformation",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "956c9555-8e3f-5abe-a916-c12ca26d0f42",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "31ace86d-2f0f-56cc-b66c-e686abd380a2"
+    ]
+  },
+  {
+    "Id": "5f006d84-459e-5c60-b882-78f4d62db4a4",
+    "DisplayName": "DK_Digitalization_EA, Infrastructure and Platforms",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "956c9555-8e3f-5abe-a916-c12ca26d0f42",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "088cdc55-2188-53e4-9081-5237768fce93"
+    ]
+  },
+  {
+    "Id": "3575633b-480a-5211-875e-1b4365d4fa1c",
+    "DisplayName": "DK_Digitalization_ECS",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "956c9555-8e3f-5abe-a916-c12ca26d0f42",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "2123c0b9-15e2-5fc4-8004-1f6c7251ed51"
+    ]
+  },
+  {
+    "Id": "1a32996e-7c4a-596a-9cea-52570e8affbf",
+    "DisplayName": "DK_Digitalization_Kamstrup Solutions",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "956c9555-8e3f-5abe-a916-c12ca26d0f42",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "77465899-4dd1-50c8-b8df-0db224db92ad"
+    ]
+  },
+  {
+    "Id": "9a50ea4d-39ba-52c0-95bf-fe75485a0edd",
+    "DisplayName": "DK_Digitalization_Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "956c9555-8e3f-5abe-a916-c12ca26d0f42",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "d313460a-f279-5502-92a7-3ffef8f3dfbc"
+    ]
+  },
+  {
+    "Id": "44c5edd5-5ea0-5a4f-a67a-f993fdae4e5d",
+    "DisplayName": "FR_Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "44f2d278-473a-5678-9b12-c562d8013bf4",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "fa797a92-77c9-5dfe-9f4d-81a64ab332f7"
+    ]
+  },
+  {
+    "Id": "becc3cdb-95f4-55f7-8aa8-5718048e5778",
+    "DisplayName": "ES_Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "757295b0-533c-5fdb-800e-9e772fec6ce6",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "a67db035-2d71-5207-a30d-5860259bf5ea"
+    ]
+  },
+  {
+    "Id": "1090547b-e9dc-52b6-aa7e-0132b436f19e",
+    "DisplayName": "SE_Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "bc7eb54e-1e69-5f19-80d7-f46a90ff5e09",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "cb1f785b-bb72-504e-b708-1cc3877ae7bc"
+    ]
+  },
+  {
+    "Id": "69c18ed2-729b-514d-bfd0-70ebad475130",
+    "DisplayName": "US_Digitalization",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "US10",
+    "HierarchyParentId": "fbf79f27-4f97-5a91-990d-113b9924f91a",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "22395c9f-597b-5857-8f9d-ab896fa0d205"
+    ]
+  },
+  {
+    "Id": "4f93aaca-c39c-548f-b73a-a943071a4e21",
+    "DisplayName": "DK_Executive Management office_Executive Management office",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "ae2684c3-0c3a-5cb2-9fba-41544fb19907",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "05319fbf-fc07-5369-9746-113b6f7d22ce"
+    ]
+  },
+  {
+    "Id": "fa134cda-6d0a-5262-bccf-eab255ecb683",
+    "DisplayName": "DK_Facility",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "74cce26b-b10a-5bc3-82b1-b42c30bbc317",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "32c0f338-2f35-5d79-983a-a13cb572c031"
+    ]
+  },
+  {
+    "Id": "fbb7d08f-836b-5562-a5d2-c235347dbe55",
+    "DisplayName": "US_Facility",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "US10",
+    "HierarchyParentId": "dcab5bdc-9ac0-57cf-8164-6693ec19843d",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "d92316a6-3715-5a5f-894c-a47c189d7d9b"
+    ]
+  },
+  {
+    "Id": "c04e3cd0-b697-5ea3-adbc-9a4ee3d1ffed",
+    "DisplayName": "DK_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "906d6a2d-adba-54fa-8bf8-358039457753",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "f70de8b5-c1f7-54cf-90b6-bf321026df63"
+    ]
+  },
+  {
+    "Id": "d743d410-5a71-5671-874a-f16039bb4784",
+    "DisplayName": "MY_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "MY10",
+    "HierarchyParentId": "76ff0461-bf38-587a-9d5f-7488381d4f5d",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "a8928db5-8426-5449-a669-d8e67856635e"
+    ]
+  },
+  {
+    "Id": "fcb44b4f-77a2-5507-9c98-df9a6878cbe0",
+    "DisplayName": "NL_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "NL10",
+    "HierarchyParentId": "63bc285e-7dd5-5d5e-8e34-3800a78c7899",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "60de9da3-1e47-5b33-a3cb-709ce4d6aa50"
+    ]
+  },
+  {
+    "Id": "4eac076a-2014-51f0-b6c1-a5a5889d87de",
+    "DisplayName": "NO_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "e2497b32-b087-54ec-a518-6fa3e685b5ab",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "0084d43d-159f-53c9-9448-2422129dbb56"
+    ]
+  },
+  {
+    "Id": "6371b08a-e84d-5d56-a1d7-1b7e6a306df0",
+    "DisplayName": "PL_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "PL10",
+    "HierarchyParentId": "5a12fd4c-3e7a-58d7-b31f-852d525d7006",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "de944c23-5041-59f2-820a-d8e8db873e96"
+    ]
+  },
+  {
+    "Id": "3ad3a413-bc3a-58c1-a37d-ebbcb1876f96",
+    "DisplayName": "SE_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "083f2b24-57a5-5941-82b2-d5c0d3051706",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "bd57a1cf-54b0-57b4-806d-e778b648c867"
+    ]
+  },
+  {
+    "Id": "2d25ff53-f81d-576d-948c-6dae62886a53",
+    "DisplayName": "US_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "US10",
+    "HierarchyParentId": "23318997-71ed-55a5-8b28-5edc05571124",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "534e7239-be10-5ac2-ba38-331ca97c93c1"
+    ]
+  },
+  {
+    "Id": "018377c9-d318-5c8d-9f57-20fbdca7ee24",
+    "DisplayName": "AT_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "AT10",
+    "HierarchyParentId": "dda0c4b7-9582-5e6a-8bd9-309a55052598",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "ed2d202c-dc4f-5083-94b0-f972b267767d"
+    ]
+  },
+  {
+    "Id": "c0624e6e-7ec5-55b5-a207-24ec8b6d3ad8",
+    "DisplayName": "CA_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "CA10",
+    "HierarchyParentId": "87ebb57a-b5ab-5710-aef1-f25a314ebbfe",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "141448b7-f4e5-55bf-ba40-2ae68c235291"
+    ]
+  },
+  {
+    "Id": "6c09e52e-254e-5173-8222-b61dd879f409",
+    "DisplayName": "CH_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "64a99eac-bae7-5c98-8291-9c3bee46973a",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "42381da6-ec18-5662-a076-404ce1b19236"
+    ]
+  },
+  {
+    "Id": "d68537bc-0ae2-5ab2-95f7-c10902b37f02",
+    "DisplayName": "CN_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "CN10",
+    "HierarchyParentId": "effb44dc-1ced-537f-9bce-36c16e3f522c",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "3df24211-1626-5f77-8472-d5e3f66f48f4"
+    ]
+  },
+  {
+    "Id": "23c50e0e-a537-5699-ba0a-068a09ef181a",
+    "DisplayName": "DE_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DE10",
+    "HierarchyParentId": "a7a48882-0f22-546a-a890-8d622fb0b86e",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "0db1ccd0-487b-5c86-99be-e0ce52d546b6"
+    ]
+  },
+  {
+    "Id": "ccadfa19-6006-5c5b-9453-36a78ad050dd",
+    "DisplayName": "ES_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "58e534fa-95c5-5326-b3b6-895e38dc937c",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "42a55c84-35d2-5162-85aa-eab7e4360fe0"
+    ]
+  },
+  {
+    "Id": "85afa175-a4ce-5827-839a-7c0424f5207a",
+    "DisplayName": "FI_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "FI10",
+    "HierarchyParentId": "0353922e-cef3-505c-b7f3-f4bf7bc4c390",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "874eb5f6-d36d-5a6e-90b0-683c0bfeebdb"
+    ]
+  },
+  {
+    "Id": "bf0facf0-29d4-5cca-9821-6d24600959a3",
+    "DisplayName": "FR_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "e6f3f786-d6ab-5f7b-b930-a18cf7149f80",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "f0725a83-4c4f-543d-9e09-115e623e6cf4"
+    ]
+  },
+  {
+    "Id": "a55ddbd8-9597-5bf2-9d02-a4d68debef6c",
+    "DisplayName": "IT_Finance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "IT10",
+    "HierarchyParentId": "a86db89c-8979-5137-8912-68d3e6c2ae4a",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "e82a27a8-4599-5096-b76f-222307d30f65"
+    ]
+  },
+  {
+    "Id": "c147b2b0-d608-57f2-9cdd-bcde2adfc2eb",
+    "DisplayName": "Commercial & Legal Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "8d7ae436-eee3-5cb6-99ff-7984c1cd608e",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "569b166c-3c61-522e-b460-dd1387478781"
+    ]
+  },
+  {
+    "Id": "1a4a49fe-9d2a-555f-89ff-fa043bc99a56",
+    "DisplayName": "DK_People & Culture",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "a26253cc-0642-5535-84f6-ef8db8204a83",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "49d54594-cd3f-5e63-b021-9a353c7f2244"
+    ]
+  },
+  {
+    "Id": "57d58058-a191-5c48-b968-e6534bfe55db",
+    "DisplayName": "ES_People & Culture",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "0c33cc76-84e4-5085-a49d-a5a2a7015199",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "d7d86217-b40a-50e5-9355-3a12b4befd77"
+    ]
+  },
+  {
+    "Id": "959dca32-6da9-5b88-b057-c100c6833116",
+    "DisplayName": "SE_People & Culture",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "691739e5-6540-532a-9041-4f7b5aaafe98",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "3e96d7cf-b6d5-5750-9e21-158ace05ae27"
+    ]
+  },
+  {
+    "Id": "44c10ece-567f-54bc-bd76-d6428d7bf4e1",
+    "DisplayName": "US_People & Culture",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "US10",
+    "HierarchyParentId": "3d102cca-64ae-5a56-ad23-8899e56738f4",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "becb2708-7c8a-5a6f-aaa5-ebfa1e2587a8"
+    ]
+  },
+  {
+    "Id": "4613ff50-1b12-574c-9978-7a071ee34f1d",
+    "DisplayName": "Quality & Sustainability",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "b8865809-6325-518c-b5f9-3844f8a82469",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "e8c3039c-4fbe-52c8-9fb1-490041b1b57e"
+    ]
+  },
+  {
+    "Id": "b04360a0-788e-5b81-94d9-eedaccc7d235",
+    "DisplayName": "Product Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "US10",
+    "HierarchyParentId": "a8b1fcc2-a54f-5c2e-9aad-7fb167438aeb",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "2ddad3eb-a2bf-5bcf-9b38-bbba1278cec8"
+    ]
+  },
+  {
+    "Id": "8485cff1-5d64-5655-b5bf-e5d8271896b5",
+    "DisplayName": "FR_Product Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "5cc6ca82-7272-58e3-a364-38336402324e",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "47a9a36f-e4ad-573d-9f08-5e83a026b2a8"
+    ]
+  },
+  {
+    "Id": "7a4d189d-1863-557b-b284-af4991f6b84e",
+    "DisplayName": "Customer Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "US10",
+    "HierarchyParentId": "a8b1fcc2-a54f-5c2e-9aad-7fb167438aeb",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "438dbc96-aff9-548a-a54b-170722dff0e7"
+    ]
+  },
+  {
+    "Id": "608d197e-653c-5328-bd5f-722cbb3e9763",
+    "DisplayName": "FR_Customer Service & Support",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "64129111-48bf-5cd6-8ffc-1a467b838ee1",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "efbb8d9f-8eac-5ab6-9de1-30cccf9e9a11"
+    ]
+  },
+  {
+    "Id": "170e3e3b-e088-5b8f-ac4f-3958779e1d78",
+    "DisplayName": "Water",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7654fc60-6fb6-53c3-b6f3-89957b6e4689",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "35afb8bb-c28a-5489-891a-9d4442e81799"
+    ]
+  },
+  {
+    "Id": "db70c4f5-90bb-5649-ad55-0344d4f6bf86",
+    "DisplayName": "Water - Product Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7654fc60-6fb6-53c3-b6f3-89957b6e4689",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "0c8943e4-6b60-5e29-a9e0-0f445e49a3b4"
+    ]
+  },
+  {
+    "Id": "7f459158-2d45-59d5-987f-fdd86736b8a4",
+    "DisplayName": "Water - Technology Hardware",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7654fc60-6fb6-53c3-b6f3-89957b6e4689",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "a2f1b7dc-299b-54bf-b975-86529bf7cc07"
+    ]
+  },
+  {
+    "Id": "886bac7c-d1e8-5db2-a79d-4be65467fe04",
+    "DisplayName": "Water - Technology Software",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7654fc60-6fb6-53c3-b6f3-89957b6e4689",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "83b7c0fa-1e89-51ee-9d23-e0d4503dfcd1"
+    ]
+  },
+  {
+    "Id": "917258ba-7cf9-5419-b4af-2719f2126889",
+    "DisplayName": "ES_Water - Technology Software",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "7ad22541-0e9d-57f9-a6c2-baa914230019",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "104411d8-ddfc-5038-bbe3-baad50291e73"
+    ]
+  },
+  {
+    "Id": "ee5b8a33-ecf1-5e15-9fbd-650b3c3d3bdc",
+    "DisplayName": "Water - Customer Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7654fc60-6fb6-53c3-b6f3-89957b6e4689",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "edde68ee-8a1c-5a37-ba49-feed39f11b69"
+    ]
+  },
+  {
+    "Id": "a48989f4-e8e3-5d3b-8c49-fb75eb09f69f",
+    "DisplayName": "SE_Water_Customer Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "4b6d491f-0c95-5bac-b96b-adf365e9c611",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "240d2a6f-8b2f-576a-b03d-8d704d4a17a2"
+    ]
+  },
+  {
+    "Id": "0c403674-2523-52de-abe7-bfaabec5f6a4",
+    "DisplayName": "Heat/Cooling",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7558f6a5-94b4-5658-9bb8-86426fe0d81f",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "94623c88-47c9-55af-b757-2b67a61a3f49"
+    ]
+  },
+  {
+    "Id": "4dc7801b-5ec2-5280-8c5d-b76041ddcfcb",
+    "DisplayName": "Heat/Cooling - Product Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7558f6a5-94b4-5658-9bb8-86426fe0d81f",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "b1d66691-56fe-55fb-b0d1-5e04b90736c6"
+    ]
+  },
+  {
+    "Id": "17d033dc-4c1c-5149-8416-b973e7ebb26c",
+    "DisplayName": "Heat/Cooling - Technology Hardware",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7558f6a5-94b4-5658-9bb8-86426fe0d81f",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "58cbeeeb-f7fa-5930-9b8e-7a03cd911803"
+    ]
+  },
+  {
+    "Id": "8e992b6e-887c-5c44-990d-be5f6b6838e6",
+    "DisplayName": "Heat/Cooling - Technology Software",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7558f6a5-94b4-5658-9bb8-86426fe0d81f",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "db56fd80-822b-5519-9eaf-aebd94a49c85"
+    ]
+  },
+  {
+    "Id": "76877dcf-e990-57f4-801b-aaee48a96153",
+    "DisplayName": "ES_Heat/Cooling - Technology Software",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "f2af78e0-aa2f-5fa2-958f-d10f55210ecf",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "aa9b4240-e11b-50c9-a569-dd6257a62fc6"
+    ]
+  },
+  {
+    "Id": "580f9173-31bb-518b-a359-b3b9378418a0",
+    "DisplayName": "Heat/Cooling - Customer Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7558f6a5-94b4-5658-9bb8-86426fe0d81f",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "4dc052eb-23e5-5d0c-acd4-68e12faea08b"
+    ]
+  },
+  {
+    "Id": "9581f353-1d5a-506f-9109-11ef39381395",
+    "DisplayName": "SE_Heat/Cooling_Customer Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "a9246590-fde1-5e78-b01e-122f32ee246a",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "d4be538c-7937-5c2f-b14a-fcc3ee678807"
+    ]
+  },
+  {
+    "Id": "2f9a9681-b82b-5068-9756-7bf42ab10b03",
+    "DisplayName": "Denmark-Electricity-Electricity",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "59f47824-f9d8-51a1-8eef-d58baed1b535",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "8ae68008-9433-5ca4-991f-0b1f64fcf8a8"
+    ]
+  },
+  {
+    "Id": "7d81ea39-2d14-5e50-aa5b-6ec118249f73",
+    "DisplayName": "Austria-Electricity-Electricity",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "AT10",
+    "HierarchyParentId": "bc37a412-9521-5f67-a631-80ea6e590ccc",
+    "HierarchyLevel": 3,
+    "HierarchyChildrenIds": [
+      "671106d4-1e93-52ac-b4c0-a538744c330a"
+    ]
+  },
+  {
+    "Id": "7c698ad1-ce45-5e16-8016-e22af4844a0b",
+    "DisplayName": "Sweden-Electricity-Electricity",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "f9bacdcc-50c4-5e59-8328-6ede28f4f0b3",
+    "HierarchyLevel": 3
+  },
+  {
+    "Id": "28b3d6e1-e428-5562-a35d-378d7de3d684",
+    "DisplayName": "Electricity - Product Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "59f47824-f9d8-51a1-8eef-d58baed1b535",
+    "HierarchyLevel": 3
+  },
+  {
+    "Id": "de4cb1d6-f37b-5ffa-a750-ed8060054e44",
+    "DisplayName": "Electricity - Technology Hardware",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "59f47824-f9d8-51a1-8eef-d58baed1b535",
+    "HierarchyLevel": 3
+  },
+  {
+    "Id": "bf16b329-1a9e-5f5e-b367-6e7129e5800f",
+    "DisplayName": "Electricity - Technology Software",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "59f47824-f9d8-51a1-8eef-d58baed1b535",
+    "HierarchyLevel": 3
+  },
+  {
+    "Id": "bf26ad8b-337f-5cf6-a047-a7772f1f9fc8",
+    "DisplayName": "Electricity - Customer Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "59f47824-f9d8-51a1-8eef-d58baed1b535",
+    "HierarchyLevel": 3
+  },
+  {
+    "Id": "ece89fd6-45ac-56d7-a3b8-08a884a1ce9a",
+    "DisplayName": "SE_Electricity_Customer Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "f9bacdcc-50c4-5e59-8328-6ede28f4f0b3",
+    "HierarchyLevel": 3
+  },
+  {
+    "Id": "e0c2d724-e8d6-5112-aa8b-b4af3e328ed6",
+    "DisplayName": "All",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "b95fe924-5ded-5af2-978f-e4576b007556",
+    "HierarchyLevel": 3
+  },
+  {
+    "Id": "55b78744-5949-5ab0-878b-ecc9075f8758",
+    "DisplayName": "Unknown",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Department",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "58423212-cafe-58ed-a106-0656531e36b7",
+    "HierarchyLevel": 3
+  },
+  {
+    "Id": "ff362d38-9feb-5ee8-bce6-64fd38a45c57",
+    "DisplayName": "Business Development",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "f653082f-8b42-5912-a82b-1e9e53a5e19e",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "b50dfee3-20a2-5d07-b212-4cb2fcb160c4",
+    "DisplayName": "Project Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "295656b6-42c0-577c-a5b7-332e8ae08c86",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "a1878fb6-dd52-5d77-a0b0-8ccf28f89800",
+    "DisplayName": "H/C Meters",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "ba1a6941-e67e-58f8-b9a4-48af286f9b3d",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "0df40497-dbc8-5341-89ac-30a357a1ca9d",
+    "DisplayName": "Concentrators",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "799d999c-48be-532e-b31a-98b81a4faefb",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "339e1b52-64e9-5bed-8650-97b7573ba9bb",
+    "DisplayName": "Tech. Lead",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "4c22ec4e-cb0f-50ff-96ad-78d6c3c32fa9",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "34c1ccbe-547b-5316-ad5d-8a7ffde25a8d",
+    "DisplayName": "Embeded Software",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "12b6e048-195c-513b-8d1d-bb3c0cdd3877",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "20cc3f1b-2f22-59f9-9ff6-3e50a0075214",
+    "DisplayName": "Hardware",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "NL10",
+    "HierarchyParentId": "d0406f42-0a85-544d-9a78-c1af77462cf5",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "85991290-9885-525a-9acf-23821283adeb",
+    "DisplayName": "FW",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "2c2412c4-d848-5816-8512-a3a0462cc9bf",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "78e53dce-cb40-5f81-a3ca-fbb9ba6e22b0",
+    "DisplayName": "Tech",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "b629b16e-a80d-5ad2-a03d-6b636731d479",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "ce75eb77-8dce-5c17-a395-fc5904f234c0",
+    "DisplayName": "Mech",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "ebbcf13d-639b-5cb3-98b4-5f34c3bc535f",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "a6a678ed-1d9d-5cb1-b994-8aa8c4ad410d",
+    "DisplayName": "Tools & Apps",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "8c0dac99-87b1-5f71-ab5a-6299abd91655",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "d61ea89e-67a2-56fb-88da-028959043382",
+    "DisplayName": "TPM",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "2b61d327-145c-519b-ab4e-bbbc7e59334c",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "31ace86d-2f0f-56cc-b66c-e686abd380a2",
+    "DisplayName": "Compliance",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "ebc85090-495b-5149-98b8-e3b36e2578a9",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "088cdc55-2188-53e4-9081-5237768fce93",
+    "DisplayName": "MPM",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "5f006d84-459e-5c60-b882-78f4d62db4a4",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "2123c0b9-15e2-5fc4-8004-1f6c7251ed51",
+    "DisplayName": "PPM",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "3575633b-480a-5211-875e-1b4365d4fa1c",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "77465899-4dd1-50c8-b8df-0db224db92ad",
+    "DisplayName": "DSI",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "1a32996e-7c4a-596a-9cea-52570e8affbf",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "d313460a-f279-5502-92a7-3ffef8f3dfbc",
+    "DisplayName": "BA",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "9a50ea4d-39ba-52c0-95bf-fe75485a0edd",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "fa797a92-77c9-5dfe-9f4d-81a64ab332f7",
+    "DisplayName": "IOT Solutions",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "44c5edd5-5ea0-5a4f-a67a-f993fdae4e5d",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "a67db035-2d71-5207-a30d-5860259bf5ea",
+    "DisplayName": "Product Service",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "becc3cdb-95f4-55f7-8aa8-5718048e5778",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "cb1f785b-bb72-504e-b708-1cc3877ae7bc",
+    "DisplayName": "Sourcing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "1090547b-e9dc-52b6-aa7e-0132b436f19e",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "22395c9f-597b-5857-8f9d-ab896fa0d205",
+    "DisplayName": "Manufactoring Software",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "US10",
+    "HierarchyParentId": "69c18ed2-729b-514d-bfd0-70ebad475130",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "05319fbf-fc07-5369-9746-113b6f7d22ce",
+    "DisplayName": "Software",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "4f93aaca-c39c-548f-b73a-a943071a4e21",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "32c0f338-2f35-5d79-983a-a13cb572c031",
+    "DisplayName": "Data Sceince",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "fa134cda-6d0a-5262-bccf-eab255ecb683",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "d92316a6-3715-5a5f-894c-a47c189d7d9b",
+    "DisplayName": "Sales",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "US10",
+    "HierarchyParentId": "fbb7d08f-836b-5562-a5d2-c235347dbe55",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "f70de8b5-c1f7-54cf-90b6-bf321026df63",
+    "DisplayName": "Internal Sales",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "c04e3cd0-b697-5ea3-adbc-9a4ee3d1ffed",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "a8928db5-8426-5449-a669-d8e67856635e",
+    "DisplayName": "Sales Operation",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "MY10",
+    "HierarchyParentId": "d743d410-5a71-5671-874a-f16039bb4784",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "60de9da3-1e47-5b33-a3cb-709ce4d6aa50",
+    "DisplayName": "Customer Service",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "NL10",
+    "HierarchyParentId": "fcb44b4f-77a2-5507-9c98-df9a6878cbe0",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "0084d43d-159f-53c9-9448-2422129dbb56",
+    "DisplayName": "Customer Service/Project Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "NO10",
+    "HierarchyParentId": "4eac076a-2014-51f0-b6c1-a5a5889d87de",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "de944c23-5041-59f2-820a-d8e8db873e96",
+    "DisplayName": "Marketing",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "PL10",
+    "HierarchyParentId": "6371b08a-e84d-5d56-a1d7-1b7e6a306df0",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "bd57a1cf-54b0-57b4-806d-e778b648c867",
+    "DisplayName": "Metrology, Accreditation & Calibration",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "3ad3a413-bc3a-58c1-a37d-ebbcb1876f96",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "534e7239-be10-5ac2-ba38-331ca97c93c1",
+    "DisplayName": "Quality",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "US10",
+    "HierarchyParentId": "2d25ff53-f81d-576d-948c-6dae62886a53",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "ed2d202c-dc4f-5083-94b0-f972b267767d",
+    "DisplayName": "Support",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "AT10",
+    "HierarchyParentId": "018377c9-d318-5c8d-9f57-20fbdca7ee24",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "141448b7-f4e5-55bf-ba40-2ae68c235291",
+    "DisplayName": "Solutions",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "CA10",
+    "HierarchyParentId": "c0624e6e-7ec5-55b5-a207-24ec8b6d3ad8",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "42381da6-ec18-5662-a076-404ce1b19236",
+    "DisplayName": "Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "CH10",
+    "HierarchyParentId": "6c09e52e-254e-5173-8222-b61dd879f409",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "3df24211-1626-5f77-8472-d5e3f66f48f4",
+    "DisplayName": "Sustainability & Environment",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "CN10",
+    "HierarchyParentId": "d68537bc-0ae2-5ab2-95f7-c10902b37f02",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "0db1ccd0-487b-5c86-99be-e0ce52d546b6",
+    "DisplayName": "DK_Finance_ESG",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DE10",
+    "HierarchyParentId": "23c50e0e-a537-5699-ba0a-068a09ef181a",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "42a55c84-35d2-5162-85aa-eab7e4360fe0",
+    "DisplayName": "Production",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "ccadfa19-6006-5c5b-9453-36a78ad050dd",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "874eb5f6-d36d-5a6e-90b0-683c0bfeebdb",
+    "DisplayName": "Bid Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "FI10",
+    "HierarchyParentId": "85afa175-a4ce-5827-839a-7c0424f5207a",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "f0725a83-4c4f-543d-9e09-115e623e6cf4",
+    "DisplayName": "Training",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "bf0facf0-29d4-5cca-9821-6d24600959a3",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "e82a27a8-4599-5096-b76f-222307d30f65",
+    "DisplayName": "Solution Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "IT10",
+    "HierarchyParentId": "a55ddbd8-9597-5bf2-9d02-a4d68debef6c",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "569b166c-3c61-522e-b460-dd1387478781",
+    "DisplayName": "DK_Executive Management office_Executive Management office_Reception",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "c147b2b0-d608-57f2-9cdd-bcde2adfc2eb",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "49d54594-cd3f-5e63-b021-9a353c7f2244",
+    "DisplayName": "DK_Digitalization_ECS_SEC OPS",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "1a4a49fe-9d2a-555f-89ff-fa043bc99a56",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "d7d86217-b40a-50e5-9355-3a12b4befd77",
+    "DisplayName": "DK_Digitalization_ECS_Expert Service",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "57d58058-a191-5c48-b968-e6534bfe55db",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "3e96d7cf-b6d5-5750-9e21-158ace05ae27",
+    "DisplayName": "DK_Digitalization_ECS_GRC",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "959dca32-6da9-5b88-b057-c100c6833116",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "becb2708-7c8a-5a6f-aaa5-ebfa1e2587a8",
+    "DisplayName": "DK_Digitalization_ECS_Commercial",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "US10",
+    "HierarchyParentId": "44c10ece-567f-54bc-bd76-d6428d7bf4e1",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "e8c3039c-4fbe-52c8-9fb1-490041b1b57e",
+    "DisplayName": "DK_Digitalization_Customer Operations_ Global Operations",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "4613ff50-1b12-574c-9978-7a071ee34f1d",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "2ddad3eb-a2bf-5bcf-9b38-bbba1278cec8",
+    "DisplayName": "DK_Digitalization_Customer Operations_Hosting OMNIA",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "US10",
+    "HierarchyParentId": "b04360a0-788e-5b81-94d9-eedaccc7d235",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "47a9a36f-e4ad-573d-9f08-5e83a026b2a8",
+    "DisplayName": "DK_Digitalization_Customer Operations_Hosting HCW",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "8485cff1-5d64-5655-b5bf-e5d8271896b5",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "438dbc96-aff9-548a-a54b-170722dff0e7",
+    "DisplayName": "ES_Digitalization_Customer Operations_Hosting HCW",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "US10",
+    "HierarchyParentId": "7a4d189d-1863-557b-b284-af4991f6b84e",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "efbb8d9f-8eac-5ab6-9de1-30cccf9e9a11",
+    "DisplayName": "DK_Digitalization_Customer Operations_Enterprise Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "FR10",
+    "HierarchyParentId": "608d197e-653c-5328-bd5f-722cbb3e9763",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "35afb8bb-c28a-5489-891a-9d4442e81799",
+    "DisplayName": "ES_Digitalization_Customer Operations_Enterprise Services",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "170e3e3b-e088-5b8f-ac4f-3958779e1d78",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "0c8943e4-6b60-5e29-a9e0-0f445e49a3b4",
+    "DisplayName": "DK_Digitalization_Kamstrup Solutions_Corporate Solutions",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "db70c4f5-90bb-5649-ad55-0344d4f6bf86",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "a2f1b7dc-299b-54bf-b975-86529bf7cc07",
+    "DisplayName": "DK_Digitalization_Kamstrup Solutions_Commercial Solutions",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "7f459158-2d45-59d5-987f-fdd86736b8a4",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "83b7c0fa-1e89-51ee-9d23-e0d4503dfcd1",
+    "DisplayName": "ES_Digitalization_Kamstrup Solutions_Commercial Solutions",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "886bac7c-d1e8-5db2-a79d-4be65467fe04",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "104411d8-ddfc-5038-bbe3-baad50291e73",
+    "DisplayName": "DK_Digitalization_Kamstrup Solutions_Digital Workplace",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "917258ba-7cf9-5419-b4af-2719f2126889",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "edde68ee-8a1c-5a37-ba49-feed39f11b69",
+    "DisplayName": "ES_Digitalization_Kamstrup Solutions_Digital Workplace",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "ee5b8a33-ecf1-5e15-9fbd-650b3c3d3bdc",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "240d2a6f-8b2f-576a-b03d-8d704d4a17a2",
+    "DisplayName": "DK_Digitalization_Kamstrup Solutions_Manufacturing IT",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "a48989f4-e8e3-5d3b-8c49-fb75eb09f69f",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "94623c88-47c9-55af-b757-2b67a61a3f49",
+    "DisplayName": "ES_Digitalization_Kamstrup Solutions_Service Centre",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "0c403674-2523-52de-abe7-bfaabec5f6a4",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "b1d66691-56fe-55fb-b0d1-5e04b90736c6",
+    "DisplayName": "DK_Digitalization_Kamstrup Solutions_Configuration Management",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "4dc7801b-5ec2-5280-8c5d-b76041ddcfcb",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "58cbeeeb-f7fa-5930-9b8e-7a03cd911803",
+    "DisplayName": "DK_Digitalization_Digital Business Development & Transformation_Business Intelligence",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "17d033dc-4c1c-5149-8416-b973e7ebb26c",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "db56fd80-822b-5519-9eaf-aebd94a49c85",
+    "DisplayName": "DK_Digitalization_Digital Business Development & Transformation_Digital Transformation",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "8e992b6e-887c-5c44-990d-be5f6b6838e6",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "aa9b4240-e11b-50c9-a569-dd6257a62fc6",
+    "DisplayName": "DK_Digitalization_EA, Infrastructure and Platforms_EA",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "ES10",
+    "HierarchyParentId": "76877dcf-e990-57f4-801b-aaee48a96153",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "4dc052eb-23e5-5d0c-acd4-68e12faea08b",
+    "DisplayName": "DK_Digitalization_EA, Infrastructure and Platforms_Network & Infrastructure",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "580f9173-31bb-518b-a359-b3b9378418a0",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "d4be538c-7937-5c2f-b14a-fcc3ee678807",
+    "DisplayName": "ES_Digitalization_EA, Infrastructure and Platforms_Network & Infrastructure",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "SE10",
+    "HierarchyParentId": "9581f353-1d5a-506f-9109-11ef39381395",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "8ae68008-9433-5ca4-991f-0b1f64fcf8a8",
+    "DisplayName": "DK_Digitalization_EA, Infrastructure and Platforms_Cloud and Platforms",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "DK10",
+    "HierarchyParentId": "2f9a9681-b82b-5068-9756-7bf42ab10b03",
+    "HierarchyLevel": 4
+  },
+  {
+    "Id": "671106d4-1e93-52ac-b4c0-a538744c330a",
+    "DisplayName": "ES_Digitalization_EA, Infrastructure and Platforms_Cloud and Platforms",
+    "FactSheetType": "OrganizationFactSheet",
+    "OrgType": "Team",
+    "CountryCode": "AT10",
+    "HierarchyParentId": "7d81ea39-2d14-5e50-aa5b-6ec118249f73",
+    "HierarchyLevel": 4
+  }
+]

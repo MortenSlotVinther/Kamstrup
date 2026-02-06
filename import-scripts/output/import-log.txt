@@ -1,0 +1,39 @@
+Kamstrup Phase 2 Import Log
+Generated: 2026-02-06T18:34:47.332015
+============================================================
+
+SUMMARY
+----------------------------------------
+  ValueStreams: 12
+  BusinessCapabilities: 678
+  Organizations: 210
+  Processes: 654
+  Platforms (ITComponent): 34
+  Providers: 482
+  TOTAL: 2070
+
+DETAILED LOG
+----------------------------------------
+  [COUNT] ValueStreams: 12
+  [INFO] Value Streams: ['Acquire-to-Retire (A2R)', 'Concept-to-Customer (C2C)', 'Customer Service and Support', 'Hire-to-Retire (H2R)', 'Idea-to-Release (I2R)', 'Maintenance and Support', 'Make-to-Delivery (M2D)', 'Order-to-Cash (O2C)', 'Plan-to-Produce (P2P)', 'Procure-to-Pay (P2P)', 'Quote-to-Quality (Q2Q)', 'Subscribtion-to-Pay (S2P)']
+  [INFO] Read 672 data rows from B-Business Capability
+  [INFO] L0 groups: 8 — ['All', 'Corporate Services', 'Manufacturing', 'Not mapped to capability', 'Operations', 'Research & Development', 'Sales', 'Service']
+  [INFO] L1 capabilities: 20
+  [INFO] L2 capabilities: 105
+  [INFO] L3 capabilities: 545
+  [COUNT] BusinessCapabilities: 678
+  [INFO] Total BC factsheets: 678 (L0=8, L1=20, L2=105, L3=545)
+  [INFO] Read 74 data rows from O-Organization
+  [INFO] L1 Countries: 16 — ['Austria', 'Canada', 'China', 'Denmark', 'Finland', 'France', 'Germany', 'Italy', 'Malaysia', 'Netherlands', 'Norway', 'Poland', 'Spain', 'Sweden', 'Switzerland', 'United States']
+  [INFO] L2 Business Units: 54
+  [INFO] L3 Departments/Areas: 74
+  [INFO] L4 Teams: 66
+  [COUNT] Organizations: 210
+  [INFO] Read 654 data rows from C-Business Context
+  [INFO] L1 Process Groups: 5 — ['All', 'Core processes', 'Management processes', 'Not mapped', 'Supporting processes']
+  [INFO] L2 Processes: 40
+  [INFO] L3 SubProcesses: 609
+  [COUNT] Processes: 654
+  [COUNT] Platforms (ITComponent): 34
+  [COUNT] Providers: 482
+  [INFO] Sample providers: ['1Password', '7-Zip Software.', '?', 'ADP, LLC', 'APEX SQL, Inc.', 'AT&T Labs, Inc.', 'Aconex', 'AcraSoft', 'Action Verb', 'Adobe Inc.']...

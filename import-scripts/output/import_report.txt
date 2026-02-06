@@ -1,0 +1,228 @@
+======================================================================
+  Kamstrup Phase 3: Application Import Report
+  Generated: 2026-02-06 18:38:04
+======================================================================
+
+── Counters ──
+  TIME_Eliminate: 3
+  TIME_Invest: 7
+  active_total: 992
+  ai_Limited: 1
+  ai_Minimal: 1
+  ai_NotApplicable: 3
+  ai_NotEvaluated: 11
+  hierarchy_resolved: 14
+  hierarchy_unresolved: 0
+  install_type_DistributedApp: 175
+  install_type_EdgeComputing: 2
+  install_type_OnPrem: 11
+  install_type_SaaS: 81
+  lifecycle_Active: 381
+  lifecycle_EndOfLife: 2
+  lifecycle_PhaseOut: 609
+  providers_total: 510
+  removed_total: 88
+  secdebt_Investigate: 22
+  secdebt_Low: 1
+  security_Approved: 1
+  successor_resolved: 4
+  successor_unresolved: 2
+  userbase_Enterprise: 19
+  userbase_Large: 15
+  userbase_Medium: 10
+  userbase_Small: 28
+  userbase_VeryLarge: 8
+  userbase_VerySmall: 114
+
+── Warnings (65) ──
+  ⚠️  Self-reference skipped: 'Neuron' references itself via '8 - Neuron'
+  ⚠️  Self-reference skipped: 'Link' references itself via '473 - Link'
+  ⚠️  Self-reference skipped: 'Adobe Creative Cloud' references itself via '564 - Adobe Creative Cloud'
+  ⚠️  Self-reference skipped: 'rustrover' references itself via '693 - rustrover'
+  ⚠️  Self-reference skipped: 'Microsoft PowerToys' references itself via '731 - Microsoft PowerToys'
+  ⚠️  Unresolved successor 'Viva Glint' for app GUID f764a9ea-1323-5980-9893-b870eaea8c4e
+  ⚠️  Unresolved successor 'Viva Glint' for app GUID 42d26814-90f2-56f9-b54e-a1942ba6480a
+  ⚠️  Removed row 8: Unresolved successor 'XM Cloud' for 'Sitecore (CMS)'
+  ⚠️  Removed row 19: No app number for 'PureService Supportpoint', using random GUID
+  ⚠️  Removed row 19: Unresolved successor 'Microsoft Intune' for 'PureService Supportpoint'
+  ⚠️  Removed row 22: No app number for 'PowerBi Novicell Hosting', using random GUID
+  ⚠️  Removed row 29: No app number for 'Opsgenie', using random GUID
+  ⚠️  Removed row 31: Unresolved successor 'WSL 2' for 'WSL'
+  ⚠️  Removed row 47: Unresolved successor 'PowerBI Capacity' for 'Power BI Premium USL Sub Per User'
+  ⚠️  Removed row 61: No app number for 'Ahref', using random GUID
+  ⚠️  Removed row 63: Unresolved successor 'Hypefactor' for 'Meltwater'
+  ⚠️  Removed row 69: No app number for 'Hercules', using random GUID
+  ⚠️  Removed row 210: No app number for 'IdLevel123', using random GUID
+  ⚠️  Removed row 210: Unresolved successor 'DepartmentTeam' for 'IdLevel123'
+  ⚠️  Removed row 211: No app number for '998-Not mapped to capability--', using random GUID
+  ⚠️  Removed row 212: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 212: Unresolved successor 'Embeded Software' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 213: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 213: Unresolved successor 'Embeded Software' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 214: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 214: Unresolved successor 'Tech. Lead' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 215: No app number for '998-Not mapped to capability--', using random GUID
+  ⚠️  Removed row 216: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 216: Unresolved successor 'Concentrators' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 217: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 217: Unresolved successor 'Hardware' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 218: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 218: Unresolved successor 'Hardware' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 219: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 219: Unresolved successor 'Tech' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 220: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 220: Unresolved successor 'Tech' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 221: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 221: Unresolved successor 'Tech' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 222: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 222: Unresolved successor 'Tech' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 223: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 223: Unresolved successor 'FW' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 224: No app number for '1005-Product & Software Development--', using random GUID
+  ⚠️  Removed row 224: Unresolved successor 'Hardware' for '1005-Product & Software Development--'
+  ⚠️  Removed row 225: No app number for '4552-Digital Platform and Operations-AI, Data & Analytics-Data Management', using random GUID
+  ⚠️  Removed row 225: Unresolved successor 'DK_Digitalization_Digital Business Development & Transformation_Business Intelligence' for '4552-Digital Platform and Operations-AI, Data & Analytics-Data Management'
+  ⚠️  Removed row 226: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️  Removed row 226: Unresolved successor 'Embeded Software' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️  Removed row 229: No app number for '4402-People and Culture-Onboarding-', using random GUID
+  ⚠️  Removed row 229: Unresolved successor 'Sales' for '4402-People and Culture-Onboarding-'
+  ⚠️  Removed row 230: No app number for '4402-People and Culture-Onboarding-', using random GUID
+  ⚠️  Removed row 231: No app number for '3006-Marketing-Marketing demand management-Lead generation, management, and nurturing', using random GUID
+  ⚠️  Removed row 231: Unresolved successor 'Marketing' for '3006-Marketing-Marketing demand management-Lead generation, management, and nurturing'
+  ⚠️  Removed row 232: No app number for '3013-Marketing-Data and insights management-Performance meassurement', using random GUID
+  ⚠️  Removed row 232: Unresolved successor 'Marketing' for '3013-Marketing-Data and insights management-Performance meassurement'
+  ⚠️  Removed row 233: No app number for '3016-Marketing-Customer experience and data management-Customer data management', using random GUID
+  ⚠️  Removed row 233: Unresolved successor 'Marketing' for '3016-Marketing-Customer experience and data management-Customer data management'
+  ⚠️  Removed row 234: No app number for '3017-Marketing-Customer experience and data management-Customer experience management', using random GUID
+  ⚠️  Removed row 234: Unresolved successor 'Marketing' for '3017-Marketing-Customer experience and data management-Customer experience management'
+  ⚠️  Removed row 235: No app number for '3019-Marketing-Customer experience and data management-Compliance and data privacy management', using random GUID
+  ⚠️  Removed row 235: Unresolved successor 'Marketing' for '3019-Marketing-Customer experience and data management-Compliance and data privacy management'
+  ⚠️  Removed row 236: No app number for '3060-Sales-Sales Execution and Customer Engagement-Customer Insights', using random GUID
+  ⚠️  Removed row 236: Unresolved successor 'Sales' for '3060-Sales-Sales Execution and Customer Engagement-Customer Insights'
+  ⚠️  Removed row 237: No app number for '3060-Sales-Sales Execution and Customer Engagement-Customer Insights', using random GUID
+
+── Detailed Log ──
+Excel source: F:\RootContext\Kamstrup\Kamstrup_Business-Capability-Map.xlsx
+Output directory: F:\RootContext\Kamstrup\import-scripts\output
+Started: 2026-02-06 18:38:03
+
+── Parsing A-Applications ──
+  Sheet range: rows 4 to 995, 42 columns
+  Parsed 992 active applications
+
+── Resolving Hierarchy ──
+  ⚠️ WARNING: Self-reference skipped: 'Neuron' references itself via '8 - Neuron'
+  ✓ 'Eclipse' -> parent '190 - Parasoft'
+  ⚠️ WARNING: Self-reference skipped: 'Link' references itself via '473 - Link'
+  ✓ 'Mapforce' -> parent '473 - Link'
+  ✓ 'PyCharm' -> parent '118 - Python'
+  ⚠️ WARNING: Self-reference skipped: 'Adobe Creative Cloud' references itself via '564 - Adobe Creative Cloud'
+  ✓ 'RabbitMQ' -> parent '8 - Neuron'
+  ✓ 'FlowForce' -> parent '473 - Link'
+  ✓ 'Adobe Premier Pro' -> parent '564 - Adobe Creative Cloud'
+  ⚠️ WARNING: Self-reference skipped: 'rustrover' references itself via '693 - rustrover'
+  ⚠️ WARNING: Self-reference skipped: 'Microsoft PowerToys' references itself via '731 - Microsoft PowerToys'
+  ✓ 'ZoomIt' -> parent '731 - Microsoft PowerToys'
+  ✓ 'Cargo' -> parent '693 - rustrover'
+  ✓ 'Rustup' -> parent '693 - rustrover'
+  ✓ 'IDLE (Python editor)' -> parent '118 - Python'
+  ✓ 'Syncfusion' -> parent '638 - Performance Center'
+  ✓ '2C8 (ScopeTool)' -> parent '1 - IFS ERP'
+  ✓ 'Adobe After-effects' -> parent '564 - Adobe Creative Cloud'
+  ✓ 'Adobe Photoshop' -> parent '564 - Adobe Creative Cloud'
+
+── Resolving Successors ──
+  OK 'QAD ERP' successor -> 'IFS ERP'
+  OK 'Neuron' successor -> 'Azure'
+  ⚠️ WARNING: Unresolved successor 'Viva Glint' for app GUID f764a9ea-1323-5980-9893-b870eaea8c4e
+  OK 'Hogrefe' successor -> 'Lumina'
+  ⚠️ WARNING: Unresolved successor 'Viva Glint' for app GUID 42d26814-90f2-56f9-b54e-a1942ba6480a
+  OK 'Zendesk' successor -> 'ServiceNow'
+
+── Parsing A-Applications_Removed ──
+  Sheet range: rows 4 to 242, 39 columns
+  ⚠️ WARNING: Removed row 8: Unresolved successor 'XM Cloud' for 'Sitecore (CMS)'
+  ⚠️ WARNING: Removed row 19: No app number for 'PureService Supportpoint', using random GUID
+  ⚠️ WARNING: Removed row 19: Unresolved successor 'Microsoft Intune' for 'PureService Supportpoint'
+  ⚠️ WARNING: Removed row 22: No app number for 'PowerBi Novicell Hosting', using random GUID
+  ⚠️ WARNING: Removed row 29: No app number for 'Opsgenie', using random GUID
+  ⚠️ WARNING: Removed row 31: Unresolved successor 'WSL 2' for 'WSL'
+  ⚠️ WARNING: Removed row 47: Unresolved successor 'PowerBI Capacity' for 'Power BI Premium USL Sub Per User'
+  ⚠️ WARNING: Removed row 61: No app number for 'Ahref', using random GUID
+  ⚠️ WARNING: Removed row 63: Unresolved successor 'Hypefactor' for 'Meltwater'
+  ⚠️ WARNING: Removed row 69: No app number for 'Hercules', using random GUID
+  ⚠️ WARNING: Removed row 210: No app number for 'IdLevel123', using random GUID
+  ⚠️ WARNING: Removed row 210: Unresolved successor 'DepartmentTeam' for 'IdLevel123'
+  ⚠️ WARNING: Removed row 211: No app number for '998-Not mapped to capability--', using random GUID
+  ⚠️ WARNING: Removed row 212: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 212: Unresolved successor 'Embeded Software' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 213: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 213: Unresolved successor 'Embeded Software' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 214: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 214: Unresolved successor 'Tech. Lead' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 215: No app number for '998-Not mapped to capability--', using random GUID
+  ⚠️ WARNING: Removed row 216: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 216: Unresolved successor 'Concentrators' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 217: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 217: Unresolved successor 'Hardware' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 218: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 218: Unresolved successor 'Hardware' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 219: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 219: Unresolved successor 'Tech' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 220: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 220: Unresolved successor 'Tech' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 221: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 221: Unresolved successor 'Tech' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 222: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 222: Unresolved successor 'Tech' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 223: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 223: Unresolved successor 'FW' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 224: No app number for '1005-Product & Software Development--', using random GUID
+  ⚠️ WARNING: Removed row 224: Unresolved successor 'Hardware' for '1005-Product & Software Development--'
+  ⚠️ WARNING: Removed row 225: No app number for '4552-Digital Platform and Operations-AI, Data & Analytics-Data Management', using random GUID
+  ⚠️ WARNING: Removed row 225: Unresolved successor 'DK_Digitalization_Digital Business Development & Transformation_Business Intelligence' for '4552-Digital Platform and Operations-AI, Data & Analytics-Data Management'
+  ⚠️ WARNING: Removed row 226: No app number for '1205-Product & Software Development-Engineering-Construction & Development', using random GUID
+  ⚠️ WARNING: Removed row 226: Unresolved successor 'Embeded Software' for '1205-Product & Software Development-Engineering-Construction & Development'
+  ⚠️ WARNING: Removed row 229: No app number for '4402-People and Culture-Onboarding-', using random GUID
+  ⚠️ WARNING: Removed row 229: Unresolved successor 'Sales' for '4402-People and Culture-Onboarding-'
+  ⚠️ WARNING: Removed row 230: No app number for '4402-People and Culture-Onboarding-', using random GUID
+  ⚠️ WARNING: Removed row 231: No app number for '3006-Marketing-Marketing demand management-Lead generation, management, and nurturing', using random GUID
+  ⚠️ WARNING: Removed row 231: Unresolved successor 'Marketing' for '3006-Marketing-Marketing demand management-Lead generation, management, and nurturing'
+  ⚠️ WARNING: Removed row 232: No app number for '3013-Marketing-Data and insights management-Performance meassurement', using random GUID
+  ⚠️ WARNING: Removed row 232: Unresolved successor 'Marketing' for '3013-Marketing-Data and insights management-Performance meassurement'
+  ⚠️ WARNING: Removed row 233: No app number for '3016-Marketing-Customer experience and data management-Customer data management', using random GUID
+  ⚠️ WARNING: Removed row 233: Unresolved successor 'Marketing' for '3016-Marketing-Customer experience and data management-Customer data management'
+  ⚠️ WARNING: Removed row 234: No app number for '3017-Marketing-Customer experience and data management-Customer experience management', using random GUID
+  ⚠️ WARNING: Removed row 234: Unresolved successor 'Marketing' for '3017-Marketing-Customer experience and data management-Customer experience management'
+  ⚠️ WARNING: Removed row 235: No app number for '3019-Marketing-Customer experience and data management-Compliance and data privacy management', using random GUID
+  ⚠️ WARNING: Removed row 235: Unresolved successor 'Marketing' for '3019-Marketing-Customer experience and data management-Compliance and data privacy management'
+  ⚠️ WARNING: Removed row 236: No app number for '3060-Sales-Sales Execution and Customer Engagement-Customer Insights', using random GUID
+  ⚠️ WARNING: Removed row 236: Unresolved successor 'Sales' for '3060-Sales-Sales Execution and Customer Engagement-Customer Insights'
+  ⚠️ WARNING: Removed row 237: No app number for '3060-Sales-Sales Execution and Customer Engagement-Customer Insights', using random GUID
+  Parsed 88 removed applications
+
+── Provider Extraction ──
+  Extracted 510 unique providers
+
+── Summary ──
+  Active applications: 992
+  Removed applications: 88
+  Total applications: 1080
+  Unique providers: 510
+  Custom column definitions: 10
+
+── Lifecycle Distribution ──
+  1-Strategic: 75
+  2-Important: 224
+  3-Kamstrup app: 82
+  4-Saved for now: 119
+  5-Investigate: 376
+  7-Potential phase out: 69
+  8-Kamstrup app-Phase out: 7
+  8-Phase out: 38
+  9-End of Life: 2
+  Wrote applications_active.json (2246.6 KB)
+  Wrote applications_removed.json (204.7 KB)
+  Wrote providers_extracted.json (182.5 KB)
+  Wrote app_number_to_guid.json (113.6 KB)
+  Wrote custom_column_definitions.json (3.0 KB)

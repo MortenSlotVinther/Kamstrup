@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "8fa7b192-527d-54fd-a3af-d8368776619e",
+    "DisplayName": "Acquire-to-Retire (A2R)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "93c5b19b-7b97-54f4-b299-233737a768e3",
+    "DisplayName": "Concept-to-Customer (C2C)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "245b060b-41b9-5158-862a-4eee375699a0",
+    "DisplayName": "Customer Service and Support",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "49e6b0e7-476b-5015-9d9f-dd3085b1f7c4",
+    "DisplayName": "Hire-to-Retire (H2R)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "2ba5bf14-23fc-554b-9b5a-eee51fde187f",
+    "DisplayName": "Idea-to-Release (I2R)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "ec18ed78-2ce3-5d83-8700-911dc4b76474",
+    "DisplayName": "Maintenance and Support",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "e88ab4b9-107d-5834-b503-9491d4676ea8",
+    "DisplayName": "Make-to-Delivery (M2D)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "63bbe62a-b141-5021-b2ec-1056dc812064",
+    "DisplayName": "Order-to-Cash (O2C)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "c4819d49-2282-546a-b077-6e39f098213f",
+    "DisplayName": "Plan-to-Produce (P2P)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "4c69c725-ec07-5ff5-96f4-e07e07beb6f7",
+    "DisplayName": "Procure-to-Pay (P2P)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "cb2bab1f-c97c-5d23-ae5f-9e553d48e92e",
+    "DisplayName": "Quote-to-Quality (Q2Q)",
+    "FactSheetType": "ValueStreamFactSheet"
+  },
+  {
+    "Id": "6ec31a66-754d-51a9-b118-7bd580a16d70",
+    "DisplayName": "Subscribtion-to-Pay (S2P)",
+    "FactSheetType": "ValueStreamFactSheet"
+  }
+]

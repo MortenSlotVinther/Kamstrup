@@ -1,0 +1,2894 @@
+[
+  {
+    "Id": "9a38cfb4-4cb8-506e-9fe0-350bd3eedf39",
+    "DisplayName": "1Password",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c87e1b94-96e5-5b8d-9b96-2b95a0bfdd51",
+    "DisplayName": "7-Zip Software.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b847f3c0-292c-5c43-8477-1f4a2a9af35d",
+    "DisplayName": "?",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "46f3bfe0-c7df-5334-9335-5f76aaffdcf6",
+    "DisplayName": "ADP, LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "894b72a9-4f3a-5c03-adf3-6a1336bbb34d",
+    "DisplayName": "APEX SQL, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1c1b21c9-aef0-5cc1-b05b-f6e61f54b5bd",
+    "DisplayName": "AT&T Labs, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "126548ce-4cff-5bf1-983e-9b2cb3f7eeef",
+    "DisplayName": "Aconex",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6cffe63f-f5d1-5c4b-80d4-f2ee62ab2277",
+    "DisplayName": "AcraSoft",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b02e3843-e9fc-5778-abc3-c7698887d82b",
+    "DisplayName": "Action Verb",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "789d1094-299b-53fd-af7f-a1d03071841d",
+    "DisplayName": "Adobe Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "753050fb-02ae-57e7-ace9-00cd18efd772",
+    "DisplayName": "Affero, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "97aa01ff-dc5a-5034-9480-44e99cc46f1b",
+    "DisplayName": "Airspy",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "49e2eed4-ec3c-53f8-93be-3ff5f74e1169",
+    "DisplayName": "Airvantage is developed by **Sierra Wireless**.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ab25971a-e485-51f9-9498-5c27c2cc7023",
+    "DisplayName": "Alibaba Group",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "24d0a2fe-9034-5da7-8205-42728041d23e",
+    "DisplayName": "Allegro PCB Designer",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0e01795b-6ab8-5a9b-88d4-67de0a8b48e6",
+    "DisplayName": "Allround Automations",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8e09fa0b-2a7c-572f-91f7-3f83d6fd320d",
+    "DisplayName": "AlmaLinux OS Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "97199d38-703c-55d2-bcc8-6117ddbac1c4",
+    "DisplayName": "Altova",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "823649e3-1914-5ca1-8944-5b9335b2835b",
+    "DisplayName": "Amazon Web Services",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f913f180-6f05-54ee-87f7-d5a074f3e592",
+    "DisplayName": "Amazon Web Services, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "232ce6f3-bb9a-5464-96a3-a226c6d113a2",
+    "DisplayName": "Amdocs",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "84e8672c-fd89-5687-9f02-ec3c54fa9f97",
+    "DisplayName": "Analog Devices, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c1df9534-1cd6-583a-bd76-ee0897303a22",
+    "DisplayName": "AnkSVN is developed by Ank God.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1e0b9834-9e8d-57b7-9e47-e22a95efbe68",
+    "DisplayName": "Ansys",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6336334a-3d64-5266-8406-4b2724b81840",
+    "DisplayName": "Anthropic",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f34fdc1f-ec4f-567d-b44b-d453d54dede5",
+    "DisplayName": "Antirio AB",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "119a0642-d06c-5b7c-80f3-ea00a3bea5b0",
+    "DisplayName": "Apache Software Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1fb44ff1-e1fb-5c05-9732-df7b057e7d55",
+    "DisplayName": "ApexSQL",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "13a9c5c2-c038-500f-a3dd-8e4cb7f6e927",
+    "DisplayName": "Aqua Security",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "dc9daee7-bfdf-5288-998a-05621a5b3f6a",
+    "DisplayName": "Aquavit Asset Management",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fa409e42-6195-5afc-9b0b-473449ee96fa",
+    "DisplayName": "Aras",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "a8e78b00-1948-5604-8181-b076e57fa66c",
+    "DisplayName": "Aras Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a4b070e3-2e62-55ac-b5ba-6ce88af6a545",
+    "DisplayName": "ArchiMate.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "56c184c8-7ef8-5c4f-be65-4f04b361e8fc",
+    "DisplayName": "Arduino Srl",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7e759761-4f3a-5682-98fa-ef5994eafe1c",
+    "DisplayName": "Arm Limited",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "bfff8fdf-4e0e-5f57-b160-569355cf51d2",
+    "DisplayName": "Aspia",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2f17fed6-595d-57f1-b048-cabb675475fa",
+    "DisplayName": "Atlassian",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "43fdbc83-5e25-5dc1-9d62-1dd33240fb7e",
+    "DisplayName": "Atlassian, Eficode A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "81ce79fb-5298-54d4-aad4-25ba2970cedd",
+    "DisplayName": "Attention Solution",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0910272f-3f66-5b28-be6d-d6185d5f5e87",
+    "DisplayName": "Atyune, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7e01163c-15d5-5c69-811f-8f60962e6b85",
+    "DisplayName": "Autodesk",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9236a3b1-cd82-5d84-8e0e-a743c194cea8",
+    "DisplayName": "Avalara",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3f236c00-7ec8-5e29-839a-22245c400b31",
+    "DisplayName": "Axosoft",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8428de08-431e-5f50-becd-d40f06b9b711",
+    "DisplayName": "BACnet International",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "98625365-a78c-5ee0-84c7-7207e04e0c81",
+    "DisplayName": "BSF",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2124dfab-05a5-55f6-81fd-d6dad23b5a90",
+    "DisplayName": "Balena",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8a5a170f-ab95-5f9a-b39c-2888b985bf17",
+    "DisplayName": "Balsamiq Studios, LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "17289920-585b-5fa1-bd32-aaabbe529a91",
+    "DisplayName": "Bare Tail is developed by Bare Metal Software.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ea086019-51c0-5467-a73b-34e219b8d849",
+    "DisplayName": "BareMetal Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "609351d8-039f-5af7-8e8d-75c9f4f12aa2",
+    "DisplayName": "BeyondTrust",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1b6a3841-9c6d-5560-9f39-e15d3bf43247",
+    "DisplayName": "BidPrime",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "27cde039-fdff-5586-ab54-ee07aec7a571",
+    "DisplayName": "BidSite",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "977be333-ae76-5d4f-82f2-9f76bab91f89",
+    "DisplayName": "Bimobject",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "161b9768-dc0c-5ccd-a53a-b04590b5ad5f",
+    "DisplayName": "BizBrain Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5b6ab799-03c2-5083-8fa5-e1f1840a25f5",
+    "DisplayName": "Bizbrain",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "4f7b2999-317f-54ad-9deb-1e1a74886db7",
+    "DisplayName": "Blend Labs, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "29816f39-4ebb-534f-b98a-e49152ac4a0a",
+    "DisplayName": "Blender Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "713942aa-acdf-5c98-ab76-f0b8f2406938",
+    "DisplayName": "Blendit Learning ApS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6d89e041-9c87-5c7a-9f27-a50cfdde793f",
+    "DisplayName": "Bluebeam, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "111b26bf-ed92-5c11-93c8-f084fec75ac9",
+    "DisplayName": "Bluecat",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0b9400b9-6f25-5f69-9dff-1ec30d733b80",
+    "DisplayName": "Brave Software, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5c174e1a-f25e-56c4-b4f1-4f13fd8678c4",
+    "DisplayName": "Broadcom",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "31fa2bdc-2683-5b8f-98ad-4426c758e440",
+    "DisplayName": "C3S Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8b3e6ab6-f3a0-5014-9b16-6372d6a5bcbc",
+    "DisplayName": "CIM Software Testing",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "30a78ef2-f37a-5378-b569-9b269d981153",
+    "DisplayName": "CRECEA S.A.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "49f93697-608c-5dbc-b08e-93a52ee1dab2",
+    "DisplayName": "Cadence",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5f88426e-ab74-5e27-bee5-a89d41bd9d1e",
+    "DisplayName": "Cadence Design Systems",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a25ff768-d9fe-568e-b11b-d499e836c4f6",
+    "DisplayName": "Calypsoviewer is developed by Calypso Technology.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7e21bac9-a8da-52fa-917b-38cce6c6248e",
+    "DisplayName": "Canonical Ltd.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "512a63e7-3d45-5cd8-a1c2-7c7bd31c9cd6",
+    "DisplayName": "Canva Pty Ltd.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "91fe10f3-836d-5592-a208-aa1b84e6ecec",
+    "DisplayName": "CapMon",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "477abd4f-6cbf-56c2-a1bb-4b9b1bb43b95",
+    "DisplayName": "Change Vision Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "79678b5e-374a-526e-a903-be975cc02292",
+    "DisplayName": "ChemSW",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "31807835-94bd-533d-ab81-1cc57db42d88",
+    "DisplayName": "Chilkat Software, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e7a88dff-26b0-594e-8753-b6ec4bbdd05d",
+    "DisplayName": "Chocolatey Software, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b8429314-8eef-5d89-8de2-771c8e5bab72",
+    "DisplayName": "CircuitByte GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c9e3556f-5b81-5704-8c42-eeb1113f2954",
+    "DisplayName": "Cisco Systems, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e6182a2b-3fe1-5b31-b561-6ed2373fc203",
+    "DisplayName": "Citrix",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5fca890a-96bc-52f5-9478-cd9abd287d98",
+    "DisplayName": "CloudBees",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "99d2f404-9e2e-5cc6-b340-f877d7cebe43",
+    "DisplayName": "CollabNet",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1e72a91f-80cd-5a3f-8b42-3f38a32686d1",
+    "DisplayName": "Combit GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0ad7819f-758b-5c42-beff-d2e3af533f1c",
+    "DisplayName": "Compete HR",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d523a7d8-6431-5698-9e0c-e0e49035a20b",
+    "DisplayName": "Computer Simulation Technology AG",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2dd0b084-eb33-54ac-b77b-5c565d15a925",
+    "DisplayName": "CppCheck is developed by a community of contributors and does not have a specific vendor company.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2952aedf-4024-5b06-a3ee-aa5fe1730793",
+    "DisplayName": "Cribl",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "80f1d9b4-172b-5c11-9827-1d52f6b039a5",
+    "DisplayName": "Crowdin, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a49f5112-4fd3-51dc-9899-5a82580b718d",
+    "DisplayName": "Cumulus Networks",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f99a9d48-4b11-554e-8a39-8b2166f20b67",
+    "DisplayName": "Custom SIM Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "818caa55-db9d-5afc-b090-458e47fb738f",
+    "DisplayName": "Cybot A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1e56c7ef-6aa2-570a-bcd9-1978fd6f7268",
+    "DisplayName": "D-Link",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c39ae96d-1d2a-5556-b21e-5e714fc8634c",
+    "DisplayName": "DLMS User Association",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7249d7d6-1303-5fcb-a594-09ed64571240",
+    "DisplayName": "DMaaST is developed trough several vendors",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4e2d2e56-bd8d-5c0f-9e1a-d7b486da17b7",
+    "DisplayName": "DNV",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "42769ef0-598d-592b-8d92-5f543211f2d9",
+    "DisplayName": "DOSBox Team",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fa366ebf-6f87-55de-8183-d80336a44f01",
+    "DisplayName": "Daniel Stenberg",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f551e42d-03c8-542b-aee3-ce5e43d4808a",
+    "DisplayName": "Dansk Standard",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c324997e-741d-5734-8df1-6243b7f3d91d",
+    "DisplayName": "Danske Bank",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "062f6bdf-599b-569d-a5d5-5d467cf0a3b6",
+    "DisplayName": "Dassault Systèmes",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0e4f3325-663e-534e-a366-f42d01914f00",
+    "DisplayName": "DataCenter Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "faee010c-7500-5fc3-b674-3f13f8d2b1e9",
+    "DisplayName": "DataCore Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d36475f8-143e-59bc-897c-c3ae64bee6f6",
+    "DisplayName": "Databricks, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "bbe03744-9173-57b9-a12f-2c75c8a1babd",
+    "DisplayName": "Dataforsyningen",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0cee1979-bd40-5740-b4f4-7822e2236579",
+    "DisplayName": "Defco Software, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "03e57401-53b3-5b91-8688-9b8d97d89e82",
+    "DisplayName": "Dell EMC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f8284c33-c8c3-5a95-93fe-312df892b96e",
+    "DisplayName": "Dell Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "23d7b048-4733-57cf-8d0f-2d9b883fc646",
+    "DisplayName": "Deltek",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a4d7b673-153d-5aa9-b969-8c1c23b28658",
+    "DisplayName": "Devoteam",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "53a10793-55a0-5d5e-adef-e38d92a467b3",
+    "DisplayName": "DigiCert Irelenad Ltd",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "777380de-6946-5069-93ac-d6ce3deac166",
+    "DisplayName": "Discus Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a35f1cf1-3bd7-576b-9344-ea141b82cf89",
+    "DisplayName": "DockLight Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d7db1219-bd27-521d-9093-c943dc4d67ce",
+    "DisplayName": "Docker, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ac465484-fde0-5a34-bf7a-8f99df0b47e4",
+    "DisplayName": "DocuSign, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4bfd018e-10eb-5b6e-823f-d547d030171a",
+    "DisplayName": "Dominik Reichl",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3e56b34f-eaf1-56ee-80b2-e38d967d43e5",
+    "DisplayName": "Dot.vu",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0ecdf7c6-33f0-5040-8987-74d415ad09bd",
+    "DisplayName": "Dow Jones & Company",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b1bdbc81-88c8-5d45-8141-1bcd5bc50ed9",
+    "DisplayName": "Dun & Bradstreet",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9bcd2bbc-48e2-5be9-ae8d-071b9825b512",
+    "DisplayName": "Dynatrace",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "12f3dcc2-33b7-52eb-a60d-9a31c084d5b6",
+    "DisplayName": "EC Software GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6e278ffd-cf76-5268-80eb-8798f963d245",
+    "DisplayName": "ELM Technology.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e2919043-9b71-5df4-a7fb-ba81203b042d",
+    "DisplayName": "EMH Partners GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "be39d5b4-586b-5748-8f7a-cef69835ca4c",
+    "DisplayName": "EQS Group AG",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8f370051-e263-579b-adf0-6cdac813373a",
+    "DisplayName": "ESRI",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8241034e-9be3-54e8-8710-135eb0d1c6c9",
+    "DisplayName": "ETQ",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "394ea7ec-1622-5b35-9852-a5db45c08dfa",
+    "DisplayName": "Easy File Locker is developed by Easy File Locker Team.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f55c6d43-e204-5075-b2f2-c39ca364568f",
+    "DisplayName": "Eclipse Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4849a110-a50b-50bc-9e99-74e5326f3bbf",
+    "DisplayName": "EcoOnline",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d243e130-e71b-5cf6-ab23-4be290c1d599",
+    "DisplayName": "EcoVadis",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ee09dd9e-73b8-5412-a7ca-279c86d37483",
+    "DisplayName": "Efficient Elements GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8d685900-9442-564f-8255-f3a3b63ef396",
+    "DisplayName": "ElDevScripts",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8e15235e-84f1-5095-80e4-8e749c8847ba",
+    "DisplayName": "Eldos Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "08916a55-5bac-537e-a624-d538c5462651",
+    "DisplayName": "Eltima Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ea2170b3-b511-5a5b-918d-2705f841a849",
+    "DisplayName": "Emma Systems AS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4f364281-408a-538d-8a0a-4586a1085c48",
+    "DisplayName": "Endalia",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "40a2974f-6abf-5190-8ca0-cc134b8347ce",
+    "DisplayName": "Ennova Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fecd5e81-f09c-53aa-9d1f-15680328d12a",
+    "DisplayName": "Eptura",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c605b7f0-c3b9-5968-bcfb-f0ef1fef619d",
+    "DisplayName": "EuroDCS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a1723256-8f20-5c49-86f5-a1a5a2f6c803",
+    "DisplayName": "European Commission",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fa13a0ca-9281-5539-955b-991501fbde64",
+    "DisplayName": "Eventbrite",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f48acbf0-1143-5c38-9cf9-29edbd0b578f",
+    "DisplayName": "Evoko",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9921b0ff-8083-578d-b243-7a75e854ed59",
+    "DisplayName": "Evolus",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fe6fb7bc-a353-567a-890a-55e3f36a7ddc",
+    "DisplayName": "ExactFile, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "63ee87a3-3be5-5c8d-8574-a984c3eaf8b5",
+    "DisplayName": "FABric is developed by the company Fabric Software.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9711fac2-8f16-56ee-8d24-a1a4570c17bf",
+    "DisplayName": "FALCON.IO ApS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "08115ecb-31c4-58d7-b6a1-20f836e0d59a",
+    "DisplayName": "Fabula Tech",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2572602e-7085-5fbc-aef7-bcb18fa8cdfb",
+    "DisplayName": "Figma.com",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "bfd9c353-05ee-5da2-8622-f91ddc5cb318",
+    "DisplayName": "File Viewer +",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b3a60f28-1b72-5675-9ac1-a8d01309fadb",
+    "DisplayName": "FileZilla GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6d8fea9f-7bc7-5fb5-bab2-90de2a913431",
+    "DisplayName": "Flexera Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ac7b72c4-fe0f-5875-81de-0b24b1bd9cb4",
+    "DisplayName": "Fragt, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "74dc056c-74e2-5b82-af27-609cd53e47eb",
+    "DisplayName": "FreeFileSync is developed by Zenju.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "32a1dc63-6c03-5e6b-912c-99c3c8a66fb9",
+    "DisplayName": "FreeMind Team",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f93e906e-0c4d-5053-ab98-295c0b085fcc",
+    "DisplayName": "Fritz Dellsperger",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "923d928a-ccb3-582d-872d-a1712519c1dd",
+    "DisplayName": "FrontIoT",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "641456ac-2d00-53f8-a325-955ee59df4f4",
+    "DisplayName": "Functional Software Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6bf53074-fe6f-5942-b33c-06547b839f8b",
+    "DisplayName": "Fuse Universal",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0ceea28c-a978-5dfe-9a72-28abe913bb3b",
+    "DisplayName": "GNU",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2f0bd847-30e6-549e-8b92-b3f7dd7ca5c3",
+    "DisplayName": "GNU Project",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d3cb003f-72eb-5c9f-95b9-b1613c183f28",
+    "DisplayName": "GastroSoft",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "28163573-982f-52c8-b648-7ac223d2727e",
+    "DisplayName": "GatherContent",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a719e14e-09a2-5b74-a625-12bfd47d6e28",
+    "DisplayName": "Ghisler Software GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5d0112ce-deb8-5a93-a607-1670b1e672ad",
+    "DisplayName": "Git Hub",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "15ff607b-ca3d-5196-9df7-5cc4254aab1c",
+    "DisplayName": "Git is not associated with a specific software vendor as it is an open-source project. However, it was created by Linus Torvalds.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d5d8c9a1-80cc-5008-8168-25fefd121e2c",
+    "DisplayName": "Git, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c761f655-46bc-570f-8486-4baac1f09600",
+    "DisplayName": "GitHub",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6db505b0-ca40-59d2-ae80-3915dcc17a0b",
+    "DisplayName": "GitLab Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "94be6393-4965-51f1-b8f0-f0c20219a337",
+    "DisplayName": "GnuWin32",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a25b91d8-de3e-5baa-ba3f-cfe082f18042",
+    "DisplayName": "Go Autonomous",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "18f75c08-cb67-59c0-abfa-bb3a4b670a8a",
+    "DisplayName": "Google",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "87741c9b-4cbc-5f46-a08c-f5b34dac7621",
+    "DisplayName": "Google LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7cdc17eb-63c8-5a5e-9986-34ef6a209595",
+    "DisplayName": "Grafana Labs",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "94df162d-a3da-532a-ae95-cf43269a6ab8",
+    "DisplayName": "GreenShot.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d25ecf70-af69-5ee3-8d73-d9184d5d75d5",
+    "DisplayName": "GrepWIN is developed by Andreas Scherbaum.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7d734559-83c9-5e95-8b68-44a219bf74fb",
+    "DisplayName": "HR-ON ApS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "71312642-97bb-56ec-9cc6-4a41ef58ef81",
+    "DisplayName": "Hashicorp",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "325be648-0f45-5e6f-922b-fd5352bc5cd5",
+    "DisplayName": "Heat Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d13cd3fb-8c80-55a2-ae66-9bcca02f65d1",
+    "DisplayName": "Hogrefe Publishing Group",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "addaa78b-8c85-5149-b7fb-e6dba6bbcaa7",
+    "DisplayName": "Hotjar Ltd.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "283353ff-3b55-5790-8f8b-fdec90f99576",
+    "DisplayName": "HubSpot",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f42e41de-10ce-599d-aeb3-2535c9125d83",
+    "DisplayName": "Hypefactors ApS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d4095ae2-031f-5412-b809-1c19d4e38798",
+    "DisplayName": "IAR Systems",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9381c1a0-519d-543b-9b37-1be1597cc539",
+    "DisplayName": "IBM",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "87efb17c-aa54-55c9-b3f5-4022c35ed3e2",
+    "DisplayName": "IDW Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "20983d12-cc6c-5139-94f7-9488bd84466a",
+    "DisplayName": "IFS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor & Consultancy"
+  },
+  {
+    "Id": "fd8a715a-e185-5071-8f2a-509be8af0e5c",
+    "DisplayName": "IFS AB",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c8670750-b712-52a4-81d9-832f547670f3",
+    "DisplayName": "IMPARTNER INC.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "c045fcca-976e-5232-a94b-f9200b0665f8",
+    "DisplayName": "IPW Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "29beaa7b-0722-51ce-8a2a-ea38da94b707",
+    "DisplayName": "IQS GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "71b08aec-0527-5305-b9f3-fb66af6e582d",
+    "DisplayName": "ISC (Internet Systems Consortium)",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0d48923c-3ac0-5caa-923d-57aab4ea5861",
+    "DisplayName": "ImHex is an open-source project, so it does not have a traditional software vendor company.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "870c9bf4-dabd-5c96-95bb-28aecd6a385f",
+    "DisplayName": "Impartner, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "800aafdd-cff6-56be-90a7-4cf9eab3d7e0",
+    "DisplayName": "Infinigate",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f28f809e-f58e-5d47-a73d-21ee4a3fe2f8",
+    "DisplayName": "Informa Tech",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "62323509-8601-5af5-be73-390091884afc",
+    "DisplayName": "Infragistics",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "deb414f7-d839-501b-b1c5-a248cbae466a",
+    "DisplayName": "Inkscape Project",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "01fbbed9-a6fc-5acc-9596-9fd8392b0d7b",
+    "DisplayName": "Innofour.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f20981e7-3f56-577b-8c1f-c962e20d7700",
+    "DisplayName": "Integrator",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "13314ccd-18b5-5369-9b59-e20a3129199e",
+    "DisplayName": "Intravision",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "28f6d3bd-a65a-5e26-85a6-d61d51126a7c",
+    "DisplayName": "Ipendo AB",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "101a6905-7cbd-5500-830d-7006b9d54ba4",
+    "DisplayName": "IsMobile, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ceebfdd6-c99c-5736-bb4b-8c1c97d7aefc",
+    "DisplayName": "Ivanti",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0788c2c2-6f36-5d6d-a976-e43a9f4f4756",
+    "DisplayName": "Jam",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6e5f46e7-c3b9-5cb2-bc77-d7866f0ba44e",
+    "DisplayName": "JetBrains",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b9d79456-ef58-5f95-8032-3a0ed84394a4",
+    "DisplayName": "KamSite Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6ffc1857-11cb-565e-9367-621b4bc76e24",
+    "DisplayName": "Kamstrup",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor & Consultancy"
+  },
+  {
+    "Id": "4e26245b-6fc7-522f-afb0-8a46bdda6888",
+    "DisplayName": "Kamstrup A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0b5561c1-ec37-5a77-9279-1e023e159b9c",
+    "DisplayName": "Kaspersky Lab",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "672ab388-ec9b-5cb0-92bd-7df30b7495eb",
+    "DisplayName": "Keepit",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "be597da5-ec3a-5174-abf6-01c70c4621ba",
+    "DisplayName": "Keynesis",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4ed85016-3635-5bf1-a095-f7957b9e870d",
+    "DisplayName": "Keysight Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d94c2647-796c-5770-b4fb-dde726f67e3a",
+    "DisplayName": "Kitware, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "87bb90d6-22eb-5cd1-b3cc-b54279f60e8f",
+    "DisplayName": "Kleopatra is developed by The KDE Community.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1fd87a88-0b69-586f-9060-c4de31bf52df",
+    "DisplayName": "KnowBe4",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "953535d8-eb8e-5323-a9d9-cde14805cc40",
+    "DisplayName": "Kodecloud",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2c6b6c7b-7c69-5f44-b96d-2c99b9eae27c",
+    "DisplayName": "Kofax",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "afdd19e6-c966-5ab0-a257-532a499fe4f5",
+    "DisplayName": "Kubernetes",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0c4fba00-76b7-5b64-98b1-752928f15247",
+    "DisplayName": "LeanIX GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ce113d1b-9d53-545d-9b84-d542329ed549",
+    "DisplayName": "Lessor PM is developed by Lessor.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d9f78bd2-7d97-5a2e-be74-be8e5c3e857f",
+    "DisplayName": "Lessor Portal is developed by QuikFlip.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9cd80480-8140-5636-b3ce-88ea9a7f5837",
+    "DisplayName": "Lessor Software Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1986c551-ae44-547c-8aef-24e52e2cc1b5",
+    "DisplayName": "Lifesize/TDC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "770b74b9-a6ee-556f-a154-98f39d82ba34",
+    "DisplayName": "LinkedIn Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e1ae6932-87a8-54d1-9aaa-ba9be98f3262",
+    "DisplayName": "LogExpert is developed by a company called \"LogExpert\".",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d6eac31f-7c7e-53e2-b282-29070192b660",
+    "DisplayName": "LogMeIn",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c24b013d-08ec-5a53-b754-71c30ce4425c",
+    "DisplayName": "Logitech",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e1875418-7ba6-5d11-8339-2584ca675cfb",
+    "DisplayName": "Logpoint",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "31532b5a-50b2-52c2-8984-ceae32c9dfb3",
+    "DisplayName": "Logview is developed by **LogView Solutions**.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b0ace7e2-6255-54c6-b292-788d30033bcf",
+    "DisplayName": "MB Coursework Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3070ea8d-0465-523d-95f6-f0a19dc2daf2",
+    "DisplayName": "Malwarebytes",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0ea81c85-1651-510c-b1b4-65b3640f438d",
+    "DisplayName": "Manyone A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6352167e-6361-5a0b-91f8-31171d296f7f",
+    "DisplayName": "Martin Prikryl",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "68438fac-f114-547c-acb2-407bf02652d5",
+    "DisplayName": "Mastedatabasen is developed by the Danish Agency for Data Supply and Efficiency (SDFE).",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fea20b9a-a0bf-54a1-9b0d-2b6963ed90dc",
+    "DisplayName": "MasterControl",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f3e14515-4e2a-5f59-9ae3-7906fe49505b",
+    "DisplayName": "MathWorks",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "20bee288-2c81-5374-86db-ec90eb0074d4",
+    "DisplayName": "Maël Hörz",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9247e825-3a57-5883-8c5e-364735885294",
+    "DisplayName": "Mentimeter AB",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e7845b77-b4ce-590c-ba70-ba1f54f03609",
+    "DisplayName": "Met Office",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f8d68aa7-7d0a-5b5d-846b-425ca840f8ee",
+    "DisplayName": "Meta Platforms, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9989f21b-da90-5ad1-a6ef-e8ba6ecb08c2",
+    "DisplayName": "Metcal.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "bbab4251-e2bd-517c-81db-7f72e5281798",
+    "DisplayName": "Metrell d.o.o.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "19b1bdcd-02c0-5740-9cd2-14f52e048e06",
+    "DisplayName": "Metrum Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8023f22b-23c8-5bb7-bf67-6eadbb8f3551",
+    "DisplayName": "Micro Digital, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e67a15fb-0462-5690-921d-3b48d497d95c",
+    "DisplayName": "Micro Focus",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d2499784-861f-57a8-b350-1478312ae399",
+    "DisplayName": "Microsoft",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "36cae9af-e639-501b-8719-6db618250467",
+    "DisplayName": "MinEnergi2 is developed by the company Metrum.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0f5e3d36-85cf-52bd-ab3e-88e4a666e6bc",
+    "DisplayName": "MinGW.org",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a66649b4-f2bf-5ae6-b2dd-2735a6eb6faf",
+    "DisplayName": "Minerva",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9e2a51df-552f-55b2-b674-628536a42a5a",
+    "DisplayName": "Minitab, LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8ccbd5cf-2e04-56c0-868b-1051cc8831e2",
+    "DisplayName": "Mintec Europe A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b5aa5a74-6265-538a-b31c-c3b257ca10b1",
+    "DisplayName": "Miro Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "77d50525-f0f0-5635-b21b-2c7bfa65ec3a",
+    "DisplayName": "Moldex3D",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b3302a1e-dd8e-5b2c-be31-cdaaae6528e5",
+    "DisplayName": "MongoDB, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e4a3f35c-6c6d-58a4-90bf-46544500b1f2",
+    "DisplayName": "MongoVUE is developed by Tautyly.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9ff82d52-d2bb-5f20-b2e4-8f595bc8c663",
+    "DisplayName": "Motorola Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6deed92b-e4bc-5dc4-8e58-e42c9157fb79",
+    "DisplayName": "Mozilla Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "04bff653-cebf-5741-b466-8e3ba1c2c15d",
+    "DisplayName": "Multipel",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "37d872e3-b2f2-510a-b22a-d95e77b27735",
+    "DisplayName": "Müller Apparatebau GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "57ef9220-f373-5293-9d36-dfb02fd4e718",
+    "DisplayName": "N/A",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "91b69bde-21af-5584-81f8-685ae9f01080",
+    "DisplayName": "NCR Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e2e2c7b8-6cac-5a6d-ad15-efbf761edf5c",
+    "DisplayName": "NEC Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "87b32c50-222a-5807-b693-d2b1eda5c23c",
+    "DisplayName": "NUnit Software Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "65312d3e-c3af-5bec-aba5-bb35bced29d0",
+    "DisplayName": "Nagios",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3fb1a403-7155-5c36-baa6-0bce8bda9e1a",
+    "DisplayName": "National Instruments",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a60efd11-b195-5c36-ad59-9ce8a8549f61",
+    "DisplayName": "National Instruments ApS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "83b58715-e07e-5381-81ff-d9147c1ddc97",
+    "DisplayName": "Nemtilmeld",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7e647a14-3ac1-55f7-964b-9786fe17563e",
+    "DisplayName": "Netcompany",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "736732fb-b7f0-5f6e-8f12-767607cae7fd",
+    "DisplayName": "Neuron ESB",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "991baf3c-90e9-5388-9eb2-dd6765519bbd",
+    "DisplayName": "Nexrad, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ceb19358-1e09-5d63-a25e-cf3a34c9d177",
+    "DisplayName": "Nilex Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "bdb93468-163a-58ff-ba68-e96035d72457",
+    "DisplayName": "Nohau Solutions.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "942c259f-3363-5325-ad04-6f95de5b2dbf",
+    "DisplayName": "Noldus Information Technology",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3093a81b-4a08-5ce2-bf4d-8155ef9c3130",
+    "DisplayName": "Notepad++ is developed by Don Ho.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "91be97a4-e77a-5417-9752-3465e46f9d84",
+    "DisplayName": "OSELAS Technologies GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2eabc906-d6b5-519e-b25e-d0ee8f8597c6",
+    "DisplayName": "Open Office",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "14d9ce7d-28bf-5f90-975a-87f925fc912d",
+    "DisplayName": "Open Watcom Project",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "64072abd-8921-5081-95da-758135d1c7e1",
+    "DisplayName": "OpenAI",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d6457b6a-7126-52cd-9881-a2dc83bd15c1",
+    "DisplayName": "OpenCFD Ltd.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "487e2077-bea6-5c4e-9262-69092dbaa5f7",
+    "DisplayName": "OpenLM.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c756a5e7-aec9-5663-a415-bbf5299d87d2",
+    "DisplayName": "OpenLinkSoftware",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9ba38fcd-a8f5-52ca-9515-1cf7c961840b",
+    "DisplayName": "Oracle Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d369cb02-d181-51a6-821b-cf7e410f083a",
+    "DisplayName": "PADS Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d3f907a0-3027-5eff-86cf-487faac248d5",
+    "DisplayName": "PADS Viewer is developed by **PADS Software**.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1b59af5b-005c-566a-b65e-3781f43082c7",
+    "DisplayName": "PJD Group",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "184c1273-9bd0-536d-be09-2929528aa0fb",
+    "DisplayName": "PLM Group A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ff9c10d3-0779-5802-a8b5-a7b88ae23a7e",
+    "DisplayName": "PRé Sustainability",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3911ba0e-f5ea-55c7-acfc-5a967ed79386",
+    "DisplayName": "PTC Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "709fa613-b007-52b7-bf83-121df7f27aa5",
+    "DisplayName": "PTM EDV-Systeme GmbH  AT,",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c0c63fd2-adaf-5c2f-8dc2-f4521e61243e",
+    "DisplayName": "PagerDuty",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "06b6e220-c62e-5ec7-9fc6-3cd7218029b3",
+    "DisplayName": "Parasoft Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c3cca9a9-bfa5-5cdd-802f-e8a6c5efccf5",
+    "DisplayName": "Parker Hannifin Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "99a947aa-f238-5031-81ce-791aa27a2864",
+    "DisplayName": "Patch my PC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d51e4e7d-97f3-5bac-8962-3a92fef98ca8",
+    "DisplayName": "PcBase Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "72285c66-6586-50ab-8e82-bcec6288b559",
+    "DisplayName": "Phase",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "53a1f650-0bca-5467-a076-37a66912b822",
+    "DisplayName": "PhotoFiltre Studio",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6adf9a84-8412-5a80-9c96-9d91bd8271b4",
+    "DisplayName": "Pico Technology",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f43a23c7-6f05-5479-afa5-39924ce656ca",
+    "DisplayName": "Picoscope",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5178636a-3882-58da-84a6-c912e4768704",
+    "DisplayName": "PingForLife is developed by **PingForLife, Inc.**",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "87b58e60-d742-5874-966b-252bbe146eb3",
+    "DisplayName": "Pipechain, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "40cf95a0-d688-5aa5-9086-18807d6df4be",
+    "DisplayName": "Pivotal Software, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3a8504f2-3a63-5133-ad4b-86cc401ac3b2",
+    "DisplayName": "Plandisc",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1981dfc2-9bee-529f-a859-efc42e660de9",
+    "DisplayName": "Plotly, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3032c29e-a080-5c15-9c16-ff84dbf1d3cf",
+    "DisplayName": "Pluralsight, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6ec6bf4b-af1e-51e8-855e-87d3b2dcd644",
+    "DisplayName": "Posit",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5076383c-3137-5d73-bfc6-27e6739a231c",
+    "DisplayName": "Posit Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fee22d26-a435-5682-93f7-4daf0d1fbe18",
+    "DisplayName": "Postman, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "77ecd185-36e3-587c-8fa5-a359c4dd20db",
+    "DisplayName": "PowerBI Robots",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "83842939-cb75-54e0-87a7-c6ba4fb639ad",
+    "DisplayName": "Precision Software.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "260fab1a-ed78-557c-b5e8-dcacef6e2638",
+    "DisplayName": "Program Verification System, LLC.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1de0b23d-903b-5a5a-b91d-0bd67670d5d9",
+    "DisplayName": "Progress Software Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fc86fb15-f871-5982-98c3-a6e401338cd4",
+    "DisplayName": "ProjectFlow A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4d54e1db-85b7-5e51-9580-e1148751dd13",
+    "DisplayName": "Proxyclick",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "dea472a1-1473-530e-818a-5aaab23a7f39",
+    "DisplayName": "PureService Solutions.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "18443e23-391d-5bd7-b488-781065f5ab6b",
+    "DisplayName": "Python Software Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "15397222-8bac-57d9-a5c4-a46b2a55d701",
+    "DisplayName": "QAD Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3043aae1-e101-5216-9b76-677140908a74",
+    "DisplayName": "QGIS.org",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "72f3d29d-870e-5b44-befb-3a61a6b026db",
+    "DisplayName": "QR Code Generator GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d6dbb36a-47c6-5242-87a4-c04943f57861",
+    "DisplayName": "Qoitech AB",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5ec4f7e0-235a-57c1-a061-8a796717e09c",
+    "DisplayName": "Qualcomm",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d12aff91-a6f8-5851-a545-e91ec1d592e0",
+    "DisplayName": "Qucs Development Team",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0fdf9ee7-0bce-5a41-bc30-e7d8c4b162d7",
+    "DisplayName": "Questel",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3a445492-35a0-56cc-b0c2-76d0e08b900c",
+    "DisplayName": "RENE Solutions, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "523a2360-48db-5d2d-b74b-2b3f58e191b1",
+    "DisplayName": "RTPatch, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "969f41ff-78dd-5684-bb9c-44095b21ff76",
+    "DisplayName": "RWS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "458e280d-fd54-51fa-aaeb-e3f9f05ef71a",
+    "DisplayName": "Radio Mobile, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "005057f1-2c80-5dc8-9bbe-bab7b9b24358",
+    "DisplayName": "Radio Survey Software GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "50e2731e-6010-58ea-bfad-5faf405391f9",
+    "DisplayName": "Rapid7",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e4f0eb43-cc26-562d-b19b-f87eed58eace",
+    "DisplayName": "Raylase GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a45af4a9-8adf-5bb5-8cda-6c17b79c472e",
+    "DisplayName": "Rebex Software.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8d728f60-1ad0-5956-8b16-363caea720e0",
+    "DisplayName": "Red Hat",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "314e1d40-737c-5a50-8370-5684bacec581",
+    "DisplayName": "Red Hat (IBM)",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "576085c3-b3bf-5dcc-8822-3cb9f34dec63",
+    "DisplayName": "Red Hat, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3a4cf7fa-f3b5-56d0-99b8-a7906188183a",
+    "DisplayName": "Redgate",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "138c9710-cd5b-5d9b-ab61-7b470edf0f99",
+    "DisplayName": "Regex101 LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e414bf98-e62e-5abb-85a3-5b47a4a6ed6b",
+    "DisplayName": "Reliance Industries Limited",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2a0d1ad0-7497-5795-8bb6-a437ccacc9f9",
+    "DisplayName": "Remco Aerts.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "cb3bc9b6-fdb9-55dc-ac6c-5dd42f2ca882",
+    "DisplayName": "Renuex GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "729e6aeb-e2d3-5867-9b53-1805e324ff50",
+    "DisplayName": "Responsive Systems, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "95659370-ed27-54a6-a404-e615e979aa78",
+    "DisplayName": "Revelation Software.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d3d7e9fa-737b-5aee-94c6-0302724369aa",
+    "DisplayName": "Risma Software.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2c950194-128c-555f-9f4c-6f256534a55c",
+    "DisplayName": "Rohde & Schwarz",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c3b9c8b4-c6f4-5f74-b570-350721156856",
+    "DisplayName": "Roima Denmark A/S  _x000D_\nLogimatic OIO",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f41fc3e1-376b-5ca7-9610-fd3828835574",
+    "DisplayName": "Rolerights Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "72d42ac9-457c-5fc4-b2e1-92f38b8fac50",
+    "DisplayName": "Roma Software.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a92f57a1-23bd-5482-b0e0-031f68bb8264",
+    "DisplayName": "Rufus is developed by Pete Batard.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "fc63cf50-e21b-52ff-8b03-c431763144e6",
+    "DisplayName": "S2-LP Applications",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1f081156-4b7f-52ea-b1d4-c33632ac6b23",
+    "DisplayName": "SAP",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "966e4a0d-5645-5b2b-8558-d39552e979aa",
+    "DisplayName": "SAP Concur",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "695ac762-ed5a-52ec-95c8-c6f47977669f",
+    "DisplayName": "SAP SE",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c7b6ccdb-1bae-5fa2-a031-c3fbb99fd355",
+    "DisplayName": "SEEV8R3 is developed by Seev8.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "bb051cb2-9fdd-5814-ad05-1021099ea7b1",
+    "DisplayName": "SEGGER Microcontroller Systems GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "dea0a856-6103-5684-b462-3f287464d424",
+    "DisplayName": "SEGGER Microcontroller.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a61601c9-c02a-5745-b073-5ffceded47f6",
+    "DisplayName": "SEMrush, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d523c6bf-dab7-529d-a6aa-9715913c1152",
+    "DisplayName": "SENEA Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3b797f2f-edde-55a6-8826-46dfcc8cb246",
+    "DisplayName": "SIM Service.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7a9311c9-f859-53b0-8315-2ea7b00b2306",
+    "DisplayName": "SMSPasscode, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "65d16a12-b564-5bb1-a9c2-5fbd587ea539",
+    "DisplayName": "SMX Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "99cb4120-b6aa-5ac7-a735-a32276bdcabb",
+    "DisplayName": "SPOG is developed by **CyrusOne**.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4bbe0819-448e-5de3-b98b-02c2a4cfd5f0",
+    "DisplayName": "SQLDigger is developed by**SQLDigger, Inc.**",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "cf9c2600-d545-52a0-860f-04dbd9ac37d0",
+    "DisplayName": "SQLite Browser is developed by the community and is not associated with a specific company vendor.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c1a5b67e-57c9-5266-959c-3c35953e4dd7",
+    "DisplayName": "SQLite Development Team",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f08b8b3a-73f9-5a60-9b52-6ca05102e7a6",
+    "DisplayName": "STMicroelectronics",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "189ef105-3fb5-5dc7-834d-e7cc7feb6757",
+    "DisplayName": "Salae, LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "169fc1cc-a23f-5f18-b9aa-a3e2bb0ac4e7",
+    "DisplayName": "Salesforce",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8c85a182-0410-5757-8bc1-abb58f0e4ba1",
+    "DisplayName": "Saturn PCB Design Toolkit",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9a17f4c0-d886-58aa-b028-715b4886adc4",
+    "DisplayName": "Schneider Electric",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8a63bf49-3164-541f-8636-dee1e06d7894",
+    "DisplayName": "SciChart Limited",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "378b2e60-4085-5a70-9703-e8e8ce8fb5a6",
+    "DisplayName": "Science Based Targets initiative (SBTi)",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ae7f5176-9f9d-559e-8711-52b9c8424c73",
+    "DisplayName": "Scooter Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4e7bb2d2-3f07-5888-a407-9dc54f63dbcd",
+    "DisplayName": "Scruffy, LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c81ffbe8-e066-53b0-a8a6-624b127ac850",
+    "DisplayName": "Secomea",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "43c1ba38-0cac-5877-bd26-85fbf052cdce",
+    "DisplayName": "Second Nature",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1e4f50b1-0e99-5c53-9b12-55bdf251dd1f",
+    "DisplayName": "Secoya A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "c79a7c4c-6063-51e2-af1c-c43446e8947e",
+    "DisplayName": "Secoya A/S, Orbit Online A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f15d16dd-d493-5687-8828-001b690d794e",
+    "DisplayName": "Semtech",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a3de03d0-d760-5ee1-94bf-f04f3bf78ab8",
+    "DisplayName": "ServiceNow Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0a3dadce-63d1-58b5-92bf-2fe2dbe9b014",
+    "DisplayName": "Siemens",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9b3476f7-64d3-5068-b728-2c39aa81c8b2",
+    "DisplayName": "Siemens AG",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "66e3096d-0a47-5776-a04f-634bedc6a423",
+    "DisplayName": "Siemens Digital Industries Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4dfec853-9835-5b66-bcea-58e03a6cf2c8",
+    "DisplayName": "Signal Hound",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7b377f9a-f5e5-5d8f-b4ca-51ca8bf55122",
+    "DisplayName": "Silex Technology.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0125ce4d-03bd-5905-8141-d58934d956d4",
+    "DisplayName": "Simon Tatham",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "95b17aaa-2cb3-5ce3-acb5-d188a4996cf4",
+    "DisplayName": "Simplicity Software, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "56cb01f8-6bd9-5c99-a83b-ac3e477895d1",
+    "DisplayName": "Sitecore",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "45dfa5a0-4a87-5a00-ab3d-f3b9d3e327bf",
+    "DisplayName": "Sixth Main Labs, LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3ff30020-87bd-546c-a755-c3b823034fe8",
+    "DisplayName": "SmartBear Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a9c6fbb4-63dd-5b11-abd8-ceb11d6f376d",
+    "DisplayName": "Snoop Software Ltd.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "920e87f3-c465-5475-b0cd-7804fdd1fff9",
+    "DisplayName": "Sociuu Tech.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ad2b3ecb-efc9-5c9b-914e-c612b34da35f",
+    "DisplayName": "Sofrel",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "02e9311f-b53d-5fdf-a9f2-8d5201ccb532",
+    "DisplayName": "SolidWorks Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "869748e0-ea75-587d-9fce-3e80201ed374",
+    "DisplayName": "Solutionspace",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Consultancy"
+  },
+  {
+    "Id": "2ff6fa10-3ca9-50ad-811c-3a04a4221692",
+    "DisplayName": "Speridian Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2d762af1-7950-5494-a355-02a1885d815a",
+    "DisplayName": "Spike Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "90a49e9e-7243-5810-b32e-cb80a2d41485",
+    "DisplayName": "Splunk",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "17e938ed-9e54-5c00-acaf-926e67dc0356",
+    "DisplayName": "Spochconverter is developed by Spoch.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "86488061-3ce7-5fdc-87e5-8e2bfe263ba3",
+    "DisplayName": "Spyder is developed by the Spyder Project.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b56cae1e-7b01-5be7-9ce2-6413a6d9c33d",
+    "DisplayName": "Stardock",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "dbc36387-2066-5ced-8f1f-603354e96110",
+    "DisplayName": "Statistics Netherlands",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ca194d1f-a03f-5756-b264-ac1e5446a97f",
+    "DisplayName": "Storyblok GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "48dea3f6-f7d4-5ad5-b7d5-c6ae18376ab0",
+    "DisplayName": "Studio 3T",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6b171fda-7428-540f-bbb1-fee9d42beea6",
+    "DisplayName": "Sunshine Software, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "925cf6ed-70a2-58e0-937e-584b055070e4",
+    "DisplayName": "Syncfusion",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a99ea1ec-f578-54b8-b42a-8856afb5d636",
+    "DisplayName": "SynergyXR",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "32e5e0ef-7e7c-5953-b9a6-72ee3aecc7e1",
+    "DisplayName": "Synthesia",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "dbd7900b-1373-50c3-8a9f-33b88ac7f6dd",
+    "DisplayName": "Sysarb",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7e77fd83-01ac-58ed-a17b-86dc4a84a4c1",
+    "DisplayName": "System Logistics S.p.A.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "36974711-c64b-5523-8c30-4970f430d239",
+    "DisplayName": "TBD",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f1a1eb7e-0da2-5203-8b97-ec118d8883e8",
+    "DisplayName": "Tabular Editor",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "591507ba-9711-5172-bf15-7dfc5d554a5d",
+    "DisplayName": "Tama-Soft.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a696f524-a82e-59c3-ae1c-979adbc47658",
+    "DisplayName": "Tech-Tools, LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0ddd4236-e420-5d4f-8927-057b8a458fa9",
+    "DisplayName": "TechSmith Corporation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "831898c8-0b9c-5310-ae79-c6826ce3f689",
+    "DisplayName": "Teklynx",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0b9a1d3a-bf7c-5682-a652-583e4f7635cf",
+    "DisplayName": "Telekom",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3ae1edc8-6ce9-5dcf-be05-491c9a532c17",
+    "DisplayName": "Telerik",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "440e1e6d-b146-5eea-845f-3fe356c9e51d",
+    "DisplayName": "Terminus.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "23d2c37c-d50f-5762-82c5-23f35c6e23af",
+    "DisplayName": "Texas Instruments",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f8d7341c-604e-584b-998d-9e1a8c095d55",
+    "DisplayName": "The Code::Blocks application is developed by Code::Blocks Team.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "15b84c0d-bfb6-5c0f-a9df-738685fc3698",
+    "DisplayName": "The Dr. Memory application is developed by the company named \"University of Hawaii\".",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "87902e65-6cbf-5d6f-bda9-1388d016f330",
+    "DisplayName": "The GIMP Team",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "649512a1-0622-5aa5-9e64-16ede2115227",
+    "DisplayName": "The LLVM Project.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "38b36cbc-944d-5098-adfe-b2ba6f78c044",
+    "DisplayName": "The OpenBSD Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b935b171-2625-5d89-bceb-158ccfe9f9ae",
+    "DisplayName": "The Qt Company",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4fdca911-c097-5188-8dcd-caf41bc7ceff",
+    "DisplayName": "The Raspberry Pi Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5703069a-34aa-5cd7-9209-d267bb6dc5d4",
+    "DisplayName": "The Software Vendor for the application TLF Service is TLF Technology.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d1df20c1-d6e5-5cc7-89db-1eb05593a5ce",
+    "DisplayName": "The application Flatpak is developed by the GNOME Project.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6802bf1d-fe74-501e-957d-4009e6b71edd",
+    "DisplayName": "The rust team",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "395fa397-ae63-54cb-a3c2-4547fc1e5df7",
+    "DisplayName": "There is no application specified.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d792fdea-22bc-5a41-aab3-6b1317a81f97",
+    "DisplayName": "Thermo Fischer Scientific",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "24bffae9-28a5-5cd5-9a67-9c58c7223dd8",
+    "DisplayName": "ThrowTheSwitch, LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8b7475fd-61b4-55a2-a4d2-2a6287128fbf",
+    "DisplayName": "TortoiseGit is developed by the TortoiseGit Team.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "910f0e6e-bfd5-5cba-875a-c208b4f322cd",
+    "DisplayName": "TortoiseSVN is developed by TortoiseSVN.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9f1644b7-b60c-5fdd-9440-64ed40d04c2d",
+    "DisplayName": "Trane Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ba57c149-6af8-5fa4-ac49-e76e7d044de1",
+    "DisplayName": "Transporeon",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "35b53990-5d0a-5612-ab47-7f1b5c0ac6ad",
+    "DisplayName": "Travelpool GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "0947c2f7-c267-522f-b2a2-008d59cb150d",
+    "DisplayName": "Trellix",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a0902c58-20be-5646-a21d-d4c59fb5fa7f",
+    "DisplayName": "Trintech",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1b75e836-42cb-552a-9572-97ab6acac9dd",
+    "DisplayName": "Truesec",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "36e322a3-74aa-5405-abd1-0151c834406e",
+    "DisplayName": "Tuxera",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a610367d-38a4-5ce5-9466-d68a4ebb6ab7",
+    "DisplayName": "Twilio Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "caae9ef1-d5b6-57c2-a12b-380b6de29cc3",
+    "DisplayName": "Tyler Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "40dc7668-08ef-54ba-b830-5c11e9881929",
+    "DisplayName": "Udemy, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "9abe93bf-473e-5d7d-b25f-8d1c6a2586ca",
+    "DisplayName": "Unknown",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "92adc03c-9220-5bbc-bb9d-2a75c914098c",
+    "DisplayName": "VIS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "637cb292-61c5-56ce-96c0-ec6ff5dd4e97",
+    "DisplayName": "VIS Performance A/S",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d802cb63-daad-5ef2-a327-71531a31382f",
+    "DisplayName": "VMware",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b1e7b068-e019-532f-9831-1e27c13c0c87",
+    "DisplayName": "VMware, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "e7486068-de37-5d97-92cd-edf1f023c135",
+    "DisplayName": "Veeam Software",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "94c84223-dc3f-5d2e-8c32-f7614afca055",
+    "DisplayName": "Vendor Management Solutions, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "db179057-adf4-5ae6-8a52-891e857e7561",
+    "DisplayName": "Venzo",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3c80908c-410c-568e-8749-5bffed8b2975",
+    "DisplayName": "Vercel",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "dfee61ce-f539-5a7c-bfdb-7232cf950c6c",
+    "DisplayName": "VideoLAN",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3b745b9b-7a80-56c7-afb8-fbb0f3c9d56f",
+    "DisplayName": "Vigilant Technology Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "2d521af1-358f-5748-b63a-01908738eb01",
+    "DisplayName": "Visma",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "8d71fb6d-a313-5ad3-88b1-b1b12c9f4fe9",
+    "DisplayName": "VisualSVN Solutions, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "4a892d1d-8d6e-52e9-8728-76f06fe80f90",
+    "DisplayName": "Vivaldi Technologies",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "146608c1-f8b1-572e-b476-2c96bf95105a",
+    "DisplayName": "Vmware",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "245d8c43-e460-52b1-8024-53c994e73954",
+    "DisplayName": "Vrinco",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f793e63f-6ac3-58b7-839c-98ebf1a48401",
+    "DisplayName": "Wacom Co., Ltd.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f467f09b-c386-502f-a2d4-a5a0e9a62900",
+    "DisplayName": "WinMerge is developed by WinMerge.org.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "bf688287-cb30-5600-bef3-2eda57f4edd4",
+    "DisplayName": "Wireshark Foundation",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d9294583-cd60-579d-9afb-707cfe36fb85",
+    "DisplayName": "Wordpress",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "eb363584-c2aa-5a9d-9e0d-b1f13b446cf5",
+    "DisplayName": "World Wide Express",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a6e67949-92d7-5fc4-a7a7-e7f9dc602c53",
+    "DisplayName": "WorldTranslate",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "84638bbf-e5bc-53ca-b848-56d78048defa",
+    "DisplayName": "Wrike, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "6663c4f6-35bc-5f84-acbd-c38d9b137938",
+    "DisplayName": "XCA is developed by XCA (X Certificate and Key Management).",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "a7035c79-06e7-5081-9d8f-9202c3efe5a1",
+    "DisplayName": "Xilinx",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b6ebf180-8e4e-52c1-941f-bfd8c3831864",
+    "DisplayName": "Yabe Team",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "043e57ad-dc8e-569a-946b-450d73179f9f",
+    "DisplayName": "Zabbix SIA",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d9689690-ca73-5f5e-bacf-1a2d08d1fd9f",
+    "DisplayName": "Zendesk",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d289d99f-ab48-593f-886b-d9499a735723",
+    "DisplayName": "Zensai",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b0ba6707-8cef-5789-b217-0e88b7c02218",
+    "DisplayName": "Zoom Video Communications, Inc.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3647044c-71e6-52c2-9746-384bc9774932",
+    "DisplayName": "dmarcsuite",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "3652116f-6bb1-558a-be1b-f665bf6eb1e5",
+    "DisplayName": "dotPDN LLC",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "7b05b92a-869b-58ec-9004-d4c200d96ef2",
+    "DisplayName": "files.com",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "d76fde93-ab8e-5282-90de-6fbf13489497",
+    "DisplayName": "flonidan",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "55d95110-0649-5c89-bdb6-d88aa235e404",
+    "DisplayName": "iPaper ApS",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "ef1cf43d-667c-5123-adc9-3931b2546572",
+    "DisplayName": "labgrid is developed by the company **Labgrid**.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "cf412860-a68f-52e8-bfc9-a978029b399f",
+    "DisplayName": "microsoft",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "5172b322-7774-54e2-bfd2-1e3b9046a15e",
+    "DisplayName": "monday.com Ltd.",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "c3ff8055-3445-59b2-8306-1d602baed22c",
+    "DisplayName": "myInsight Solutions",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "98c9afea-b62b-5cab-8e34-aba59b994999",
+    "DisplayName": "nginx",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "b6b632e6-9046-50a4-ac3a-1580f582d96f",
+    "DisplayName": "open source (Ditto Project)",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "1948b4a2-caaa-5292-bd34-19211efaf90c",
+    "DisplayName": "think-cell Software GmbH",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
+    "Id": "f2b5241e-06d3-599f-949b-91ede7f26142",
+    "DisplayName": "voidtools",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  }
+]

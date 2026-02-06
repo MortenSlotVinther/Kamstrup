@@ -1,0 +1,400 @@
+[
+  {
+    "Id": "636584f0-b1b3-5950-a665-133c2d66ce87",
+    "DisplayName": "Aras Innovator",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "PLM",
+    "RichDescription": null,
+    "Responsible": "Freja",
+    "Tags": [
+      "Strategy:Strategic"
+    ]
+  },
+  {
+    "Id": "1769e7dd-94cd-5f1a-b4a7-d1264f7c22da",
+    "DisplayName": "Atlassian",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "The Atlassian Cloud Platform connects teams with all the curated data, context, and goals they need as they work across their favorite Atlassian and third-party applications.",
+    "Responsible": "MANO",
+    "Tags": [
+      "Strategy:Strategic",
+      "AI-enabled"
+    ],
+    "Concern": {
+      "Header": "Platform Comment",
+      "Description": "FRFS: The Atlassian platform could be utilized even more.",
+      "ConcernCriticality": "Low"
+    }
+  },
+  {
+    "Id": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+    "DisplayName": "IFS",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "ERP",
+    "RichDescription": null,
+    "Responsible": "Tingleff",
+    "Tags": [
+      "Strategy:Strategic"
+    ]
+  },
+  {
+    "Id": "af6fa482-66c3-5ac3-8a79-f1e68118e9b0",
+    "DisplayName": "IPW",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "Kamway",
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "11130640-6127-5665-a5c4-bf9dd21492c2",
+    "DisplayName": "Oracle",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "Oracle",
+    "RichDescription": "Covers all of Oracle applications, including People HUB\n2 Tracks CPQ + Subscribtion\nHCM",
+    "Responsible": "SORR",
+    "Tags": [
+      "Strategy:Strategic",
+      "AI-enabled"
+    ]
+  },
+  {
+    "Id": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+    "DisplayName": "ServiceNow",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "ServiceNow",
+    "RichDescription": null,
+    "Responsible": "Mathias, Jesper",
+    "Tags": [
+      "Strategy:Strategic",
+      "AI-enabled"
+    ]
+  },
+  {
+    "Id": "5f6b0a93-7045-5d97-a67f-ee0d8bc3116b",
+    "DisplayName": "Dynamics 365",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "Microsoft Platform",
+    "RichDescription": "CRM & Marketing (Only)\n\nSuite",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Strategic",
+      "AI-enabled"
+    ]
+  },
+  {
+    "Id": "66b616ba-488b-5129-952f-1a78dc32ce9c",
+    "DisplayName": "JetBrains",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Suite",
+    "Responsible": "MANO",
+    "Tags": [
+      "Strategy:Strategic"
+    ]
+  },
+  {
+    "Id": "aabbe0b3-f05b-58e1-a1d0-32052da00862",
+    "DisplayName": "Microsoft Data Platform",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "SQL, Azure Integration, Azure Data, PowerBI, Fabric\n\nSuite",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Strategic"
+    ]
+  },
+  {
+    "Id": "50189f89-a4a9-561e-bd4a-7e64879f729a",
+    "DisplayName": "Microsoft Office",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Word, Sharepoint, teams, CoPilot\n\nSuite",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Strategic"
+    ]
+  },
+  {
+    "Id": "1ed48706-ef8f-5c04-8982-7022aaa7823d",
+    "DisplayName": "Microsoft PowerPlatform",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Power apps, automate\n\nSuite",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Strategic"
+    ]
+  },
+  {
+    "Id": "9c2f5bde-046a-5a37-8f07-2b1b9a78ccf4",
+    "DisplayName": "Cisco Security Suite",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Strategic"
+    ]
+  },
+  {
+    "Id": "4ed8d44e-17cc-513b-aca3-ff4ad89074ad",
+    "DisplayName": "Kubernetes",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "Kubernetes",
+    "RichDescription": "Technology Stack",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Strategic"
+    ]
+  },
+  {
+    "Id": "17b6ff5e-8f35-53e4-8834-ee176714ff64",
+    "DisplayName": "Dynatrace",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "Dynatrace",
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "aecc7b46-9872-5510-a7b8-46dd62c378e1",
+    "DisplayName": "IBM Cloud",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Used in IoT Solution",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "9aa61a07-5d44-5000-a4d1-3c6949e941e8",
+    "DisplayName": "Microsoft Service Fabric",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Platform til at orkestrering at windows service/microservices hosted på fabric nodes …",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "299b3dac-a8c0-526f-bb1f-7285e1e492b1",
+    "DisplayName": "QAD",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Running TMS (Transport Management System)",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "2c8a64e6-5265-5a69-abf9-a573f12413dc",
+    "DisplayName": "Reliance",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "d402aafb-b510-5bad-80cf-2408cbed1e16",
+    "DisplayName": "SAP",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Concur, CPM",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "de1fc9d5-1d1b-5f2c-992c-959c30096133",
+    "DisplayName": "Zappix",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "Zappix",
+    "RichDescription": "Observability platform for Cloud, network, services, IoT etc across IT/OT",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "b30b78e5-8c83-582b-8445-cf1a834d965f",
+    "DisplayName": "Adobe",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Suite",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "4983315f-41a4-5f3c-a15b-2dbf1f8af818",
+    "DisplayName": "Cadance",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": "OrCad",
+    "RichDescription": "Suite",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic",
+      "AI-enabled"
+    ]
+  },
+  {
+    "Id": "e9384fc2-9e0d-565a-9d5f-920b80333c02",
+    "DisplayName": "Microsoft Developper",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Visual studio\n\nSuite",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "0d260da7-d32d-5f95-9578-dd7a677241ea",
+    "DisplayName": "Sitecore",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": "Suite",
+    "Responsible": null,
+    "Tags": [
+      "Strategy:Non-strategic"
+    ]
+  },
+  {
+    "Id": "7350d3e1-b20d-5653-812c-6af5032cf8a6",
+    "DisplayName": "C#",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Programming Language",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "24a8ebea-1a57-5ef0-a389-893549ebaaf4",
+    "DisplayName": "C++",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Programming Language",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "2e3996da-898a-5850-a855-8ac7c856d02c",
+    "DisplayName": "Java",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Programming Language",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "5bd97f8a-a707-5b9e-aaa7-9ffd51acd0cc",
+    "DisplayName": "Python",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Programming Language",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "7314b4bb-326b-58b9-85e2-901ed40dcc0e",
+    "DisplayName": "Ruby",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Programming Language",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "929a8736-eea9-5311-8e11-e70f5a116f59",
+    "DisplayName": "Rust",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Programming Language",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "d8826ed3-4876-5feb-b1ca-3a1ed50e4f2b",
+    "DisplayName": "Phase Out",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Phase Out",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "6a132c7d-d733-5c42-8255-b059a8c707e0",
+    "DisplayName": "Existing",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Existing single applications",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "ba654e75-daaf-5130-8cef-4bee2417afac",
+    "DisplayName": "New",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "New applications",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  },
+  {
+    "Id": "f317e5b0-b764-5498-8d34-1c54ef5e71fe",
+    "DisplayName": "Kunne vi lade os inspirere af denne ift. Platforme.",
+    "FactSheetType": "ITComponentFactSheet",
+    "ITComponentType": "Platform",
+    "ShortDescription": null,
+    "RichDescription": null,
+    "Responsible": null,
+    "Tags": null
+  }
+]

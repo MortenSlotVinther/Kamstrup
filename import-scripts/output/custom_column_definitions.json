@@ -1,0 +1,109 @@
+[
+  {
+    "Id": "d2a12dbb-8d60-5cd5-9a14-4249b929d1ab",
+    "Name": "Clean up: Note",
+    "Description": "Kamstrup cleanup tracking note",
+    "FactSheetType": "Application",
+    "FieldType": "TextArea",
+    "Required": false,
+    "DisplayOrder": 200,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "3d760e8b-8525-5656-833f-c4455f345866",
+    "Name": "Clean up: Recommendation",
+    "Description": "Kamstrup cleanup recommendation",
+    "FactSheetType": "Application",
+    "FieldType": "TextArea",
+    "Required": false,
+    "DisplayOrder": 201,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "abb63b83-5f1e-57cc-a694-2b5d66d27e6a",
+    "Name": "Clean up: Reason",
+    "Description": "Kamstrup cleanup reason",
+    "FactSheetType": "Application",
+    "FieldType": "TextArea",
+    "Required": false,
+    "DisplayOrder": 202,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "6e18576d-24be-5dda-80e1-a9609b350240",
+    "Name": "Clean up: WP Size",
+    "Description": "Work package size for cleanup",
+    "FactSheetType": "Application",
+    "FieldType": "Dropdown",
+    "Required": false,
+    "AllowedValues": [
+      "S",
+      "M",
+      "L",
+      "Project",
+      "Project-initiated"
+    ],
+    "DisplayOrder": 203,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "61e420bb-d3d3-5152-b7f7-2d5103d9fc02",
+    "Name": "Item Number",
+    "Description": "Kamstrup internal item number",
+    "FactSheetType": "Application",
+    "FieldType": "Text",
+    "Required": false,
+    "DisplayOrder": 210,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "e9f2d365-930f-5589-9a2b-aaa33f74ab87",
+    "Name": "Named Users",
+    "Description": "Named users of the application",
+    "FactSheetType": "Application",
+    "FieldType": "TextArea",
+    "Required": false,
+    "DisplayOrder": 211,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "489c8742-cb8d-5d08-afaa-ce1b8e7fcad2",
+    "Name": "License Responsible",
+    "Description": "Person responsible for license management",
+    "FactSheetType": "Application",
+    "FieldType": "Text",
+    "Required": false,
+    "DisplayOrder": 212,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
+    "Name": "Yearly Saving (DKR)",
+    "Description": "Annual cost saving from application removal",
+    "FactSheetType": "Application",
+    "FieldType": "Currency",
+    "Required": false,
+    "DisplayOrder": 220,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "16a6fc76-86a6-5dc3-ac2f-cd80cb56c1e4",
+    "Name": "Yearly Costs",
+    "Description": "Annual cost of the application",
+    "FactSheetType": "Application",
+    "FieldType": "Currency",
+    "Required": false,
+    "DisplayOrder": 221,
+    "VisibleByDefault": false
+  },
+  {
+    "Id": "a01887a7-5cb7-55e4-a39f-2e86081d363e",
+    "Name": "Actual Saving (Annual)",
+    "Description": "Actual annual saving from removal",
+    "FactSheetType": "Application",
+    "FieldType": "Currency",
+    "Required": false,
+    "DisplayOrder": 222,
+    "VisibleByDefault": false
+  }
+]

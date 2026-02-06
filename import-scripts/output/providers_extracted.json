@@ -1,0 +1,5612 @@
+[
+  {
+    "Id": "4c4158da-d654-598b-86cd-84db0421231a",
+    "DisplayName": "#N/A",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "cd1245f6-e663-5ffe-84a2-9ae6921bf7cf",
+    "DisplayName": "0",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "068e2d51-bf07-58b4-bdd8-87d54f150435",
+    "DisplayName": "1Password",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f08cc6df-33c7-536f-8eb6-7dbe9a1d3506",
+    "DisplayName": "7-Zip Software.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1d573826-236e-5876-9bc8-cd1a4344fdb2",
+    "DisplayName": "?",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d1967c37-5860-59c1-a08b-b362af7b9ebb",
+    "DisplayName": "ADP, LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b74d9c6b-b29c-5915-be5c-1e869c552b58",
+    "DisplayName": "APEX SQL, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d621c04b-6de8-5e1b-8b76-e9aaa0fddd80",
+    "DisplayName": "AT&T Labs, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c7f25d15-ca95-519c-b0db-3302d24090e1",
+    "DisplayName": "Aconex",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f7e88748-91a4-58cf-a325-6f922f2e2454",
+    "DisplayName": "AcraSoft",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a082c619-f051-53bb-be9f-4a384f8a7be0",
+    "DisplayName": "Action Verb",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "81fdeec4-4cbc-5069-8f6c-96a4ee5dd0fc",
+    "DisplayName": "Administrative Service",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ddc6e332-ccb9-5ac7-82cb-02ae7ff07484",
+    "DisplayName": "Adobe Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "545c5285-9fd6-5ce7-9734-df2f665e9276",
+    "DisplayName": "Affero, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6a95eefc-55eb-5b02-89ed-127160bf1c55",
+    "DisplayName": "Airspy",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d3f49a29-8e64-508e-8594-5df7cc0243e9",
+    "DisplayName": "Airvantage is developed by **Sierra Wireless**.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b9f304e1-eabb-55db-8e5b-6685ba819354",
+    "DisplayName": "Alibaba Group",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a1916203-e347-5813-8d61-63837e941a8d",
+    "DisplayName": "Allegro PCB Designer",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d3d3f44a-990b-512d-8ab2-37f8b71a4071",
+    "DisplayName": "Allround Automations",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "bd3cd313-99a0-5bf2-9567-a39c0f921054",
+    "DisplayName": "AlmaLinux OS Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "674c1489-9389-5544-b9bb-b0b08ad1373a",
+    "DisplayName": "Altova",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6e435a89-6ca8-55b8-95c8-eb70bb02848d",
+    "DisplayName": "Amazon Web Services",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "890a2d3c-0106-5588-a938-74e3eecca933",
+    "DisplayName": "Amazon Web Services, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9ea7f90c-29bf-5603-863c-c5ce7549b9f5",
+    "DisplayName": "Amdocs",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c2bc5020-04bc-5fd9-99c1-f9cde6a77c41",
+    "DisplayName": "Analog Devices, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6de9e579-a345-51d7-8923-303079606d53",
+    "DisplayName": "AnkSVN is developed by Ank God.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "839098c3-f465-58da-b262-a2f6951a0c7c",
+    "DisplayName": "Ansys",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6de1e451-c278-50f5-a6ea-1b742e347bdd",
+    "DisplayName": "Anthropic",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d4da0e06-4d9b-5e30-9212-3eb7ad7c6ea5",
+    "DisplayName": "Antirio AB",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d58e5103-fa64-58fc-a42c-2c668f0e273d",
+    "DisplayName": "Apache Software Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "876157b2-9adc-54a2-821a-e69b3da6ec74",
+    "DisplayName": "ApexSQL",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7ad06073-b0ea-5ae0-a156-2071bdc33a0f",
+    "DisplayName": "Aqua Security",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "080d3b05-9a8c-5200-9f91-fbeb80c0612e",
+    "DisplayName": "Aquavit Asset Management",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "becaf669-5219-58fa-ae08-aa18cb51171e",
+    "DisplayName": "Aras",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a8f318a6-2a7a-5f8b-9726-012e9c5822f9",
+    "DisplayName": "Aras Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "fdb58c94-b82e-5fe4-a118-2a37740aa48d",
+    "DisplayName": "ArchiMate.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9282c7e0-0d4b-5ab4-8b3d-523d8f0d80d4",
+    "DisplayName": "Arduino Srl",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b78dfebf-1c65-5f86-a3e1-a0d48e754c7d",
+    "DisplayName": "Arm Limited",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9f327685-39f4-5196-9848-7f7fc1e91e8e",
+    "DisplayName": "Aspia",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "921215ce-3107-584b-ba18-ebf278bf9fe2",
+    "DisplayName": "Atlassian",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "40ee5ea7-e7ff-5024-b3f6-2034355a882d",
+    "DisplayName": "Atlassian, Eficode A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "55c1b3bb-9f1b-566d-812c-3f4e8ee16ce5",
+    "DisplayName": "Attention Solution",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "16405106-3bc6-514a-a9f3-de637b5635fc",
+    "DisplayName": "Atyune, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "45e489b8-36ef-50de-9c3f-0f1bcdb6c6bf",
+    "DisplayName": "Autodesk",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "4057dfd6-f573-5d00-a015-349fdc956817",
+    "DisplayName": "Avalara",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "78ad0adc-9e0a-5523-9eb9-af4633690bf9",
+    "DisplayName": "Axosoft",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e5214118-a37b-5d3d-9059-d1bfe730f317",
+    "DisplayName": "BACnet International",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3d803467-ad0f-500e-8ac1-736e6ed7555c",
+    "DisplayName": "BSF",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8ea1dcdd-64a9-5b30-a87f-d41f761a18e5",
+    "DisplayName": "Balena",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a57df5eb-e59a-5b74-aa92-f361df55c3e7",
+    "DisplayName": "Balsamiq Studios, LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "497ef93f-dabb-523e-94b5-cd4c5f5dbb40",
+    "DisplayName": "Bare Tail is developed by Bare Metal Software.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f35a7a18-3921-5e9a-a66c-89eb0be5a982",
+    "DisplayName": "BareMetal Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6949f834-3963-527e-b432-f8a9af4b25ff",
+    "DisplayName": "BeyondTrust",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f0477353-1880-5396-9c39-bc0724c3fcd0",
+    "DisplayName": "BidPrime",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3f24a8f2-84ff-5cef-b0c2-16bcdeb40308",
+    "DisplayName": "BidSite",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "15ba21ea-3df3-5d57-8c59-02945cf3f256",
+    "DisplayName": "Bimobject",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e7684f83-b8d1-52d2-8e4e-681b7bf339e4",
+    "DisplayName": "BizBrain Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3b92a031-97e9-53b3-91fa-9c99f80925e2",
+    "DisplayName": "Bizbrain",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ec860487-285f-519f-b156-f0c6583822f4",
+    "DisplayName": "Blend Labs, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f7b30278-b453-5809-a7b9-b1f1cbda8a32",
+    "DisplayName": "Blender Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b655f8dd-5aa2-5b4f-9b56-e005e00230fe",
+    "DisplayName": "Blendit Learning ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8b699e60-c770-5159-a46c-6c044b6369ad",
+    "DisplayName": "Bluebeam, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2337adae-64fe-5b83-ae92-2deeedf1e49b",
+    "DisplayName": "Bluecat",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ff0f1727-3731-56ca-bb17-fb0904257420",
+    "DisplayName": "Brave Software, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "4a8a0033-722d-5cc2-82a2-10ecd28573ea",
+    "DisplayName": "Broadcom",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e286753a-cdf3-511b-9437-ebf84df7a3b5",
+    "DisplayName": "Business Criticality",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "bb2b3680-5e02-591c-a571-ceadee2e58f1",
+    "DisplayName": "Business Operational",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "48e8b6fd-adb3-52eb-9d7c-c96119e247c6",
+    "DisplayName": "C3S Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "61f449fb-2d77-58c6-9b07-53f4d5c89769",
+    "DisplayName": "CIM Software Testing",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "085509e9-51e9-5234-ad5f-33069e6c1d1f",
+    "DisplayName": "CRECEA S.A.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "dbbef89b-8cfd-5c5d-879a-2158da5a8b8e",
+    "DisplayName": "Cadence",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b038ab92-d0a4-54e2-8f23-ae280a3a6103",
+    "DisplayName": "Cadence Design Systems",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "fdc3d207-a79c-5542-ac18-6b04bf9bb2a7",
+    "DisplayName": "Calypsoviewer is developed by Calypso Technology.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f1cb0990-4ef2-5414-b9fb-2f083fd43f75",
+    "DisplayName": "Canonical Ltd.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "18c9b12c-9ea8-564e-bf52-5d532ec1b6a3",
+    "DisplayName": "Canva Pty Ltd.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "57edbdfd-c78c-5a62-93b6-13dbc6ba36cf",
+    "DisplayName": "CapMon",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "58a1889f-5e54-5aca-b0c8-b35527151e02",
+    "DisplayName": "Change Vision Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "4606f90e-4a23-52ac-ba5f-394b8d3f9177",
+    "DisplayName": "ChemSW",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "911472cc-b0e2-5b4e-8f18-503e51b0d4b9",
+    "DisplayName": "Chilkat Software, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "4734a947-f569-5521-a5a9-f3b9bb33bf03",
+    "DisplayName": "Chocolatey Software, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e91324b6-717f-58fa-a115-a71b112e2f34",
+    "DisplayName": "CircuitByte GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "886b0c9b-0d32-5917-88e5-3389c9aed776",
+    "DisplayName": "Cisco Systems, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "eb47ed54-1764-50af-bce5-fccac1047fab",
+    "DisplayName": "Citrix",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0ef905d0-92a7-5ce2-ab8f-02a62cf1d1a4",
+    "DisplayName": "ClickLearn ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8af372f3-09fb-5df5-91b0-eea27a6017f2",
+    "DisplayName": "CloudBees",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6c13b8e8-4624-50bc-9f84-7a28f6dcdf45",
+    "DisplayName": "Cludo ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "98570dd6-af18-5388-9bb3-e0ec7fa14569",
+    "DisplayName": "Cludo, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5f0808ec-a35f-5852-96f5-290a995a23d8",
+    "DisplayName": "CollabNet",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6dd77af4-cfa7-5bc6-a520-7d47c7d5b082",
+    "DisplayName": "Combit GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ee72dbab-4bd2-592a-9dae-ff46281b0903",
+    "DisplayName": "Compete HR",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "552c4e66-c8e2-5246-8466-d83cd0c38770",
+    "DisplayName": "Computer Simulation Technology AG",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d7e24aff-9e8a-5ced-8c4a-6e00fccd1bf5",
+    "DisplayName": "CppCheck is developed by a community of contributors and does not have a specific vendor company.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "235e4ffb-2153-5457-a058-b7a63e11c841",
+    "DisplayName": "Crayon",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "46586d21-f9b2-5491-9e95-b47dfb463404",
+    "DisplayName": "Cribl",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "854d26da-9b4e-5352-a615-a890312b6fb4",
+    "DisplayName": "Crowdin, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5fff24de-75e4-5307-91bb-b79155af3695",
+    "DisplayName": "Cumulus Networks",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "cd9adc54-0240-548b-8358-b6eddd71404a",
+    "DisplayName": "Custom SIM Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "728f3089-0a08-52ab-a4ae-6becdff1777a",
+    "DisplayName": "Cybot A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b2784909-8365-5410-a8a4-41887e5cecd4",
+    "DisplayName": "D-Link",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6d9ecf5c-3b4a-5fe5-909c-4542bdd5de3a",
+    "DisplayName": "DLMS User Association",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d683901d-4a82-59b7-b5c8-ffd5083a8a9a",
+    "DisplayName": "DMaaST is developed trough several vendors",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "eb88452f-2a25-5aa6-a685-9e12f96e7193",
+    "DisplayName": "DNV",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ce36082a-3c37-50d4-8b15-8066a5131c5a",
+    "DisplayName": "DOSBox Team",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3ff016a5-c58b-5418-ad07-be7f126baa56",
+    "DisplayName": "Daniel Stenberg",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "18974442-388e-5b08-86b4-f3c1fd9ed315",
+    "DisplayName": "Dansk Standard",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a5183638-a354-5ee9-a441-d1e4f8577425",
+    "DisplayName": "Danske Bank",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d01d011b-7292-5ee5-be12-1c62078eb68c",
+    "DisplayName": "Dassault Systèmes",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "753a321d-a382-5d23-a01c-a0ae447af021",
+    "DisplayName": "DataCenter Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "43b39198-ce0e-54d4-aaa5-07ff682a0b3c",
+    "DisplayName": "DataCore Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "63142990-d4ac-58ca-a5ad-c407c4b0aabd",
+    "DisplayName": "Databricks, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1744c42e-efad-50c7-b4c5-77c5383cbdc7",
+    "DisplayName": "Dataforsyningen",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "458d4bad-d424-533b-87a6-1d202d66b5af",
+    "DisplayName": "Dealfront GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "56bb9c56-0e4c-560f-9819-7a0920c32eb3",
+    "DisplayName": "Dealfront Group GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9916e97f-a504-519e-a6dc-0aada8a5449e",
+    "DisplayName": "Defco Software, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8f3a5807-a765-5b36-ba6a-f92c3a9030fb",
+    "DisplayName": "Dell EMC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e37ecc8b-b45b-5897-bebb-e0c872a1ec2e",
+    "DisplayName": "Dell Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b1a05e33-39b4-560c-a0ff-67cef1a68671",
+    "DisplayName": "Deltek",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e76073f3-90f4-5b77-a18a-ecc59a628da1",
+    "DisplayName": "Devoteam",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "87b8c5ec-39c2-55eb-8bb0-cb7e0088811c",
+    "DisplayName": "DigiCert Irelenad Ltd",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "fc34b5d5-7d5b-576a-99f7-9bf44fb641ac",
+    "DisplayName": "Discus Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "84825bbf-0d8b-50fc-ad07-edee7c774d58",
+    "DisplayName": "DockLight Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "83dd252f-a867-55f3-a637-67ea3a297f48",
+    "DisplayName": "Docker, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f9b5b91e-7934-5e51-84bf-43d6bce587a1",
+    "DisplayName": "DocuSign, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0663e4a0-d0d0-56eb-bd8a-2263524b76ff",
+    "DisplayName": "Dominik Reichl",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c54f179f-8271-55e6-a3be-c04b1c2d3898",
+    "DisplayName": "Dot.vu",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "22f83dbf-c887-51dd-9955-652bc4400286",
+    "DisplayName": "Dow Jones & Company",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "20f91c8f-a09b-5619-88fd-911deda065c7",
+    "DisplayName": "Dun & Bradstreet",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6fe8c23b-eac4-5045-92c7-217760d8fd34",
+    "DisplayName": "Dynatrace",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "34e25ee9-ae16-5845-a535-6b072f3f3735",
+    "DisplayName": "EC Software GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "75de763f-4be6-5db5-87d8-e66d4fc17c1a",
+    "DisplayName": "ELM Technology.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c2922581-7646-533c-a512-45c8a753d3a7",
+    "DisplayName": "EMH Partners GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "703c0c6b-4235-599e-9674-49ecd95eeafa",
+    "DisplayName": "EQS Group AG",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c2c6ee11-05ec-51df-bdc3-a541fb6c4eae",
+    "DisplayName": "ESRI",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "84a3c979-1ffa-5e00-b52f-d39d20258cfa",
+    "DisplayName": "ETQ",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1dc3fc8b-46a6-5f08-8b78-1afb02b0d072",
+    "DisplayName": "Easy File Locker is developed by Easy File Locker Team.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e4d3c82f-7624-5f21-af46-2b1223e571a0",
+    "DisplayName": "Eclipse Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5ba8e225-2985-5b65-9f15-061c0b406e1c",
+    "DisplayName": "EcoOnline",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5f1e2a19-82f4-57b7-9d84-e2cf9c6e1eff",
+    "DisplayName": "EcoVadis",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "47e55449-f674-55c5-b6c8-a8f3cc4a1645",
+    "DisplayName": "Efficient Elements GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "60ed2f09-3b3d-5566-87ee-13d27c4bd3f0",
+    "DisplayName": "Eficode",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "39ab751b-96a1-5c93-95dc-15bc21f07bce",
+    "DisplayName": "ElDevScripts",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e15eecd2-6ec2-5048-be2b-90a7d8020008",
+    "DisplayName": "Eldos Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "200f7ddf-582f-5027-a837-1ae07ce2ca71",
+    "DisplayName": "Eltima Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "85b88f23-42b3-5053-8400-02d2a2da4dcb",
+    "DisplayName": "Emma Systems AS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a2cad155-29d5-50c7-91a4-a506d385fca6",
+    "DisplayName": "Endalia",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6bc6b677-6052-5302-9f29-15a8de3dad01",
+    "DisplayName": "Ennova Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "33e9b831-80d9-5066-8af5-2a223b0544e4",
+    "DisplayName": "Eptura",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6bf908bb-0129-5e51-967f-ce65285b361d",
+    "DisplayName": "EuroDCS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1e1f77f9-5171-55f4-9862-db9a1688f309",
+    "DisplayName": "European Commission",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2a42d68b-b4a6-5ace-a6b9-12287190acc2",
+    "DisplayName": "Eventbrite",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "15011167-b441-5ece-b00a-a14e942e0970",
+    "DisplayName": "Evoko",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "85a888f6-7bed-5dd9-9e4a-555a24de0466",
+    "DisplayName": "Evolus",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f727cba0-2ce8-55ff-9261-5abe9bdafb52",
+    "DisplayName": "ExactFile, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7e91bada-b4f5-56ea-abe9-ae8e1ce9320b",
+    "DisplayName": "FABric is developed by the company Fabric Software.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a435ea05-7cb4-5dec-b789-6e29c6140592",
+    "DisplayName": "FALCON.IO ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "24857bb1-68ad-57a4-8ff4-6327fbddafc7",
+    "DisplayName": "Fabula Tech",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3e561250-bdc8-5932-8025-6571c4b192bd",
+    "DisplayName": "Figma.com",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3c7df5fc-523e-56ec-b47e-d14893d92594",
+    "DisplayName": "File Viewer +",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "abe1120b-b135-5dae-8ada-3c57f899bbb3",
+    "DisplayName": "FileZilla GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "cb5c9210-5a23-5c94-bbf1-05946f5fb1cb",
+    "DisplayName": "Flexera Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3925f6b8-be08-5f76-8a19-c4638a53e2af",
+    "DisplayName": "Fragt, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3489e962-f1e3-573d-96a2-9dba594904ef",
+    "DisplayName": "FreeFileSync is developed by Zenju.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "25a20983-5c6e-59dc-8966-351cfdd990f3",
+    "DisplayName": "FreeMind Team",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "593485fb-759a-5eb6-a079-a686949d2bc3",
+    "DisplayName": "Fritz Dellsperger",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "530740a4-e079-587c-8f27-84fb683e7f3f",
+    "DisplayName": "FrontIoT",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "cab1f8b8-f15d-543a-a763-9980ace476e7",
+    "DisplayName": "Functional Software Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "28b56b15-4a3f-5fb7-b3a8-166561133236",
+    "DisplayName": "Funnel AB",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "026957d1-7c2d-5c0c-bda9-7181bcd60fe3",
+    "DisplayName": "Funnel.io",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7e1a6d1e-6261-54da-839c-63e8a14922af",
+    "DisplayName": "Fuse Universal",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "88ea5af7-e27f-5160-978a-cc8ff7515a0b",
+    "DisplayName": "GNU",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "303168d2-50f6-5827-a705-d6f2b2bcb6e7",
+    "DisplayName": "GNU Project",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "937fda7f-5ce8-54f1-8fdd-1f1669942d79",
+    "DisplayName": "GastroSoft",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a1861db9-47ab-50e8-80bd-63670802d507",
+    "DisplayName": "GatherContent",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e9a674e0-4452-5a58-8bed-947da7517e74",
+    "DisplayName": "Ghisler Software GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6e67735e-a831-587c-8bc1-152f56f9a8bb",
+    "DisplayName": "Git Hub",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2e39a39d-083a-56fe-87cb-75511f8fde21",
+    "DisplayName": "Git is not associated with a specific software vendor as it is an open-source project. However, it was created by Linus Torvalds.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1909275b-8e60-576b-9892-d72a8fefcd02",
+    "DisplayName": "Git, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5c0bc50b-158d-5dcf-be9f-4dcab9f70c6c",
+    "DisplayName": "GitHub",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b3844bc5-b535-59e9-abfc-89f200868b90",
+    "DisplayName": "GitLab Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "327df251-f210-5cbd-9d4a-4a2effba5ac0",
+    "DisplayName": "GnuWin32",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "722a483c-cee0-59e9-85aa-9847e3d0e033",
+    "DisplayName": "Go Autonomous",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f5970b3b-88c3-5bde-aa29-b3161e543e15",
+    "DisplayName": "Google",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e04f53d9-1eeb-5ebb-9cad-0752a01e2c8c",
+    "DisplayName": "Google LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "06ce543f-9581-52c3-9839-34e27848e9cd",
+    "DisplayName": "Grafana Labs",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "875e19d2-f4cd-5953-b079-0780fb297946",
+    "DisplayName": "GreenShot.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "96570a13-37c6-5c86-ba7d-cebb421ed2f6",
+    "DisplayName": "GrepWIN is developed by Andreas Scherbaum.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "af85c9e3-5049-5adc-a0c5-f022e61a0d14",
+    "DisplayName": "Gyldendahl",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f60a5513-6c9f-5ad1-a7ce-02590891b6b2",
+    "DisplayName": "HR-ON ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "dfce07bd-fd68-5fb3-8a95-657b46a65af0",
+    "DisplayName": "HappyScribe",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "355932a9-84ac-5e83-b49b-5c2e4498c6be",
+    "DisplayName": "Hashicorp",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9e04813e-be10-5d8f-833b-742486fb2409",
+    "DisplayName": "Heat Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e87db866-1d9f-505e-b2c9-5bab190350bc",
+    "DisplayName": "Hogrefe Publishing Group",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3f825703-5f27-58c0-9ee6-ff99daf3f9d3",
+    "DisplayName": "Hotjar Ltd.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "054a95b3-b0e4-5c47-ac50-bf89c5de9985",
+    "DisplayName": "HubSpot",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5a04002e-2f38-5d6a-a3c6-713ab9d051c2",
+    "DisplayName": "Hypefactors ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e398ea29-a432-5f24-a3a2-a0cc80558639",
+    "DisplayName": "IAR Systems",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1c6319bf-8813-5551-b182-63773f0bae74",
+    "DisplayName": "IBM",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b7ef04dc-ece9-5cef-965d-0409a5021b0c",
+    "DisplayName": "IDW Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c9f7c274-1139-5514-8eff-d6a7cbace1e5",
+    "DisplayName": "IFS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "406587d0-0616-59cc-9567-25ec5d68d53d",
+    "DisplayName": "IFS AB",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c57eac51-465a-583f-a26d-bb5aec8a4135",
+    "DisplayName": "IMPARTNER INC.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0587eed9-7431-57c9-ac42-55fd21a6132a",
+    "DisplayName": "IPW Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2d6e1fbc-a86f-5dbf-bf38-c2e8115c585c",
+    "DisplayName": "IQS GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7eaa5b5f-b4ab-5933-827a-69512ba61c4c",
+    "DisplayName": "ISC (Internet Systems Consortium)",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e1c36b14-646b-51e8-b893-5d10bd272349",
+    "DisplayName": "ImHex is an open-source project, so it does not have a traditional software vendor company.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "80ef4dda-38ea-5399-8d15-373e5d9ba62e",
+    "DisplayName": "Impartner, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "eb401132-f4e3-5478-ba97-0d52cb1a3724",
+    "DisplayName": "Infinigate",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "74018072-6eb2-597a-87a7-acdbbc3d8911",
+    "DisplayName": "Informa Tech",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "89dd91ab-9f85-5d99-977c-fd751403912f",
+    "DisplayName": "Infragistics",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2c497d8b-c9e7-5ed9-93bc-bd336abae0e6",
+    "DisplayName": "Inkscape Project",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "95147c96-a99d-5b9c-b07e-ee86f0f1144a",
+    "DisplayName": "Innofour.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "25bf85fc-7741-5bb3-8f63-7c9779967493",
+    "DisplayName": "Integrator",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ac20ed51-0a00-53be-8760-c32aac34fafc",
+    "DisplayName": "Intravision",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a4aa7c99-7cb2-53d2-a874-6503796bd35a",
+    "DisplayName": "Ipendo AB",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c995ae49-26ef-57bd-9e86-3e67cea1ce4c",
+    "DisplayName": "IsMobile, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8c61f725-e88c-55db-a9d5-7b777e803c37",
+    "DisplayName": "Ivanti",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "28eeaf4c-0816-5d73-82fd-492d552dc599",
+    "DisplayName": "Jam",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b3b4084a-3363-583c-ae9b-9f6de3624aa7",
+    "DisplayName": "JetBrains",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e519de36-ecec-5a6a-bd61-3ed96e9ed193",
+    "DisplayName": "KamSite Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "04a21081-ad62-5484-aab5-a884efdb732c",
+    "DisplayName": "Kamstrup",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6b44ba27-7b24-505a-8252-546e4010e5ec",
+    "DisplayName": "Kamstrup A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7d1af330-39da-5b43-964b-e4ad35935414",
+    "DisplayName": "Kaspersky Lab",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d834a90c-e145-580c-800c-f026a1605e9a",
+    "DisplayName": "Keepit",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6efaed1a-72b4-5c15-ad54-e96c6f7806a0",
+    "DisplayName": "Kensington.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b539b272-64c4-5025-ace6-6994a4b9cafc",
+    "DisplayName": "Keynesis",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c70001bd-c68a-56e5-a829-54f4069fba6e",
+    "DisplayName": "Keysight Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "82eb6864-75d7-5eae-a693-e6ffbc4ca491",
+    "DisplayName": "Kitware, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "effd15fd-7038-57f0-9c75-1cb8c12d0089",
+    "DisplayName": "Kleopatra is developed by The KDE Community.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2fdeef39-3754-53d4-bb6e-e9814e41a98c",
+    "DisplayName": "KnowBe4",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "58fb8acc-c559-56e4-855c-4c5306540c36",
+    "DisplayName": "Kodecloud",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "94f0809a-9c6e-5c23-8f24-f9784057b55e",
+    "DisplayName": "Kofax",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "15c7dbd3-18a7-52b4-88c3-288e5612e9ea",
+    "DisplayName": "Kubernetes",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1f48e9bb-0f8a-5476-bce1-b98ddd93b62b",
+    "DisplayName": "LeanIX GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "598ff165-d547-5b3d-b568-8f376044955b",
+    "DisplayName": "Lessor PM is developed by Lessor.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3c5d8118-b391-5f23-912e-2d38e8e2d5f7",
+    "DisplayName": "Lessor Portal is developed by QuikFlip.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b5b2c878-4c14-525f-ba2a-f937da9d452f",
+    "DisplayName": "Lessor Software Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e8060ada-963b-5e29-8531-bc8675c51c8f",
+    "DisplayName": "Lifesize/TDC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a43ca7e8-cba6-5995-b3f2-13a2ff1d8d30",
+    "DisplayName": "LinkedIn Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a4cc92ec-279f-5287-bfa2-30bfdad5c295",
+    "DisplayName": "LogExpert is developed by a company called \"LogExpert\".",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d0b9483c-a106-54ef-8dfa-a773f18243df",
+    "DisplayName": "LogMeIn",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b3df6873-5802-5e11-9dbc-ab969376a71b",
+    "DisplayName": "Logitech",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "fda2826e-ab9d-52ce-b129-6b83a2415e53",
+    "DisplayName": "Logpoint",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a9719981-591d-5d6d-b15e-85dbde61c1f0",
+    "DisplayName": "Logview is developed by **LogView Solutions**.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d1d57fda-68f2-5d35-ba0c-fa0c0106a7da",
+    "DisplayName": "MB Coursework Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "81aff751-0509-54d6-8f05-c3f781eb4c74",
+    "DisplayName": "Malwarebytes",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8cbcabcb-ecb8-5b6b-a86a-65b7a63987c9",
+    "DisplayName": "Manyone A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ca9bfe15-cb1e-5e39-908d-4415344ad93e",
+    "DisplayName": "Martin Prikryl",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0cbeafd4-493b-516a-8213-829f433a4a37",
+    "DisplayName": "Mastedatabasen is developed by the Danish Agency for Data Supply and Efficiency (SDFE).",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "61644130-4e6d-5ccd-90c9-18cb2cd143b5",
+    "DisplayName": "MasterControl",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "76e57ab7-51cb-53be-aa5c-c5a3595dc1ec",
+    "DisplayName": "MathWorks",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b4184824-515c-5cae-b0cd-16b708070fe7",
+    "DisplayName": "Maël Hörz",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ad07dec7-6ad1-5f08-a823-3ff72e0e42d6",
+    "DisplayName": "Meltwater",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a2e2862b-74ec-5f71-8504-90370a327247",
+    "DisplayName": "Mentimeter AB",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2a5f876f-cc19-576c-b5e6-e1165156f8a0",
+    "DisplayName": "Mercell Commerce AB",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "96e4a30f-bb4a-5ea3-b1cf-945f98a71143",
+    "DisplayName": "Met Office",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9a9bb241-2fdc-5afd-a2fc-b7e97506edc4",
+    "DisplayName": "Meta Platforms, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ee73968f-5d19-52ae-9e8f-64dad24e36d1",
+    "DisplayName": "Metcal.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "35b23956-d1d6-5090-a35a-194e8331db6f",
+    "DisplayName": "Metrell d.o.o.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b0c91f8e-30ce-5436-921f-ecebf79dd2c6",
+    "DisplayName": "Metrum Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "484d9a0f-5fc6-5e41-9b8f-7c2b057a0bbc",
+    "DisplayName": "Micro Digital, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "70cb9d5f-6e7d-5877-9d14-5c9afbe30f58",
+    "DisplayName": "Micro Focus",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "41bc4c2e-2af0-5b58-a446-d41a86405e08",
+    "DisplayName": "Microsoft",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "427a85f4-8f5b-50bc-8ab1-e7f7a2f84222",
+    "DisplayName": "MinEnergi2 is developed by the company Metrum.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a0857a81-6bd3-5612-84c5-eddbabb04334",
+    "DisplayName": "MinGW.org",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "23a91f49-3dee-5aad-a754-c601b237041e",
+    "DisplayName": "Minerva",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d58a9199-9995-5f3f-8d95-9ce94c3e1fff",
+    "DisplayName": "Minitab, LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c39f352f-ac26-544d-b426-824db2cdd065",
+    "DisplayName": "Mintec Europe A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "95b1f828-29f2-5706-8b72-b4016315aa5b",
+    "DisplayName": "Miro Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "47b968d5-d48f-5f4b-900e-9cca7f81c298",
+    "DisplayName": "Moldex3D",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2676ca6d-5dd4-57de-b154-dd42e248d4b0",
+    "DisplayName": "MongoDB, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7b287afb-97d3-5600-954a-ac9b5b521a94",
+    "DisplayName": "MongoVUE is developed by Tautyly.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b4e003f2-14b4-51fb-83c5-8b1cee38b035",
+    "DisplayName": "Motorola Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b52e4bf6-bae7-5dcc-9372-a96d5d72fae5",
+    "DisplayName": "Mozilla Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e8c9ce66-220b-5e35-a7bf-94a8f9544a9b",
+    "DisplayName": "Multipel",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "56e11700-a120-5199-95e5-9cfc54558b8e",
+    "DisplayName": "Müller Apparatebau GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c5a6ae42-5221-57f1-ac9d-c49be565e540",
+    "DisplayName": "NCR Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "641d7d88-a325-53b5-b720-4b32416f10c5",
+    "DisplayName": "NEC Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a963baf0-020c-58c2-9881-0246ec1347ee",
+    "DisplayName": "NUnit Software Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "03516538-7ad3-5366-94df-04dd25c6f55d",
+    "DisplayName": "Nagios",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d8b64ede-e299-5931-8f78-5fd4c886c6c1",
+    "DisplayName": "National Instruments",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9b83cffc-fa80-5abe-b967-998f3ae2c193",
+    "DisplayName": "National Instruments ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2e686eea-d5e2-501d-88dc-88aae8016d55",
+    "DisplayName": "Nemtilmeld",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ce80b74a-e0fb-5261-9da6-b5d4682442c2",
+    "DisplayName": "Netcompany",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6ca249d8-e1da-52c6-94a9-eda782c27d24",
+    "DisplayName": "Neuron ESB",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "bf2f7596-fe8a-5dcb-8f40-bae81d4e393d",
+    "DisplayName": "Nexrad, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e298cb15-c0ae-5d74-9515-2925d59eb32d",
+    "DisplayName": "Nilex Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e0120c1e-3daa-56c3-a7c5-fbb32ceb1237",
+    "DisplayName": "Nohau Solutions.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "63b74618-da4f-5289-90fd-ca97eb503fd5",
+    "DisplayName": "Noldus Information Technology",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8ad1453a-5e16-5c87-8c7a-348539f98e38",
+    "DisplayName": "Not mapped",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "559a798d-4394-50bd-ab7c-afb3835b7880",
+    "DisplayName": "Notepad++ is developed by Don Ho.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e678dfac-8c53-5b86-9436-ea2b50a98aef",
+    "DisplayName": "OSELAS Technologies GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ae397fb4-9f61-5494-8d87-7124587fe909",
+    "DisplayName": "Open Office",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3ac89760-5d29-5816-83f7-a579c43782bd",
+    "DisplayName": "Open Watcom Project",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "4b43fe05-3eb5-52f8-a8b7-e52997d68b20",
+    "DisplayName": "OpenAI",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f168f242-3e88-5eee-888a-04aea4be4a6d",
+    "DisplayName": "OpenCFD Ltd.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "95f20c4d-2c23-5e96-a7cd-7d240c272540",
+    "DisplayName": "OpenLM.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "01d14887-646d-5811-adba-d4c2976a3423",
+    "DisplayName": "OpenLinkSoftware",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "00f8ba2f-f5ca-508d-829f-04e48497f09a",
+    "DisplayName": "Oracle Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "19e1e02e-8b0b-534e-92a1-0e2cc426be91",
+    "DisplayName": "Oracle Danmark",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "47313d11-2f4a-5a30-9bc5-94b5e9748871",
+    "DisplayName": "PADS Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3081face-09c8-51c4-8809-622100a65372",
+    "DisplayName": "PADS Viewer is developed by **PADS Software**.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "61d1fb7a-b94f-5339-86f7-ce1c72530d41",
+    "DisplayName": "PJD Group",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6d594628-ad8f-56d5-ab9c-aaba32a7af2a",
+    "DisplayName": "PLM Group A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "125e4e91-e92c-5307-803d-ce8dc9d38c25",
+    "DisplayName": "PRé Sustainability",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1f52343f-6471-5ccf-9c98-6207e784005e",
+    "DisplayName": "PTC Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0ce65287-531c-56cf-8bbc-98e8084bed99",
+    "DisplayName": "PTM EDV-Systeme GmbH  AT,",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d0cc849a-4458-5674-bc80-10ba9e61a346",
+    "DisplayName": "PagerDuty",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c71adca4-25e3-5d31-ade1-1e5eeba133c0",
+    "DisplayName": "Parasoft Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "dbda02d2-d209-5a59-959f-1413b3539e85",
+    "DisplayName": "Parker Hannifin Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3934078d-96e5-5a01-8f9e-6aedeb547edd",
+    "DisplayName": "Patch my PC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "56f4ffb6-516b-55f6-8c64-53fde27a889e",
+    "DisplayName": "PcBase Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "673976ed-707f-52d0-8124-4f75f41bd32d",
+    "DisplayName": "Phase",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1977ea8f-1c4b-521a-a34c-45b62af2aa68",
+    "DisplayName": "PhotoFiltre Studio",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b3726ce7-18ec-5f66-8388-a2206659ac9e",
+    "DisplayName": "Pico Technology",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "790def18-b001-5250-83a4-8862d23ab411",
+    "DisplayName": "Picoscope",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9da93267-7ca6-5579-a43b-f9041e867ce1",
+    "DisplayName": "PingForLife is developed by **PingForLife, Inc.**",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "eedb2100-e1b0-5179-ab44-8ef487c38b04",
+    "DisplayName": "Pipechain, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0b1a898f-1363-5709-8a01-2ec26416d140",
+    "DisplayName": "Pivotal Software, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "fe1f5e2d-f577-554a-8663-1d7433936446",
+    "DisplayName": "Plandisc",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "221d5479-6125-5481-931e-47632efd4af2",
+    "DisplayName": "Plotly, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e2d6326d-40ff-5b7d-b443-fdcf8d6ae228",
+    "DisplayName": "Pluralsight, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f71bee3b-d27e-5257-9fdc-80c26929681c",
+    "DisplayName": "Posit",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e94e2381-5d70-5033-8f15-4244079f9a4c",
+    "DisplayName": "Posit Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e82b9c12-349f-5388-9110-d8fcc2afc8fb",
+    "DisplayName": "Postman, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b493f9f7-3f91-5992-907e-065cbfa3f4b6",
+    "DisplayName": "PowerBI Robots",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "968ff291-7a15-54bb-8d70-da15ed423fb4",
+    "DisplayName": "Precision Software.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7c88e41b-22cf-53ed-95c2-ba9650015ff4",
+    "DisplayName": "Program Verification System, LLC.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "cf298b46-89da-5124-80bb-5628e21c5c2e",
+    "DisplayName": "Progress Software Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1052e1c2-3aa7-5c3b-a97f-d32c2e8661d7",
+    "DisplayName": "ProjectFlow A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "15407a1d-282e-5a30-a976-28622f663432",
+    "DisplayName": "Proxyclick",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ebc77f28-133f-5198-b605-c777cd950cf4",
+    "DisplayName": "PureService Solutions.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f0f5ea7b-8dbf-540d-a086-45328f1dd629",
+    "DisplayName": "Python Software Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a9bd45d5-93f2-551e-ba7e-ccd5b1bf01b5",
+    "DisplayName": "QAD Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2d69a989-ff70-5478-8e18-c464659f285f",
+    "DisplayName": "QGIS.org",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f9883b18-e54a-5c2a-a1bc-8d1c416c85fd",
+    "DisplayName": "QR Code Generator GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "bef5362a-4aac-51b5-b765-b9273b9fa9c6",
+    "DisplayName": "Qoitech AB",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "16704ee9-b6c3-50d2-945f-5f42dc48be49",
+    "DisplayName": "Qualcomm",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9180d428-8f9f-5f99-a1f3-f90ce4266c34",
+    "DisplayName": "Qucs Development Team",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5e1c23a6-7b6f-52d1-9f27-e58da519cedc",
+    "DisplayName": "Questel",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9555b899-741d-5a2a-a3bd-398c87777bcd",
+    "DisplayName": "RENE Solutions, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e63bcfeb-5006-547f-9d12-192c1cdb40f8",
+    "DisplayName": "RTPatch, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "559c126b-5989-50dd-af3e-e97f67445b76",
+    "DisplayName": "RWS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f50da1f2-53f9-5500-a40f-bdaf27143d36",
+    "DisplayName": "Radio Mobile, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2730bb67-b0f8-5db9-9235-359d47821138",
+    "DisplayName": "Radio Survey Software GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c42b366f-db72-55c5-975d-a85a8247fa91",
+    "DisplayName": "Rapid7",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f904ea84-33a4-5619-80f5-61655c9de8b0",
+    "DisplayName": "Raylase GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "dc29a7f5-2699-53a8-ae7b-850aa2d0bd13",
+    "DisplayName": "Rebex Software.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d156fd4a-87f6-5d66-9e58-b1e4ee613afd",
+    "DisplayName": "Red Hat",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d70edeca-9396-5982-aa0e-429c30abc2d0",
+    "DisplayName": "Red Hat (IBM)",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f8ad298a-16c5-5e31-a5c2-2ed85f46ea88",
+    "DisplayName": "Red Hat, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "01bdb059-96d9-5ab2-a957-17484fa8deee",
+    "DisplayName": "Redgate",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1a6413ca-ecc9-59f2-a079-7f68e899b2bb",
+    "DisplayName": "Regex101 LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b5e46b37-4901-5089-a5cd-2506e307d0a6",
+    "DisplayName": "Reliance Industries Limited",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "92c34e00-dae1-539a-8abe-d7c5c3d93acf",
+    "DisplayName": "Remco Aerts.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "23d00d50-050b-59d3-9e62-1704f21599d7",
+    "DisplayName": "Renuex GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6bebd41b-e843-5ed6-8d1e-28d3941b9ad9",
+    "DisplayName": "Responsive Systems, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "930e74bb-ed95-51dd-8488-f34cb280181a",
+    "DisplayName": "Revelation Software.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "df3e19ce-16bc-5962-af94-5eba2b509a20",
+    "DisplayName": "Risma Software.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "123eb560-6a3a-5016-92d4-92ac889906f5",
+    "DisplayName": "Rohde & Schwarz",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e63c8faf-c896-5505-8979-b2b4d083b468",
+    "DisplayName": "Roima Denmark A/S  _x000D_\nLogimatic OIO",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ac45e61d-55eb-5919-8dd1-ff67a40af26a",
+    "DisplayName": "Rolerights Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "71e1e53b-40af-5082-bdbb-94f64f0eab3a",
+    "DisplayName": "Roma Software.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "513ca0a0-f20c-595b-9040-797982b72219",
+    "DisplayName": "Rufus is developed by Pete Batard.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ad7e500a-7e5a-5dfe-823c-5bdcdb10e8c2",
+    "DisplayName": "S2-LP Applications",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "37cc116f-efd3-5292-b21c-623ed79f9915",
+    "DisplayName": "SAP",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2f673a61-a0e4-5a91-97c9-9679070a7444",
+    "DisplayName": "SAP Concur",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5c3e9429-8157-55f7-b853-53aac0ff0ab0",
+    "DisplayName": "SAP SE",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b8f7a8f9-a0cc-59f1-90c1-03412fe67e16",
+    "DisplayName": "SEEV8R3 is developed by Seev8.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8f7dbf17-5d48-5595-b13a-09bae2dbb621",
+    "DisplayName": "SEGGER Microcontroller Systems GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f3119af3-91ab-56dd-afe8-bca78ce4edbc",
+    "DisplayName": "SEGGER Microcontroller.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5da5d059-5e4e-5f4a-a583-3dc7d3b98404",
+    "DisplayName": "SEMrush Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ffed972d-e3f6-592d-a65e-b1dd16ae4c47",
+    "DisplayName": "SEMrush, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "70c7b67b-88a3-54b6-8a4e-e34639777d53",
+    "DisplayName": "SENEA Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3994dc05-e666-56b1-a734-17f495c0aeab",
+    "DisplayName": "SEOsurfer",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "810330d9-51aa-5b5c-ba5e-f490944e49cb",
+    "DisplayName": "SIM Service.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1ee1971a-2ac1-5347-8eca-3bf81024f6b9",
+    "DisplayName": "SMSPasscode, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "98e1a93d-e629-557f-88c9-917a0d0723d9",
+    "DisplayName": "SMX Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b7d2c481-7bb7-5b90-b9ec-72f3b86925d3",
+    "DisplayName": "SPOG is developed by **CyrusOne**.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "83dae746-9d60-5031-a801-34c21e9ce2a7",
+    "DisplayName": "SQLDigger is developed by**SQLDigger, Inc.**",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "045ca491-799a-5169-899f-7105d6130179",
+    "DisplayName": "SQLite Browser is developed by the community and is not associated with a specific company vendor.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e0c89157-3991-5ffd-a59d-43cf22db8c7c",
+    "DisplayName": "SQLite Development Team",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9d3c127e-9019-51ca-9429-9102fae6b356",
+    "DisplayName": "STMicroelectronics",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6197c17b-8ecc-5fd6-b688-ce6a92026d1e",
+    "DisplayName": "Salae, LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f371d63d-dd77-54fc-87d5-2faae6b6c732",
+    "DisplayName": "Salesforce",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f301f577-e003-5bad-8849-c63eecd3e230",
+    "DisplayName": "Saturn PCB Design Toolkit",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ca726d1b-b1e1-5825-a6a7-1992bf7dea23",
+    "DisplayName": "Schneider Electric",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "59179868-6721-5702-b34a-f48ea8013d44",
+    "DisplayName": "SciChart Limited",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3128136a-97af-521e-8e0b-9bb806b0a083",
+    "DisplayName": "Science Based Targets initiative (SBTi)",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5c670f69-d225-5462-817c-3ac063033dd8",
+    "DisplayName": "Scooter Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0202473c-f812-5402-bdb0-3ed1e52354cc",
+    "DisplayName": "Screaming Frog Limited",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7b9151a0-a993-5d84-b007-d65d8126262d",
+    "DisplayName": "Scruffy, LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0e011779-c2f3-52cc-9d81-078f8b0a1bb2",
+    "DisplayName": "Secomea",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "640bab86-666b-5559-95b3-3044678e52a2",
+    "DisplayName": "Second Nature",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b438f3b6-f367-5535-a9f7-d75bf3370df6",
+    "DisplayName": "Secoya A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ae8dce55-17a4-5e61-9dbe-8da41ac19f82",
+    "DisplayName": "Secoya A/S, Orbit Online A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "bd59f3be-94c9-5998-8eae-ade7b2018e6b",
+    "DisplayName": "Semtech",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "01e228ff-2bd3-5964-aeb1-81e3f74d9e4d",
+    "DisplayName": "ServiceNow Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "337e09f2-8fab-5b44-88bf-a0acae17e46f",
+    "DisplayName": "Siemens",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "85f30d7e-af4f-52fa-b51f-561aa663cc7b",
+    "DisplayName": "Siemens AG",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d4c81976-9c8b-569e-85ff-be24ff5a4346",
+    "DisplayName": "Siemens Digital Industries Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2980e3cf-6452-5c28-9d3b-ed307a7f168f",
+    "DisplayName": "Signal Hound",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "940d1158-c71b-5ab0-9fff-bbf3fc2ac2e6",
+    "DisplayName": "Silex Technology.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1417276b-c5a3-51fe-a9cc-f7f72910ad76",
+    "DisplayName": "Simon Tatham",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "719ac0d1-7739-5e79-9f68-c5dd9996c988",
+    "DisplayName": "Simplicity Software, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "4c28404b-22fd-5484-9516-cb41d00cd02e",
+    "DisplayName": "Sitecore",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0be2584d-1804-59fd-aeca-f26ec75016db",
+    "DisplayName": "Sitecore Corporation.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "bc410848-619d-5f7b-b892-ce27527a6f5d",
+    "DisplayName": "Sixth Main Labs, LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "73aa9566-fb17-56d7-81a1-e43330d27c02",
+    "DisplayName": "Sleeknote",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "cf6d8d1d-c001-5571-909b-b6345b9ca8a4",
+    "DisplayName": "Sleeknote ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7ee36f8b-c375-5add-83e9-f0659fe6c1d3",
+    "DisplayName": "SmartBear Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "bd8f7211-d614-540c-8b3e-2764168c9a10",
+    "DisplayName": "Snoop Software Ltd.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "713a0fc1-586d-55ae-8001-7ca3f3cfdb78",
+    "DisplayName": "Sociuu Tech.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0c6ebb6e-e162-5ea0-8e0e-fe028399d7c2",
+    "DisplayName": "Sofrel",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d5625796-684c-56fd-9d60-101740dce1b6",
+    "DisplayName": "SolarWinds",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6637ad52-bd9f-5708-aa95-60587da8d430",
+    "DisplayName": "SolidWorks Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f8119f5d-7c46-5fd8-b98d-1effd4bc13ac",
+    "DisplayName": "Solutionspace",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8898efa9-5582-5ffd-8c1e-bea19915ce07",
+    "DisplayName": "Speridian Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6444064e-5ac0-5dad-9548-bf615c19a87d",
+    "DisplayName": "Spike Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "25fde0c1-cd0b-51f9-b198-0d9cf3ac553e",
+    "DisplayName": "Splunk",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a36e635b-7f8d-5fe0-98d4-0ce21e158402",
+    "DisplayName": "Spochconverter is developed by Spoch.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ee9d348a-f090-53b3-906b-e537d12e3beb",
+    "DisplayName": "Spyder is developed by the Spyder Project.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c2b0568d-0d8c-5c59-aafc-617e84d31842",
+    "DisplayName": "Stardock",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ff928ad4-1dd6-5ea1-b4fd-41d69c9ec6f1",
+    "DisplayName": "Statistics Netherlands",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d3e4193f-26fa-5e90-8028-9bcb1ee16005",
+    "DisplayName": "Storyblok GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5d297cc7-bf84-5ed6-80f0-a121a9eb9065",
+    "DisplayName": "Studio 3T",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "89b4cece-7730-5067-8ace-f1fc1e624962",
+    "DisplayName": "Sunshine Software, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7cd58fe9-c483-53f9-8b1d-7c777dcd9c61",
+    "DisplayName": "Syncfusion",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ef5b9fb7-7d50-56c1-a692-e2090ceb49dd",
+    "DisplayName": "SynergyXR",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2767173c-2117-5313-a0b0-49a88c933939",
+    "DisplayName": "Synthesia",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "49e4e2c1-d75b-51e5-91c2-ba0f965e108c",
+    "DisplayName": "Sysarb",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a670d6b9-9067-591b-b292-9e0bd95bede3",
+    "DisplayName": "System Logistics S.p.A.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3cb8dd66-4ce6-5275-a3d6-f844ca8aa41a",
+    "DisplayName": "TBD",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "4a067dd1-ec45-5ef0-b700-6481d3e4331d",
+    "DisplayName": "Tabular Editor",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d3028d12-1e92-508b-adb2-162131a53ad0",
+    "DisplayName": "Tama-Soft.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "be75c204-0ee9-54d0-962c-639c30629384",
+    "DisplayName": "Tech-Tools, LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "02b1a8bf-0b36-54e4-9b57-688546196568",
+    "DisplayName": "TechSmith Corporation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "fe5d96fe-7f1f-501b-b4f9-1f007d4be480",
+    "DisplayName": "Teklynx",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "314779fe-91f8-56ec-b46e-02f925efe21e",
+    "DisplayName": "Telekom",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a8589170-5187-56bd-b51f-e58e6af16e84",
+    "DisplayName": "Telerik",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e83f7aec-4394-5fe2-8fa7-a965f89e4c51",
+    "DisplayName": "Terminus.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a3001c02-d81e-50be-81ca-d4cfe2b41221",
+    "DisplayName": "Texas Instruments",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f762dfd1-0b09-5bc0-b6ce-a257cf6a449a",
+    "DisplayName": "The Code::Blocks application is developed by Code::Blocks Team.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "505a49cd-11e1-5a73-8e87-948bcf268ec3",
+    "DisplayName": "The Dr. Memory application is developed by the company named \"University of Hawaii\".",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d3b9d2b5-70c3-5be2-9e61-ae2484cbfe4d",
+    "DisplayName": "The GIMP Team",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "de28c54a-5583-5b57-a087-f23f0c408992",
+    "DisplayName": "The LLVM Project.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a907cea2-341d-5edf-926b-90cd199c2e0d",
+    "DisplayName": "The OpenBSD Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ea09ebf8-904f-50ce-a712-06da8111d0ea",
+    "DisplayName": "The Qt Company",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "59097d6e-c84e-5b1a-a378-b0a1b53842e3",
+    "DisplayName": "The Raspberry Pi Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ea5dfc3d-43da-5404-951c-43bfb247239b",
+    "DisplayName": "The Software Vendor for the application TLF Service is TLF Technology.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0dd040e1-74b5-5794-bc52-5ab93a8c3968",
+    "DisplayName": "The application Flatpak is developed by the GNOME Project.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "565798d8-adb8-5a07-a750-b77df45c596f",
+    "DisplayName": "The rust team",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f533790d-7e49-52fc-884e-146221ae4bfe",
+    "DisplayName": "There is no application specified.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "84b56ea2-fbdb-56e5-a0c5-9c9b6c9d0c27",
+    "DisplayName": "Thermo Fischer Scientific",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2b2eff18-9e33-534e-8a30-8fe39d31fa25",
+    "DisplayName": "ThrowTheSwitch, LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7e6df678-8792-5d4d-9758-a967f99d866f",
+    "DisplayName": "TortoiseGit is developed by the TortoiseGit Team.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "eace7dcb-b475-5a02-a238-a75f407b8dda",
+    "DisplayName": "TortoiseSVN is developed by TortoiseSVN.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "dcd11aa4-f6fd-5f37-baa7-9324b07583e9",
+    "DisplayName": "Trane Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "014b2030-be6e-5ee0-9479-c945e9677f7a",
+    "DisplayName": "Transporeon",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "79209065-cc70-5b25-aa61-7ef39694f070",
+    "DisplayName": "Travelpool GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3df2f8a7-fcf4-5410-8e79-7e34235d8394",
+    "DisplayName": "Trellix",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9812953d-dd54-580a-9558-587990a67a53",
+    "DisplayName": "Trintech",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7900e877-b2c6-5279-a184-05b224419601",
+    "DisplayName": "Truesec",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "f2aace29-6017-5fae-bd5f-edd7236889a0",
+    "DisplayName": "Tuxera",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "a390376c-9813-5bc4-937d-2f0b2c20687e",
+    "DisplayName": "Twilio Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "daa23db4-4157-528b-a3ed-e471565337e3",
+    "DisplayName": "Tyler Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "7fcfeadd-f1b5-53a6-b61f-2b225e4d306a",
+    "DisplayName": "Udemy, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "6eb80399-5bf1-5972-b49d-636da28e7fb2",
+    "DisplayName": "Unknown",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "5bb509f8-b93d-53c9-b42a-e46a8d5ffa2e",
+    "DisplayName": "VIS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b77a0020-a1bb-571a-bb28-10095d1c3076",
+    "DisplayName": "VIS Performance A/S",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "68f6b127-ec2c-5192-ad3c-b65f7e0e46a8",
+    "DisplayName": "VMware",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "cad735b0-2955-5490-abe7-ebc309f46e2d",
+    "DisplayName": "VMware, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0f14bdb4-ff50-51e8-a295-750269f53bb7",
+    "DisplayName": "Veeam Software",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "9c0e1507-3bfb-5704-876e-652833595cfe",
+    "DisplayName": "Vendor Management Solutions, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "698f4571-11be-5d53-a624-b94c8e0d270e",
+    "DisplayName": "Venzo",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "91a69bea-a5a3-5f4c-9ba9-5077b9594d36",
+    "DisplayName": "Vercel",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "687f82f7-018a-5b14-ab2f-996388520536",
+    "DisplayName": "VideoLAN",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e84b5e4e-4a79-5844-9f1b-5b4ccd9668ec",
+    "DisplayName": "Vigilant Technology Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "16c52d37-a281-5d79-b747-236c8749201c",
+    "DisplayName": "Visma",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "8b1032e5-0c43-5a6e-89c4-4ff90e26bef7",
+    "DisplayName": "VisualSVN Solutions, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "439a7f7f-c2de-593c-b2fb-0e32bdc83032",
+    "DisplayName": "Vivaldi Technologies",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c304f109-0435-51a8-9355-f3669cf2da0f",
+    "DisplayName": "Vmware",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "c990846a-dc64-59e2-9e41-3d62124a67aa",
+    "DisplayName": "Vrinco",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "23b8c6ce-a962-58e7-8b22-64ed4375f40c",
+    "DisplayName": "Wacom Co., Ltd.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "165ad7de-c6c7-5e24-bb2a-cb0e1db3e12c",
+    "DisplayName": "WinMerge is developed by WinMerge.org.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "52170feb-88b9-566f-bd69-25fddeab7bee",
+    "DisplayName": "Wireshark Foundation",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "943996f6-c6d5-57de-8cf8-82b381d2ed68",
+    "DisplayName": "Wordpress",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "76666f29-0aa7-54d2-b5a4-7d2695771fa7",
+    "DisplayName": "World Wide Express",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "3fde8c22-6fda-5bf3-b245-9753d34b4807",
+    "DisplayName": "WorldTranslate",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2356f181-a2a3-5338-802c-9cb7a119ec0a",
+    "DisplayName": "Wrike, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "21b8f11c-c3bb-5670-b197-024dcc46758a",
+    "DisplayName": "XCA is developed by XCA (X Certificate and Key Management).",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0ab49f2a-3b85-5214-98bf-91d4b893d0b1",
+    "DisplayName": "Xilinx",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "53220ca2-6653-5633-8a35-246c951086b0",
+    "DisplayName": "Yabe Team",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "829a72b5-44d5-5333-b7c4-f0ac7378b619",
+    "DisplayName": "Zabbix SIA",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "ec3a1357-2dd7-530a-bdcd-753ced506737",
+    "DisplayName": "Zendesk",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "55045f83-9216-5b9f-9ce8-b544e1bafee1",
+    "DisplayName": "Zensai",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "2971dd47-9c36-52a0-97cd-fe2c59504386",
+    "DisplayName": "Zoom Video Communications, Inc.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "bff4a270-5d54-51f9-9cd3-c108ea811c0f",
+    "DisplayName": "dmarcsuite",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "602fdad3-3d46-51b0-b2ad-6513b5adabeb",
+    "DisplayName": "dotPDN LLC",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e4b0ed97-8a6f-5aeb-80ca-03d72cc7ee49",
+    "DisplayName": "files.com",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "40602d1f-e961-5088-bf85-a5f9ed547b13",
+    "DisplayName": "flonidan",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1b1a35fd-f8bc-5ecf-879c-3cbe206bd01c",
+    "DisplayName": "iPaper ApS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "0dba3049-2c63-5ef8-b43b-b6a11e51124c",
+    "DisplayName": "labgrid is developed by the company **Labgrid**.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "643237dc-6acb-591f-a7ee-c0eee6282ff2",
+    "DisplayName": "microsoft",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1bcee54d-3015-55c8-a642-f74d34069a45",
+    "DisplayName": "monday.com Ltd.",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1464c7ba-7b3a-56e3-893e-2d6bb6bc3eda",
+    "DisplayName": "myInsight Solutions",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "d35250fd-f12a-597a-973a-765674b34075",
+    "DisplayName": "nShift AS",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "b98b7137-57c8-5589-879c-a7af174ec1cd",
+    "DisplayName": "nginx",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "aa9faac5-7818-535a-a3cb-87365055621e",
+    "DisplayName": "open source (Ditto Project)",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "e76318c5-cfc9-575e-9b0a-0227dbd7bf38",
+    "DisplayName": "think-cell Software GmbH",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  },
+  {
+    "Id": "1fc97179-781f-5334-ae6c-5bc6a5df86cf",
+    "DisplayName": "voidtools",
+    "ProviderType": "Software",
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Extracted from A-Applications vendor/consultancy columns"
+    }
+  }
+]
