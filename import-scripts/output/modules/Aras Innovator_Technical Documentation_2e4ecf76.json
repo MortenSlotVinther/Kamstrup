@@ -1,0 +1,22 @@
+{
+  "Id": "2e4ecf76-a582-5c7b-b0a3-9a783a248776",
+  "DisplayName": "Technical Documentation",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "184548b7-1389-52a5-b4d3-432d9e61322e",
+  "BusinessCapabilityKey": "1043-Product & Software Development-Quality Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quality Management",
+  "ModuleOrApplicationName": "Technical Documentation",
+  "_sourceRow": 139,
+  "_sourcePlatform": "Aras Innovator"
+}

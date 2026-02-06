@@ -1,0 +1,22 @@
+{
+  "Id": "b55a712b-2e89-5a8f-b778-06bbef567bfe",
+  "DisplayName": "PDM",
+  "ShortDescription": null,
+  "RichDescription": "Assesment TBD, expanded cloud functionalities expected",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "184548b7-1389-52a5-b4d3-432d9e61322e",
+  "BusinessCapabilityKey": "1043-Product & Software Development-Quality Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quality Management",
+  "ModuleOrApplicationName": "PDM",
+  "_sourceRow": 138,
+  "_sourcePlatform": "IFS"
+}

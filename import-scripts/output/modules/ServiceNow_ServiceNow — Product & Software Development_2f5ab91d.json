@@ -1,0 +1,22 @@
+{
+  "Id": "2f5ab91d-f5b4-5061-8a94-91052870d204",
+  "DisplayName": "ServiceNow — Product & Software Development",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 38,
+  "_sourcePlatform": "ServiceNow"
+}

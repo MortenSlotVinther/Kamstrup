@@ -1,0 +1,22 @@
+{
+  "Id": "5e9c3009-8434-5f18-9fc7-4d6188037bd3",
+  "DisplayName": "Machine Management",
+  "ShortDescription": null,
+  "RichDescription": "Can register, track, and monitor machine assets with CMDB and IoT integrations; lacks native control or real-time telemetry without external systems.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Machine Management",
+  "_sourceRow": 57,
+  "_sourcePlatform": "ServiceNow"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "f1101b5e-dd70-52c3-ab46-d985ea938eb8",
+  "DisplayName": "ServiceNow — Customer Service",
+  "ShortDescription": null,
+  "RichDescription": "FRFS set for demo purpose",
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "49fce7a2-243a-54a1-a700-360b6f6bef8d",
+  "BusinessCapabilityKey": "4230-Customer Service-Customer Project Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Customer Project Management",
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 321,
+  "_sourcePlatform": "ServiceNow"
+}

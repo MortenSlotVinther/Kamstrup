@@ -1,0 +1,22 @@
+{
+  "Id": "3ae8d842-5f6d-5ddf-bac3-0e95bbb30e35",
+  "DisplayName": "Quality management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "da5ba8ba-2464-5f56-a1d5-3d1b068fdca1",
+  "BusinessCapabilityKey": "1256-Manufacturing-Materials Management-Manage Incoming Materials",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Materials Management",
+  "ModuleOrApplicationName": "Manufacturing",
+  "_sourceRow": 227,
+  "_sourcePlatform": "IFS"
+}

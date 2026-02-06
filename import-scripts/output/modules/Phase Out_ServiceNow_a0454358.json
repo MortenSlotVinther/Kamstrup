@@ -1,0 +1,27 @@
+{
+  "Id": "a0454358-05ae-54bd-b211-75303fd04b5b",
+  "DisplayName": "ServiceNow",
+  "ShortDescription": null,
+  "RichDescription": "Will not be phased out",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "d8826ed3-4876-5feb-b1ca-3a1ed50e4f2b",
+  "ParentPlatformName": "Phase Out",
+  "BusinessCapabilityId": "810bf809-9ab8-586d-a2fc-23828d8f48ee",
+  "BusinessCapabilityKey": "1099-People and Culture-Recruiting-",
+  "ApplicationReference": "6 - ServiceNow",
+  "CapabilitySubArea": "Recruiting",
+  "ModuleOrApplicationName": "ServiceNow",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 222,
+  "_sourcePlatform": "Phase Out"
+}

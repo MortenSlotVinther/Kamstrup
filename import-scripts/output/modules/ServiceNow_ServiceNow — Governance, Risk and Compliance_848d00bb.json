@@ -1,0 +1,22 @@
+{
+  "Id": "848d00bb-3f09-5712-8e30-cb82671e5006",
+  "DisplayName": "ServiceNow — Governance, Risk and Compliance",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "5e3fa06b-2b54-5507-a592-c48e3cc46c63",
+  "BusinessCapabilityKey": "4000-Governance, Risk and Compliance--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 278,
+  "_sourcePlatform": "ServiceNow"
+}

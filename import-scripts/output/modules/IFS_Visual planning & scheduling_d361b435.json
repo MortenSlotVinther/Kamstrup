@@ -1,0 +1,22 @@
+{
+  "Id": "d361b435-1c20-5d6b-b2cc-ac1ace521640",
+  "DisplayName": "Visual planning & scheduling",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "8696ab3b-fa24-50cf-80d3-8ef07216c91f",
+  "BusinessCapabilityKey": "1051-Manufacturing-Product Design & Planning-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Product Design & Planning",
+  "ModuleOrApplicationName": "Manufacturing",
+  "_sourceRow": 165,
+  "_sourcePlatform": "IFS"
+}

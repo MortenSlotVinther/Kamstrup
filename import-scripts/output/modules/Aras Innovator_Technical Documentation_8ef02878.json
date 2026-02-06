@@ -1,0 +1,22 @@
+{
+  "Id": "8ef02878-ceb9-54b6-86e8-e0be3dda33e1",
+  "DisplayName": "Technical Documentation",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "e33bc134-e8b1-59ce-89b7-8c4f82e09f80",
+  "BusinessCapabilityKey": "1044-Product & Software Development-R&D-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "R&D",
+  "ModuleOrApplicationName": "Technical Documentation",
+  "_sourceRow": 142,
+  "_sourcePlatform": "Aras Innovator"
+}

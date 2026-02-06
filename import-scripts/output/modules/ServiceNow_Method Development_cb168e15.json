@@ -1,0 +1,22 @@
+{
+  "Id": "cb168e15-6e85-5f0a-a38e-5945317b8251",
+  "DisplayName": "Method Development",
+  "ShortDescription": null,
+  "RichDescription": "ServiceNow supports defining, managing, and enforcing development processes, especially for IT/software (DevOps, Agile, ITIL workflows).",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Method Development",
+  "_sourceRow": 45,
+  "_sourcePlatform": "ServiceNow"
+}

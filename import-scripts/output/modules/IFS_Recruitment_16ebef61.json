@@ -1,0 +1,22 @@
+{
+  "Id": "16ebef61-d0ae-5bdc-a344-5c9515462cb3",
+  "DisplayName": "Recruitment",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "810bf809-9ab8-586d-a2fc-23828d8f48ee",
+  "BusinessCapabilityKey": "1099-People and Culture-Recruiting-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Recruiting",
+  "ModuleOrApplicationName": "Human Capital Management",
+  "_sourceRow": 217,
+  "_sourcePlatform": "IFS"
+}

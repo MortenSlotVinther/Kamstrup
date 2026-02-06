@@ -1,0 +1,22 @@
+{
+  "Id": "e853962b-05ba-543a-a72f-e9f184e542bd",
+  "DisplayName": "Technical Documentation",
+  "ShortDescription": null,
+  "RichDescription": "Changing the files to be initiated in Aras will give us the digital thread",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "80a385e9-1194-53a0-ab85-530a818bc9a2",
+  "BusinessCapabilityKey": "1225-Product & Software Development-Quality Management-Manage Product Document",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quality Management",
+  "ModuleOrApplicationName": "Technical Documentation",
+  "_sourceRow": 226,
+  "_sourcePlatform": "Aras Innovator"
+}

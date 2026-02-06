@@ -1,0 +1,22 @@
+{
+  "Id": "ab6bb8e9-d048-531d-97d9-136294632f49",
+  "DisplayName": "Manufacturing Steering",
+  "ShortDescription": null,
+  "RichDescription": "Can track KPIs, issues, and continuous improvement projects, but not real-time production control.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Manufacturing Steering",
+  "_sourceRow": 62,
+  "_sourcePlatform": "ServiceNow"
+}

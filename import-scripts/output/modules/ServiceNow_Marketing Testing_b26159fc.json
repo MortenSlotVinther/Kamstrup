@@ -1,0 +1,22 @@
+{
+  "Id": "b26159fc-e088-5f3b-b652-9815c71e9566",
+  "DisplayName": "Marketing Testing",
+  "ShortDescription": null,
+  "RichDescription": "Can track campaigns, coordinate UAT/beta testing feedback, but not a specialized marketing analytics/testing platform",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Marketing Testing",
+  "_sourceRow": 44,
+  "_sourcePlatform": "ServiceNow"
+}

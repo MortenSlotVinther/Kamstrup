@@ -1,0 +1,22 @@
+{
+  "Id": "e40d8b26-b1e7-5ed6-a48b-b2296581d451",
+  "DisplayName": "Sourcing",
+  "ShortDescription": null,
+  "RichDescription": "Some sourcing workflows can be managed (RFx processes, vendor evaluation), but often done via integration with sourcing tools.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "0ee398d7-f8aa-5794-a769-f02ce3e8687b",
+  "BusinessCapabilityKey": "1035-Procurement & Logistics-Sourcing-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sourcing",
+  "ModuleOrApplicationName": "Sourcing",
+  "_sourceRow": 119,
+  "_sourcePlatform": "ServiceNow"
+}

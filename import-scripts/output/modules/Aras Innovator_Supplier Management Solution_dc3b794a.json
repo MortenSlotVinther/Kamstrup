@@ -1,0 +1,22 @@
+{
+  "Id": "dc3b794a-e721-5e12-92bb-7be4680cb77b",
+  "DisplayName": "Supplier Management Solution",
+  "ShortDescription": "There are a specific type for contracts, dates and lifecycle can be handled, security arround this are enhanced, can be used for legal contracts.",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "d86140b4-2ba4-56d6-ba5a-08b062776152",
+  "BusinessCapabilityKey": "1193-Procurement & Logistics-Supplier Contact Management-Manage Supplier Contract",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Supplier Contact Management",
+  "ModuleOrApplicationName": "Supplier Management Solution",
+  "_sourceRow": 225,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "003f7670-a783-5b37-bc0a-eb1b23b42ff8",
+  "DisplayName": "Quality Management System",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "b5373524-c875-585d-8d6d-0d2c4948cd62",
+  "BusinessCapabilityKey": "4122-Sustainability Management-Sustainable Operations-EHS Incident Management",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sustainable Operations",
+  "ModuleOrApplicationName": "Quality Management System",
+  "_sourceRow": 303,
+  "_sourcePlatform": "Aras Innovator"
+}

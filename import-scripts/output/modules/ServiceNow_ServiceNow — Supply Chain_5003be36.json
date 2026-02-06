@@ -1,0 +1,22 @@
+{
+  "Id": "5003be36-cd6c-5e87-9cc1-d114a6e0c812",
+  "DisplayName": "ServiceNow — Supply Chain",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "d711b62d-3ce4-50bf-aa93-98d7619b37e5",
+  "BusinessCapabilityKey": "4401-Supply Chain--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 324,
+  "_sourcePlatform": "ServiceNow"
+}

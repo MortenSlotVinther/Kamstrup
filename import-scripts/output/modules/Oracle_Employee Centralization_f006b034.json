@@ -1,0 +1,26 @@
+{
+  "Id": "f006b034-7e32-5afe-afe6-1701a6cb2f6d",
+  "DisplayName": "Employee Centralization",
+  "ShortDescription": null,
+  "RichDescription": "Employee Centralization: Manage all employee details, jobs, positions, and organizational structures in one location.",
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "e885456d-e2bc-561c-9b95-82a1010f6aa2",
+  "BusinessCapabilityKey": "4403-People and Culture-Seperation-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Seperation",
+  "ModuleOrApplicationName": "Global Human Resources (Core HR)",
+  "LifeCycle": {
+    "Active": "2026-06-30T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 332,
+  "_sourcePlatform": "Oracle"
+}

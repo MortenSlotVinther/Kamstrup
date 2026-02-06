@@ -1,0 +1,22 @@
+{
+  "Id": "f85273e6-43ec-561a-b708-5650c923e6e1",
+  "DisplayName": "Contract change management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "7da5aeb9-1c11-5e0f-8d0b-6c85c38e6348",
+  "BusinessCapabilityKey": "3087-Sales-Quotation, Order, and Contract Management-sales contract management",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quotation, Order, and Contract Management",
+  "ModuleOrApplicationName": "Projects",
+  "_sourceRow": 250,
+  "_sourcePlatform": "IFS"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "dee819c1-e9f9-539a-a80e-7c4a1176bb1f",
+  "DisplayName": "Program Management",
+  "ShortDescription": "Depends on the level, can not provide custoers access to project. Supports the deliverabels, but not the sharing with customers",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "49fce7a2-243a-54a1-a700-360b6f6bef8d",
+  "BusinessCapabilityKey": "4230-Customer Service-Customer Project Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Customer Project Management",
+  "ModuleOrApplicationName": "Program Management",
+  "_sourceRow": 319,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "0b28a312-0832-546b-8fe9-1cd2aae6d4d4",
+  "DisplayName": "Requirements Definition",
+  "ShortDescription": "Agile module used today for sprint and stories",
+  "RichDescription": "Strong support via project portfolio management, Agile, and ITBM modules—manage, prioritize, and track requirements for software and product development.",
+  "ModuleType": "Native",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Requirements Definition",
+  "_sourceRow": 42,
+  "_sourcePlatform": "ServiceNow"
+}

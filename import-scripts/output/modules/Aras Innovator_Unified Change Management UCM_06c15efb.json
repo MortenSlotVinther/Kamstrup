@@ -1,0 +1,22 @@
+{
+  "Id": "06c15efb-e0e4-5a3f-b6ac-4a59466c7a1f",
+  "DisplayName": "Unified Change Management UCM",
+  "ShortDescription": null,
+  "RichDescription": "New enhanced module release end 2025, UCM",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "d8c52319-810f-5877-a5e6-abadc302c4c8",
+  "BusinessCapabilityKey": "1046-Manufacturing-Change Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Change Management",
+  "ModuleOrApplicationName": "Unified Change Management UCM",
+  "_sourceRow": 147,
+  "_sourcePlatform": "Aras Innovator"
+}

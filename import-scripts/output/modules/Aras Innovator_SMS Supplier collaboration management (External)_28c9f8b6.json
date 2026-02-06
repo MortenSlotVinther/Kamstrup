@@ -1,0 +1,22 @@
+{
+  "Id": "28c9f8b6-e3f8-59f5-b0ba-481c4bbfb334",
+  "DisplayName": "SMS Supplier collaboration management (External)",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "6af5aaaf-1884-5190-b11c-195924eb31c7",
+  "BusinessCapabilityKey": "4103-Sustainability Management-Sustainability Collaboration-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sustainability Collaboration",
+  "ModuleOrApplicationName": "SMS Supplier collaboration management (External)",
+  "_sourceRow": 298,
+  "_sourcePlatform": "Aras Innovator"
+}

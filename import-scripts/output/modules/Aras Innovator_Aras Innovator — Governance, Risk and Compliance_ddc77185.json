@@ -1,0 +1,22 @@
+{
+  "Id": "ddc77185-1f96-54aa-ba1d-2c32e3fd9a87",
+  "DisplayName": "Aras Innovator — Governance, Risk and Compliance",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": null,
+  "BusinessCapabilityKey": "4008-Governance, Risk and Compliance-Cybersecurity, Data, Protection and Privacy-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 285,
+  "_sourcePlatform": "Aras Innovator"
+}

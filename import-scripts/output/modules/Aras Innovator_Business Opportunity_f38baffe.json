@@ -1,0 +1,22 @@
+{
+  "Id": "f38baffe-65b3-5d7c-9525-c750797ac80c",
+  "DisplayName": "Business Opportunity",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "6127b905-dc80-5cac-a918-3f374de017a4",
+  "BusinessCapabilityKey": "1056-Strategic Management-Innovation & Technology Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Innovation & Technology Management",
+  "ModuleOrApplicationName": "Business Opportunity",
+  "_sourceRow": 175,
+  "_sourcePlatform": "Aras Innovator"
+}

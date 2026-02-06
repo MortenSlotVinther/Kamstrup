@@ -1,0 +1,22 @@
+{
+  "Id": "74a46b7f-2fb3-542c-a0e3-aad8f537d903",
+  "DisplayName": "Business planing",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "76db7315-f179-5cae-a7dd-9ff1b1c05a94",
+  "BusinessCapabilityKey": "1024-Finance-Financial Planning & Analysis-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Financial Planning & Analysis",
+  "ModuleOrApplicationName": "Finance",
+  "_sourceRow": 97,
+  "_sourcePlatform": "IFS"
+}

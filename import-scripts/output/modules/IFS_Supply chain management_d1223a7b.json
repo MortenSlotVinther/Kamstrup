@@ -1,0 +1,22 @@
+{
+  "Id": "d1223a7b-a998-5417-9fc7-b9b93d21d437",
+  "DisplayName": "Supply chain management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "3971b031-25c3-559c-9918-e6196de89cfa",
+  "BusinessCapabilityKey": "4018-Governance, Risk and Compliance-Product Market Compliance-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Product Market Compliance",
+  "ModuleOrApplicationName": "Supply chain management",
+  "_sourceRow": 287,
+  "_sourcePlatform": "IFS"
+}

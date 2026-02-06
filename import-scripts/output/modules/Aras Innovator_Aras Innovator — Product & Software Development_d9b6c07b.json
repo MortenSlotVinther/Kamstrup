@@ -1,0 +1,22 @@
+{
+  "Id": "d9b6c07b-4634-5820-b19b-40c9dae09462",
+  "DisplayName": "Aras Innovator — Product & Software Development",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "c74086bd-be13-5cc7-b997-a7d7a61ec0ae",
+  "BusinessCapabilityKey": "1041-Product & Software Development-Product & Software Delivery-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Product & Software Delivery",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 134,
+  "_sourcePlatform": "Aras Innovator"
+}

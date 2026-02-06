@@ -1,0 +1,22 @@
+{
+  "Id": "6e6fa9b7-2f8e-5544-b5f3-8f801752f582",
+  "DisplayName": "Sales order",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "0ced1a54-da40-5bb9-96a8-841b6e91e6b0",
+  "BusinessCapabilityKey": "3202-Sales-Quotation, Order, and Contract Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quotation, Order, and Contract Management",
+  "ModuleOrApplicationName": "Supply chain management",
+  "_sourceRow": 269,
+  "_sourcePlatform": "IFS"
+}

@@ -1,0 +1,27 @@
+{
+  "Id": "f370012a-cbb0-57e1-9496-0986e59fd47e",
+  "DisplayName": "Hogrefe",
+  "ShortDescription": null,
+  "RichDescription": "Phase out to Lumina",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "d8826ed3-4876-5feb-b1ca-3a1ed50e4f2b",
+  "ParentPlatformName": "Phase Out",
+  "BusinessCapabilityId": "810bf809-9ab8-586d-a2fc-23828d8f48ee",
+  "BusinessCapabilityKey": "1099-People and Culture-Recruiting-",
+  "ApplicationReference": "574 - Hogrefe",
+  "CapabilitySubArea": "Recruiting",
+  "ModuleOrApplicationName": "Hogrefe",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2026-12-31T00:00:00",
+    "EndOfLife": "2026-12-31T00:00:00"
+  },
+  "_sourceRow": 221,
+  "_sourcePlatform": "Phase Out"
+}

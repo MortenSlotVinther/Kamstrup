@@ -1,0 +1,22 @@
+{
+  "Id": "24945eb7-b33e-5675-82c8-89e8ca51be51",
+  "DisplayName": "Program Management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "13c8719c-1786-5624-b848-a588594b7ad5",
+  "BusinessCapabilityKey": "1014-Strategic Management-Enterprise Effectiveness & Project Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Enterprise Effectiveness & Project Management",
+  "ModuleOrApplicationName": "Program Management",
+  "_sourceRow": 78,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "290fbafd-cdfe-5420-a918-3b1d7028da5f",
+  "DisplayName": "Integration",
+  "ShortDescription": null,
+  "RichDescription": "Integration: Connects with time, HR, and finance modules for accurate payout.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "aef1eb2d-5522-51a2-b003-9ba03a5c9073",
+  "BusinessCapabilityKey": "1025-Finance-Payroll-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Payroll",
+  "ModuleOrApplicationName": "Payroll",
+  "_sourceRow": 103,
+  "_sourcePlatform": "Oracle"
+}

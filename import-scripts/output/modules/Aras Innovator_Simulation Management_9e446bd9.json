@@ -1,0 +1,22 @@
+{
+  "Id": "9e446bd9-4477-5115-92d5-6fe09188561d",
+  "DisplayName": "Simulation Management",
+  "ShortDescription": "Storing and manging the data are often the problem in companies and that is also what Aras are good at. Simulations can be made but special simulation programs will be at a higher level",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "1a643759-6a9a-5e47-bdbc-bfaecf813e13",
+  "BusinessCapabilityKey": "1042-Product & Software Development-Product Preparation-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Product Preparation",
+  "ModuleOrApplicationName": "Simulation Management",
+  "_sourceRow": 135,
+  "_sourcePlatform": "Aras Innovator"
+}

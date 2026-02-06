@@ -1,0 +1,27 @@
+{
+  "Id": "6eafe2e0-35a8-5466-bb81-830bd2da36c0",
+  "DisplayName": "Linkedin",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6a132c7d-d733-5c42-8255-b059a8c707e0",
+  "ParentPlatformName": "Existing",
+  "BusinessCapabilityId": "810bf809-9ab8-586d-a2fc-23828d8f48ee",
+  "BusinessCapabilityKey": "1099-People and Culture-Recruiting-",
+  "ApplicationReference": "455 - Linkedin",
+  "CapabilitySubArea": "Recruiting",
+  "ModuleOrApplicationName": "Linkedin",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 336,
+  "_sourcePlatform": "Existing"
+}

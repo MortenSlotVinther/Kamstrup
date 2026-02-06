@@ -1,0 +1,22 @@
+{
+  "Id": "0d8369c6-e8fb-5ba7-8025-2a090bb299ab",
+  "DisplayName": "Aras Innovator — Strategic Management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "b81d51c8-6509-5404-8044-d65fc39f54a4",
+  "BusinessCapabilityKey": "1058-Strategic Management-Mergers & Acquisitions-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Mergers & Acquisitions",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 179,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "f76623e5-ca17-5493-bbf5-32d36287b501",
+  "DisplayName": "Variant Management",
+  "ShortDescription": "Not seen in the perspective of transactional data.",
+  "RichDescription": "Aras can be used early in the process but can not replace CPQ capabilities.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "82d2ceaa-f97d-5b0a-8e83-11598e51751c",
+  "BusinessCapabilityKey": "3091-Sales-Quotation, Order, and Contract Management-Variant configuration",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quotation, Order, and Contract Management",
+  "ModuleOrApplicationName": "Variant Management",
+  "_sourceRow": 252,
+  "_sourcePlatform": "Aras Innovator"
+}

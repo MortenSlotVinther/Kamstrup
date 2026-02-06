@@ -1,0 +1,22 @@
+{
+  "Id": "ebf7b989-7510-5809-a647-1c103288cb48",
+  "DisplayName": "Quality Management",
+  "ShortDescription": null,
+  "RichDescription": "Supports quality assurance processes, defect tracking, and compliance workflows—especially in software QA—but not specialized manufacturing quality control.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Quality Management",
+  "_sourceRow": 40,
+  "_sourcePlatform": "ServiceNow"
+}

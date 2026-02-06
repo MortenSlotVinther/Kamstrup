@@ -1,0 +1,22 @@
+{
+  "Id": "d2d847cb-d63d-5a79-ae6f-518c1a9619b0",
+  "DisplayName": "Opportunity management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "f10e4e1a-86a9-5ddb-b318-0bdda7bf7c3f",
+  "BusinessCapabilityKey": "3071-Sales-Sales Execution and Customer Engagement-Sales lead management",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sales Execution and Customer Engagement",
+  "ModuleOrApplicationName": "Customer Relantionship Management",
+  "_sourceRow": 248,
+  "_sourcePlatform": "IFS"
+}

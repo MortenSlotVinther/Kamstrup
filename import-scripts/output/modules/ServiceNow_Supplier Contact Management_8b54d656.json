@@ -1,0 +1,22 @@
+{
+  "Id": "8b54d656-bc57-5a48-aac8-d37cf2787f81",
+  "DisplayName": "Supplier Contact Management",
+  "ShortDescription": null,
+  "RichDescription": "Fully supported in Vendor Management Workspace—can store supplier profiles, contacts, SLAs, and performance metrics",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "76657443-0e4d-56fe-9fff-d40e139ee9de",
+  "BusinessCapabilityKey": "1036-Procurement & Logistics-Supplier Contact Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Supplier Contact Management",
+  "ModuleOrApplicationName": "Supplier Contact Management",
+  "_sourceRow": 123,
+  "_sourcePlatform": "ServiceNow"
+}

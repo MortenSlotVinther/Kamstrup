@@ -1,0 +1,22 @@
+{
+  "Id": "63e9cbcf-a8c2-5f7c-b66b-3ca44c9c7053",
+  "DisplayName": "Supply chain management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "6d4fb4e3-1cd4-58e9-bd42-07af75049fe8",
+  "BusinessCapabilityKey": "1179-Procurement & Logistics-Logistics Management-Manage Transportation",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Logistics Management",
+  "ModuleOrApplicationName": "Supply chain management",
+  "_sourceRow": 238,
+  "_sourcePlatform": "IFS"
+}

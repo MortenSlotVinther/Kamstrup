@@ -1,0 +1,22 @@
+{
+  "Id": "412e0c3a-de70-5bba-a73e-75148d911e2f",
+  "DisplayName": "Automation & self-service",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "48ba7fee-a51a-5970-8522-de064a404f15",
+  "BusinessCapabilityKey": "3201-Sales-Sales Execution and Customer Engagement-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sales Execution and Customer Engagement",
+  "ModuleOrApplicationName": "Customer Relantionship Management",
+  "_sourceRow": 265,
+  "_sourcePlatform": "IFS"
+}

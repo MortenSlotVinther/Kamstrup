@@ -1,0 +1,22 @@
+{
+  "Id": "936adb3a-8616-5df6-91ab-486b7cb8cbc0",
+  "DisplayName": "Customer experience and data management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "e96039fc-4b99-5b5f-b578-290a88282315",
+  "BusinessCapabilityKey": "3150-Marketing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Customer experience and data management",
+  "_sourceRow": 258,
+  "_sourcePlatform": "ServiceNow"
+}

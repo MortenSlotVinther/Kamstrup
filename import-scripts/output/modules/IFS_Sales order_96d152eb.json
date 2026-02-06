@@ -1,0 +1,22 @@
+{
+  "Id": "96d152eb-31ec-59fa-a294-436b424c6f86",
+  "DisplayName": "Sales order",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "15e322b1-f4fe-5001-84c8-0c6b6b7d07d9",
+  "BusinessCapabilityKey": "3203-Sales-Sales Management of Indirect Sales-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sales Management of Indirect Sales",
+  "ModuleOrApplicationName": "Supply chain management",
+  "_sourceRow": 270,
+  "_sourcePlatform": "IFS"
+}

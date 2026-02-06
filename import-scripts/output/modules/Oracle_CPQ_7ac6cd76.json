@@ -1,0 +1,22 @@
+{
+  "Id": "7ac6cd76-3368-5139-a507-39ea6e84430b",
+  "DisplayName": "CPQ",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "3rd Party",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "0ced1a54-da40-5bb9-96a8-841b6e91e6b0",
+  "BusinessCapabilityKey": "3202-Sales-Quotation, Order, and Contract Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quotation, Order, and Contract Management",
+  "ModuleOrApplicationName": "CPQ",
+  "_sourceRow": 268,
+  "_sourcePlatform": "Oracle"
+}

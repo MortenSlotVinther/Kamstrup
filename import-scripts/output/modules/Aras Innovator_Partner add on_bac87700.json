@@ -1,0 +1,22 @@
+{
+  "Id": "bac87700-0328-5728-9586-fa40e9835532",
+  "DisplayName": "Partner add on",
+  "ShortDescription": "Partner Add on",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "3971b031-25c3-559c-9918-e6196de89cfa",
+  "BusinessCapabilityKey": "4018-Governance, Risk and Compliance-Product Market Compliance-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Product Market Compliance",
+  "ModuleOrApplicationName": "Partner add on",
+  "_sourceRow": 288,
+  "_sourcePlatform": "Aras Innovator"
+}

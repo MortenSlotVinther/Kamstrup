@@ -1,0 +1,22 @@
+{
+  "Id": "b74ddbfa-e541-51f2-8277-1ea45969a61f",
+  "DisplayName": "Requirment Engineering",
+  "ShortDescription": "The line through, Requirment, System and Variant will give a strong digital thread.",
+  "RichDescription": "part of digital thread",
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "1318275e-8902-593a-889d-c818cbbacafa",
+  "BusinessCapabilityKey": "1045-Product & Software Development-Requirements Definition-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Requirements Definition",
+  "ModuleOrApplicationName": "Requirment Engineering",
+  "_sourceRow": 144,
+  "_sourcePlatform": "Aras Innovator"
+}

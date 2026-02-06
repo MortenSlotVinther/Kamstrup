@@ -1,0 +1,22 @@
+{
+  "Id": "db920ac9-759e-5329-8970-76403a52ea80",
+  "DisplayName": "Aras Innovator — Governance, Risk and Compliance",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "2ba1776b-e7fc-5713-949c-c1c8f1aa4dbe",
+  "BusinessCapabilityKey": "4012-Governance, Risk and Compliance-Identity and Access Governance-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 286,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "d440097d-0da2-57bf-8778-13bffb528339",
+  "DisplayName": "B2B contracting",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "530f6042-494b-5a26-8202-2f3aba82277a",
+  "BusinessCapabilityKey": "1049-Manufacturing-Maintenance-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Maintenance",
+  "ModuleOrApplicationName": "Asset Management",
+  "_sourceRow": 155,
+  "_sourcePlatform": "IFS"
+}

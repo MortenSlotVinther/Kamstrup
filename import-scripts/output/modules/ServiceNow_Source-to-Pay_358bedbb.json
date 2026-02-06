@@ -1,0 +1,22 @@
+{
+  "Id": "358bedbb-d807-564b-936e-a784b6350792",
+  "DisplayName": "Source-to-Pay",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "25b1f6ee-a577-535b-8203-dc891c8172e4",
+  "BusinessCapabilityKey": "1004-Procurement & Logistics--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Source-to-Pay",
+  "_sourceRow": 31,
+  "_sourcePlatform": "ServiceNow"
+}

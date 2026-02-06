@@ -1,0 +1,22 @@
+{
+  "Id": "0096e2e5-55ca-530d-ba77-304ceec15fa4",
+  "DisplayName": "Aras Innovator — Sustainability Management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "42645a47-4914-5564-b9f3-d67dccfe5a27",
+  "BusinessCapabilityKey": "4104-Sustainability Management-Sustainability Performance Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sustainability Performance Management",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 300,
+  "_sourcePlatform": "Aras Innovator"
+}

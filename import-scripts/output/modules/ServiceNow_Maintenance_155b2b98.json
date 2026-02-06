@@ -1,0 +1,22 @@
+{
+  "Id": "155b2b98-676c-5543-93fb-99907fab1ba7",
+  "DisplayName": "Maintenance",
+  "ShortDescription": null,
+  "RichDescription": "Asset & Facility Maintenance can be managed with Field Service Management and Asset Management, including preventive maintenance scheduling.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Maintenance",
+  "_sourceRow": 58,
+  "_sourcePlatform": "ServiceNow"
+}

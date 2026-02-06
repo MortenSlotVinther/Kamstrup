@@ -1,0 +1,22 @@
+{
+  "Id": "4895e8dc-810b-58ac-9e1f-a132319d6b19",
+  "DisplayName": "Aras Innovator — Customer Service",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "1132ff36-89d6-56b9-8251-2858fa703886",
+  "BusinessCapabilityKey": "4202-Customer Service-Customer Service Strategy and Planning-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Customer Service Strategy and Planning",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 317,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,26 @@
+{
+  "Id": "64201917-0e37-5b9e-bf4e-d70abd75d324",
+  "DisplayName": "Course Management",
+  "ShortDescription": null,
+  "RichDescription": "Course Management: HR and managers can create, assign, and track completed courses.",
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "d8df7aaa-8ec1-59c1-a59c-3b7395c4290e",
+  "BusinessCapabilityKey": "1098-People and Culture-Learning & Development-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Learning & Development",
+  "ModuleOrApplicationName": "Learning",
+  "LifeCycle": {
+    "Active": "2026-11-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 210,
+  "_sourcePlatform": "Oracle"
+}

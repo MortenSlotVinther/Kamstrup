@@ -1,0 +1,22 @@
+{
+  "Id": "e71020b3-2fec-54c7-be66-2800347cde8a",
+  "DisplayName": "Sustainability management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "6af5aaaf-1884-5190-b11c-195924eb31c7",
+  "BusinessCapabilityKey": "4103-Sustainability Management-Sustainability Collaboration-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sustainability Collaboration",
+  "ModuleOrApplicationName": "Manufacturing",
+  "_sourceRow": 297,
+  "_sourcePlatform": "IFS"
+}

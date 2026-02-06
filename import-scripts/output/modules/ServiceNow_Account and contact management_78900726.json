@@ -1,0 +1,22 @@
+{
+  "Id": "78900726-f74e-5e80-872e-e62877a3b62f",
+  "DisplayName": "Account and contact management",
+  "ShortDescription": null,
+  "RichDescription": "We get Accounts from IFS and Contacts from CRM - and customers log into servicenow /csm portal to get support and is associated to an account",
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "764910fb-4fc3-52b8-b804-4c3969020525",
+  "BusinessCapabilityKey": "3212-Sales--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Account and contact management",
+  "_sourceRow": 275,
+  "_sourcePlatform": "ServiceNow"
+}

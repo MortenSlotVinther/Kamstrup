@@ -1,0 +1,22 @@
+{
+  "Id": "e7196022-333d-5e30-b844-0e1597c6f01b",
+  "DisplayName": "Supplier Management Solution",
+  "ShortDescription": "Can be used as xMS, technical strong, but not for purchase orders",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "25b1f6ee-a577-535b-8203-dc891c8172e4",
+  "BusinessCapabilityKey": "1004-Procurement & Logistics--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Supplier Management Solution",
+  "_sourceRow": 33,
+  "_sourcePlatform": "Aras Innovator"
+}

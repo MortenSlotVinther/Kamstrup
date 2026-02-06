@@ -1,0 +1,26 @@
+{
+  "Id": "16c14446-1939-5980-b017-ab506f645d87",
+  "DisplayName": "Eligibility Management",
+  "ShortDescription": null,
+  "RichDescription": "Eligibility Management: Determines employee eligibility for different benefits.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "e4ac7abb-56e1-59db-8ce4-1000a41476de",
+  "BusinessCapabilityKey": "1097-People and Culture-Compensation & Benefits-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Compensation & Benefits",
+  "ModuleOrApplicationName": "Benefits",
+  "LifeCycle": {
+    "Active": "2030-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 205,
+  "_sourcePlatform": "Oracle"
+}

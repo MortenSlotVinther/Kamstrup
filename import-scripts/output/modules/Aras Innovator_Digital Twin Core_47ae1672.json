@@ -1,0 +1,22 @@
+{
+  "Id": "47ae1672-fafc-5c78-942a-a9472a120d7b",
+  "DisplayName": "Digital Twin Core",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "fc5878c0-16cd-5708-97a7-fe632298d7bf",
+  "BusinessCapabilityKey": "4101-Sustainability Management-Circular Economy-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Circular Economy",
+  "ModuleOrApplicationName": "Digital Twin Core",
+  "_sourceRow": 293,
+  "_sourcePlatform": "Aras Innovator"
+}

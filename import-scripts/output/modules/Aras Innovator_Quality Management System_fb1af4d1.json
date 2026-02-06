@@ -1,0 +1,22 @@
+{
+  "Id": "fb1af4d1-f3ae-5637-aa68-b01f56d8e347",
+  "DisplayName": "Quality Management System",
+  "ShortDescription": "No standalone risk management. Evaluated company wide",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "5e3fa06b-2b54-5507-a592-c48e3cc46c63",
+  "BusinessCapabilityKey": "4000-Governance, Risk and Compliance--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Quality Management System",
+  "_sourceRow": 282,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "3c83865b-3912-5edb-81b9-220e56352432",
+  "DisplayName": "System Architecture",
+  "ShortDescription": "The strenght is on the data management not the modelling",
+  "RichDescription": "part of digital thread",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "System Architecture",
+  "_sourceRow": 50,
+  "_sourcePlatform": "Aras Innovator"
+}

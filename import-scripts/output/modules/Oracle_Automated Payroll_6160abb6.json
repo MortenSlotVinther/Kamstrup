@@ -1,0 +1,22 @@
+{
+  "Id": "6160abb6-39ac-5d59-8b33-3c993f84a5e9",
+  "DisplayName": "Automated Payroll",
+  "ShortDescription": null,
+  "RichDescription": "Automated Payroll: Processes payroll for various employee types and locations.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "aef1eb2d-5522-51a2-b003-9ba03a5c9073",
+  "BusinessCapabilityKey": "1025-Finance-Payroll-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Payroll",
+  "ModuleOrApplicationName": "Payroll",
+  "_sourceRow": 101,
+  "_sourcePlatform": "Oracle"
+}

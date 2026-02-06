@@ -1,0 +1,22 @@
+{
+  "Id": "dd2b7ee9-586e-5c6a-87dd-c184cd6393cf",
+  "DisplayName": "Resource management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "c709877c-b89a-5693-b91c-eb583e3583df",
+  "BusinessCapabilityKey": "3102-Enterprise Support-Enterprise Effectiveness & Project Management-Task Tracking and Planning",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Projects",
+  "_sourceRow": 253,
+  "_sourcePlatform": "IFS"
+}

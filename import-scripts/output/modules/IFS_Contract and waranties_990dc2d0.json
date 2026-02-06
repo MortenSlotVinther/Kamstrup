@@ -1,0 +1,22 @@
+{
+  "Id": "990dc2d0-334a-5c5c-83c5-50cc7c4edfaf",
+  "DisplayName": "Contract and waranties",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "1088f75f-4178-5571-9f4d-46be506e78a7",
+  "BusinessCapabilityKey": "3080-Sales-Quotation, Order, and Contract Management-Bundling, configuration and subscription management",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quotation, Order, and Contract Management",
+  "ModuleOrApplicationName": "Service management",
+  "_sourceRow": 249,
+  "_sourcePlatform": "IFS"
+}

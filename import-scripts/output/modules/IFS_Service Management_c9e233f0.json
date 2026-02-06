@@ -1,0 +1,22 @@
+{
+  "Id": "c9e233f0-9536-5aa9-b044-355c2c7a6a10",
+  "DisplayName": "Service Management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "b7b73c7a-e5df-5b03-a003-c06580fa88da",
+  "BusinessCapabilityKey": "4200-Customer Service--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Service Management",
+  "_sourceRow": 306,
+  "_sourcePlatform": "IFS"
+}

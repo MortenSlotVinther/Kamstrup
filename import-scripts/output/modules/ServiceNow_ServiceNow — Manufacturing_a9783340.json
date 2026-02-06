@@ -1,0 +1,22 @@
+{
+  "Id": "a9783340-4872-5e2b-9388-7ebc84a54ebb",
+  "DisplayName": "ServiceNow — Manufacturing",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 54,
+  "_sourcePlatform": "ServiceNow"
+}

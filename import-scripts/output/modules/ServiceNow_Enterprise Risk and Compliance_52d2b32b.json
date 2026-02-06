@@ -1,0 +1,22 @@
+{
+  "Id": "52d2b32b-63c4-5cf4-86ee-4055c3f9afba",
+  "DisplayName": "Enterprise Risk and Compliance",
+  "ShortDescription": null,
+  "RichDescription": "Strong native support with GRC module covering risk management, audit management, controls management, regulatory compliance, business integrity, and non-conformance management.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "5e3fa06b-2b54-5507-a592-c48e3cc46c63",
+  "BusinessCapabilityKey": "4000-Governance, Risk and Compliance--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Enterprise Risk and Compliance",
+  "_sourceRow": 279,
+  "_sourcePlatform": "ServiceNow"
+}

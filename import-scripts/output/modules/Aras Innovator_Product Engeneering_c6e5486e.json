@@ -1,0 +1,22 @@
+{
+  "Id": "c6e5486e-fd9d-55ad-8a25-d9d169882fa4",
+  "DisplayName": "Product Engeneering",
+  "ShortDescription": "Supporting the process with data, not as a module for the process",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "7fa6f779-ba31-557b-a00a-bc2db2df9d8a",
+  "BusinessCapabilityKey": "4201-Customer Service-Customer Service and Support-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Customer Service and Support",
+  "ModuleOrApplicationName": "Product Engeneering",
+  "_sourceRow": 309,
+  "_sourcePlatform": "Aras Innovator"
+}

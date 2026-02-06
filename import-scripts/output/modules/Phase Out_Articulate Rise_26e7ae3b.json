@@ -1,0 +1,27 @@
+{
+  "Id": "26e7ae3b-50ae-5bfb-a78a-f78a12692192",
+  "DisplayName": "Articulate Rise",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "d8826ed3-4876-5feb-b1ca-3a1ed50e4f2b",
+  "ParentPlatformName": "Phase Out",
+  "BusinessCapabilityId": "d8df7aaa-8ec1-59c1-a59c-3b7395c4290e",
+  "BusinessCapabilityKey": "1098-People and Culture-Learning & Development-",
+  "ApplicationReference": "1061 - Articulate Rise",
+  "CapabilitySubArea": "Learning & Development",
+  "ModuleOrApplicationName": "Articulate Rise",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2027-08-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 212,
+  "_sourcePlatform": "Phase Out"
+}

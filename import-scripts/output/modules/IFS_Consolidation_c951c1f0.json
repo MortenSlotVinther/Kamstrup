@@ -1,0 +1,22 @@
+{
+  "Id": "c951c1f0-4f92-5326-889e-f535730bfc3a",
+  "DisplayName": "Consolidation",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "913b7cb5-c9d1-5fc9-a1d8-5d135d65e69a",
+  "BusinessCapabilityKey": "1121-Finance-Accounting-Enterprise Consolidation",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Accounting",
+  "ModuleOrApplicationName": "Finance",
+  "_sourceRow": 223,
+  "_sourcePlatform": "IFS"
+}

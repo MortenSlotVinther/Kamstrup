@@ -1,0 +1,22 @@
+{
+  "Id": "751612b0-1ff0-525f-b0a3-c620614d5251",
+  "DisplayName": "Cybersecurity, Data, Protection and Privacy",
+  "ShortDescription": null,
+  "RichDescription": "Supports cybersecurity risk management, data privacy, data protection, and compliance with frameworks. Integration with SecOps and Policy and Compliance Management modules.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "5e3fa06b-2b54-5507-a592-c48e3cc46c63",
+  "BusinessCapabilityKey": "4000-Governance, Risk and Compliance--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Cybersecurity, Data, Protection and Privacy",
+  "_sourceRow": 280,
+  "_sourcePlatform": "ServiceNow"
+}

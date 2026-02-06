@@ -1,0 +1,22 @@
+{
+  "Id": "fde20fca-80a0-5f70-a3ac-30f79cecd07b",
+  "DisplayName": "Adobe — Marketing",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "b30b78e5-8c83-582b-8445-cf1a834d965f",
+  "ParentPlatformName": "Adobe",
+  "BusinessCapabilityId": "e96039fc-4b99-5b5f-b578-290a88282315",
+  "BusinessCapabilityKey": "3150-Marketing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 255,
+  "_sourcePlatform": "Adobe"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "0fde40b9-5203-5865-bd1f-7998af8fd156",
+  "DisplayName": "Identity and Access Governance",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Inappropriate",
+  "ModuleFunctionalFit": "Unreasonable",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "5e3fa06b-2b54-5507-a592-c48e3cc46c63",
+  "BusinessCapabilityKey": "4000-Governance, Risk and Compliance--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Identity and Access Governance",
+  "_sourceRow": 281,
+  "_sourcePlatform": "ServiceNow"
+}

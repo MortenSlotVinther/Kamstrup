@@ -1,0 +1,26 @@
+{
+  "Id": "f22bf861-4c51-5075-a68d-0b057e1f1e4a",
+  "DisplayName": "Data-Driven Decisions",
+  "ShortDescription": null,
+  "RichDescription": "Data-Driven Decisions: Dashboards track metrics like attrition, performance, and engagement.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "742872d4-7691-54fd-a9b1-926620dfadef",
+  "BusinessCapabilityKey": "1016-People and Culture--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "HCM Analytics",
+  "LifeCycle": {
+    "Active": "2030-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 84,
+  "_sourcePlatform": "Oracle"
+}

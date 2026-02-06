@@ -1,0 +1,26 @@
+{
+  "Id": "3dfbf7a7-9cee-5da4-9eb9-b3cc2d4efa14",
+  "DisplayName": "Onboarding",
+  "ShortDescription": null,
+  "RichDescription": "Onboarding: Automated workflows ensure new hires have access to resources from day one.",
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "67f6522e-c447-5f39-ae93-f3fa5c3ac952",
+  "BusinessCapabilityKey": "4402-People and Culture-Onboarding-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Onboarding",
+  "ModuleOrApplicationName": "Global Human Resources (Core HR)",
+  "LifeCycle": {
+    "Active": "2027-07-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 327,
+  "_sourcePlatform": "Oracle"
+}

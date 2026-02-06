@@ -1,0 +1,22 @@
+{
+  "Id": "098d53ab-2f08-5c43-838e-c71068b1a225",
+  "DisplayName": "Data and insights management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "e96039fc-4b99-5b5f-b578-290a88282315",
+  "BusinessCapabilityKey": "3150-Marketing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Data and insights management",
+  "_sourceRow": 257,
+  "_sourcePlatform": "ServiceNow"
+}

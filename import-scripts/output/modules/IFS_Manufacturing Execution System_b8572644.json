@@ -1,0 +1,22 @@
+{
+  "Id": "b8572644-36d8-5779-8ca7-ff206c988c15",
+  "DisplayName": "Manufacturing Execution System",
+  "ShortDescription": null,
+  "RichDescription": "For IFS Cloud it is beeing work on to move from Insufficient to Appropriate",
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "8f92f1c9-8f7e-56ab-b081-5d34bbaea9a2",
+  "BusinessCapabilityKey": "4300-Manufacturing-Manufacturing Software-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Manufacturing Software",
+  "ModuleOrApplicationName": "Manufacturing",
+  "_sourceRow": 322,
+  "_sourcePlatform": "IFS"
+}

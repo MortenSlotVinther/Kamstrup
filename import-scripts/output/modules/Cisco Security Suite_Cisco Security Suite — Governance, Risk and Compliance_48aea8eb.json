@@ -1,0 +1,22 @@
+{
+  "Id": "48aea8eb-c2ef-5787-8d1a-892bd2625164",
+  "DisplayName": "Cisco Security Suite — Governance, Risk and Compliance",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "9c2f5bde-046a-5a37-8f07-2b1b9a78ccf4",
+  "ParentPlatformName": "Cisco Security Suite",
+  "BusinessCapabilityId": "5e3fa06b-2b54-5507-a592-c48e3cc46c63",
+  "BusinessCapabilityKey": "4000-Governance, Risk and Compliance--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 277,
+  "_sourcePlatform": "Cisco Security Suite"
+}

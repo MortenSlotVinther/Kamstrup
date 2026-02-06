@@ -1,0 +1,22 @@
+{
+  "Id": "0549db0c-e5fb-58ca-892e-bd51574ea55e",
+  "DisplayName": "Manufacturing Order Management",
+  "ShortDescription": null,
+  "RichDescription": "Can track orders, status, and approvals via workflow, but actual production scheduling and execution require MES/ERP integration.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Manufacturing Order Management",
+  "_sourceRow": 61,
+  "_sourcePlatform": "ServiceNow"
+}

@@ -31,15 +31,15 @@ Current max ProtoMember: 8 (SupportDocumentation). Next safe: 9.
 
 ### Implementation:
 
-- [ ] Add `[ProtoMember(9)] public UtilizationEnum Utilization { get; set; } = UtilizationEnum.Unknown;`
-- [ ] Add `[ProtoMember(10)] public TechnicalFitEnum ModuleTechnicalFit { get; set; } = TechnicalFitEnum.Unmapped;`
+- [x] Add `[ProtoMember(9)] public UtilizationEnum Utilization { get; set; } = UtilizationEnum.Unknown;`
+- [x] Add `[ProtoMember(10)] public TechnicalFitEnum ModuleTechnicalFit { get; set; } = TechnicalFitEnum.Unmapped;`
   - Named `ModuleTechnicalFit` to distinguish from base class `FunctionalFit` (PM 17 on FactSheet base)
-- [ ] Add `[ProtoMember(11)] public FunctionalFitEnum ModuleFunctionalFit { get; set; } = FunctionalFitEnum.Unmapped;`
+- [x] Add `[ProtoMember(11)] public FunctionalFitEnum ModuleFunctionalFit { get; set; } = FunctionalFitEnum.Unmapped;`
   - Named `ModuleFunctionalFit` to distinguish from base class
-- [ ] Add `[ProtoMember(12)] public bool IsPurchased { get; set; }`
-- [ ] Add `[ProtoMember(13)] public bool AIEnabled { get; set; }`
-- [ ] Add `using` for enum namespaces
-- [ ] Add `[Newtonsoft.Json.JsonConverter(typeof(Newtonsoft.Json.Converters.StringEnumConverter))]` on enum properties
+- [x] Add `[ProtoMember(12)] public bool IsPurchased { get; set; }`
+- [x] Add `[ProtoMember(13)] public bool AIEnabled { get; set; }`
+- [x] Add `using` for enum namespaces
+- [x] Add `[Newtonsoft.Json.JsonConverter(typeof(Newtonsoft.Json.Converters.StringEnumConverter))]` on enum properties
 
 **Proto numbers verified:** 9-13 are all unused in ModuleFactSheet.
 
@@ -104,8 +104,8 @@ Current max ProtoMember: 8 (SupportDocumentation). Next safe: 9.
 
 ### Import logic:
 
-- [ ] Read data rows from P-PlatformData (rows 21+, where col B has Platform name; row 20 is header)
-- [ ] For each row:
+- [x] Read data rows from P-PlatformData (rows 21+, where col B has Platform name; row 20 is header)
+- [x] For each row:
   1. Look up parent Platform (ITComponentFactSheet) by name (col B)
   2. Look up BusinessCapability by IdLevel123 (col C)
   3. Create `ModuleFactSheet`:
@@ -120,9 +120,9 @@ Current max ProtoMember: 8 (SupportDocumentation). Next safe: 9.
      - Set `LifeCycle.EndOfLife` from col Q if present
   4. Set `HierarchyParentId` → parent Platform's Id (module belongs to platform)
   5. Store capability reference for relationship wiring (step 6.3)
-- [ ] Handle duplicate module names within same platform (append capability name to disambiguate)
-- [ ] Generate deterministic GUID from Platform+SubModule+Capability composite key
-- [ ] **Validate:** ~302 ModuleFactSheets created
+- [x] Handle duplicate module names within same platform (append capability name to disambiguate)
+- [x] Generate deterministic GUID from Platform+SubModule+Capability composite key
+- [x] **Validate:** 321 ModuleFactSheets created (more than estimated 302 — all valid data rows)
 
 ---
 

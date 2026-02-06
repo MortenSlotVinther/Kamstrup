@@ -1,0 +1,22 @@
+{
+  "Id": "52299e50-7b0c-5b25-8c6b-06e4bfb0187a",
+  "DisplayName": "Contract and waranties",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "a81f3604-f7ce-55e9-8dc0-4007bb74f747",
+  "BusinessCapabilityKey": "3050-Sales-Sales Operations-Subscription lifecycle management",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sales Operations",
+  "ModuleOrApplicationName": "Service management",
+  "_sourceRow": 245,
+  "_sourcePlatform": "IFS"
+}

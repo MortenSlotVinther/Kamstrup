@@ -1,0 +1,22 @@
+{
+  "Id": "113768fd-b8d5-5e27-9c42-57ab5625aa7a",
+  "DisplayName": "Product Engineering",
+  "ShortDescription": "For supporting the process of this, describe and dokument. Extended with workflow and business view.",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "64dadd3b-63a2-5302-8c9a-4903b726a81c",
+  "BusinessCapabilityKey": "1040-Product & Software Development-Method Development-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Method Development",
+  "ModuleOrApplicationName": "Product Engineering",
+  "_sourceRow": 132,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "fff99b30-7682-52c8-ad17-ab82959f4fcb",
+  "DisplayName": "CRM, Contract mgmt, Order Mgmt, SLA's",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "52a6d38f-26b8-52a1-9e6e-7bb92755a547",
+  "BusinessCapabilityKey": "1000-Customer Relationship--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "CRM, Contract mgmt, Order Mgmt, SLA's",
+  "_sourceRow": 23,
+  "_sourcePlatform": "ServiceNow"
+}

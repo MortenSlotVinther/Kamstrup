@@ -1,0 +1,27 @@
+{
+  "Id": "cef84415-dfda-55d3-b9dd-f55f930fa0dc",
+  "DisplayName": "Microsoft Viva Glint",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "ba654e75-daaf-5130-8cef-4bee2417afac",
+  "ParentPlatformName": "New",
+  "BusinessCapabilityId": "d8df7aaa-8ec1-59c1-a59c-3b7395c4290e",
+  "BusinessCapabilityKey": "1098-People and Culture-Learning & Development-",
+  "ApplicationReference": "1157 - Microsoft Viva Glint",
+  "CapabilitySubArea": "Learning & Development",
+  "ModuleOrApplicationName": "Microsoft Viva Glint",
+  "LifeCycle": {
+    "Active": "2026-03-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 338,
+  "_sourcePlatform": "New"
+}

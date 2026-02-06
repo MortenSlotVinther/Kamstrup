@@ -1,0 +1,22 @@
+{
+  "Id": "6670973b-426a-59f2-9ee2-5b497ac2450a",
+  "DisplayName": "Contracts & warranties",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "7fa6f779-ba31-557b-a00a-bc2db2df9d8a",
+  "BusinessCapabilityKey": "4201-Customer Service-Customer Service and Support-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Customer Service and Support",
+  "ModuleOrApplicationName": "Service management",
+  "_sourceRow": 308,
+  "_sourcePlatform": "IFS"
+}

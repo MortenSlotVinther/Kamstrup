@@ -1,0 +1,22 @@
+{
+  "Id": "f357d568-980d-5207-a6ac-7816263308e7",
+  "DisplayName": "ServiceNow — Strategic Management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Inappropriate",
+  "ModuleFunctionalFit": "Unreasonable",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "de6627f8-6258-5590-9e91-c75e6b1330a3",
+  "BusinessCapabilityKey": "1007-Strategic Management--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 65,
+  "_sourcePlatform": "ServiceNow"
+}

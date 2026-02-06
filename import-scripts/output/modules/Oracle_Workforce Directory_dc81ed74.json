@@ -1,0 +1,26 @@
+{
+  "Id": "dc81ed74-f10d-5bfc-8007-a17da50a4cbc",
+  "DisplayName": "Workforce Directory",
+  "ShortDescription": null,
+  "RichDescription": "Workforce Directory: Comprehensive employee directory with search capabilities.",
+  "ModuleType": "3rd Party",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "b933e9c0-04c1-509d-ba72-392192bcbc7b",
+  "BusinessCapabilityKey": "1096-People and Culture-Retentation-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Retentation",
+  "ModuleOrApplicationName": "Global Human Resources (Core HR)",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 190,
+  "_sourcePlatform": "Oracle"
+}

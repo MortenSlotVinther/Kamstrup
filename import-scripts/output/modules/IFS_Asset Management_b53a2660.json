@@ -1,0 +1,22 @@
+{
+  "Id": "b53a2660-dad3-5da9-906b-65b459d76e06",
+  "DisplayName": "Asset Management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "12af560a-1395-5ad3-a18e-0b27a1fe271d",
+  "BusinessCapabilityKey": "1023-Finance-Asset Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Asset Management",
+  "ModuleOrApplicationName": "Asset Management",
+  "_sourceRow": 95,
+  "_sourcePlatform": "IFS"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "2a5ebfb7-15d1-51f8-b86b-5d108cd90f40",
+  "DisplayName": "ServiceNow — Service",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": null,
+  "BusinessCapabilityKey": "1029-Service--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 107,
+  "_sourcePlatform": "ServiceNow"
+}

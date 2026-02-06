@@ -1,0 +1,22 @@
+{
+  "Id": "ad506dca-1b5d-52bd-989d-2ebede0e2f14",
+  "DisplayName": "IT Mgmt, HR mgmt, Knowledge and more",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "742872d4-7691-54fd-a9b1-926620dfadef",
+  "BusinessCapabilityKey": "1016-People and Culture--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "IT Mgmt, HR mgmt, Knowledge and more",
+  "_sourceRow": 25,
+  "_sourcePlatform": "ServiceNow"
+}

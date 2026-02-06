@@ -1,0 +1,22 @@
+{
+  "Id": "c7c51f07-81d0-5c6f-91cf-1ac458cff5a5",
+  "DisplayName": "Dynamics 365 — Customer Service",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "5f6b0a93-7045-5d97-a67f-ee0d8bc3116b",
+  "ParentPlatformName": "Dynamics 365",
+  "BusinessCapabilityId": "b7b73c7a-e5df-5b03-a003-c06580fa88da",
+  "BusinessCapabilityKey": "4200-Customer Service--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 304,
+  "_sourcePlatform": "Dynamics 365"
+}

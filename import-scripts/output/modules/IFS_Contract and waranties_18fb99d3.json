@@ -1,0 +1,22 @@
+{
+  "Id": "18fb99d3-d3a5-584d-86f2-187f2b2c472d",
+  "DisplayName": "Contract and waranties",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "6d828269-2cad-5cd9-b033-14b8b2e18f5f",
+  "BusinessCapabilityKey": "1013-Customer Relationship-SLA Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "SLA Management",
+  "ModuleOrApplicationName": "Service management",
+  "_sourceRow": 73,
+  "_sourcePlatform": "IFS"
+}

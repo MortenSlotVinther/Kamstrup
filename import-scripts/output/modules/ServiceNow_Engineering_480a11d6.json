@@ -1,0 +1,22 @@
+{
+  "Id": "480a11d6-0907-5d89-aa12-2d9f02e2dc21",
+  "DisplayName": "Engineering",
+  "ShortDescription": null,
+  "RichDescription": "ServiceNow can track engineering tasks and changes (especially for software engineering) but lacks mechanical/electrical design capabilities.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Engineering",
+  "_sourceRow": 43,
+  "_sourcePlatform": "ServiceNow"
+}

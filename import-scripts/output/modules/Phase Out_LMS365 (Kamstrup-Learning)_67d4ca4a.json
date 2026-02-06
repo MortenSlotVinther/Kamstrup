@@ -1,0 +1,27 @@
+{
+  "Id": "67d4ca4a-3e9b-50c7-864a-b3b6ee8841c1",
+  "DisplayName": "LMS365 (Kamstrup-Learning)",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "d8826ed3-4876-5feb-b1ca-3a1ed50e4f2b",
+  "ParentPlatformName": "Phase Out",
+  "BusinessCapabilityId": "d8df7aaa-8ec1-59c1-a59c-3b7395c4290e",
+  "BusinessCapabilityKey": "1098-People and Culture-Learning & Development-",
+  "ApplicationReference": "375 - LMS365 (Kamstrup-Learning)",
+  "CapabilitySubArea": "Learning & Development",
+  "ModuleOrApplicationName": "LMS365 (Kamstrup-Learning)",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2027-08-31T00:00:00",
+    "EndOfLife": "2027-01-01T00:00:00"
+  },
+  "_sourceRow": 214,
+  "_sourcePlatform": "Phase Out"
+}

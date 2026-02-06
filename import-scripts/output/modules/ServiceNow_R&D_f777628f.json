@@ -1,0 +1,22 @@
+{
+  "Id": "f777628f-8876-5716-bff9-98f35ca3bbab",
+  "DisplayName": "R&D",
+  "ShortDescription": null,
+  "RichDescription": "Can manage R&D project tracking, resource allocation, and idea intake, but no native CAD, simulation, or lab data tools.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "R&D",
+  "_sourceRow": 41,
+  "_sourcePlatform": "ServiceNow"
+}

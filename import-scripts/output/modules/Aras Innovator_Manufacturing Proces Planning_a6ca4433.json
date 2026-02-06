@@ -1,0 +1,22 @@
+{
+  "Id": "a6ca4433-3feb-5bf1-9d9b-5faa5a07f19b",
+  "DisplayName": "Manufacturing Proces Planning",
+  "ShortDescription": "This planning are today done in IFS, but in Aras there are possabilities to have som 3D modelling send to manufacturing",
+  "RichDescription": "Tools used depending on site",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Manufacturing Proces Planning",
+  "_sourceRow": 64,
+  "_sourcePlatform": "Aras Innovator"
+}

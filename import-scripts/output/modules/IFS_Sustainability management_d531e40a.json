@@ -1,0 +1,22 @@
+{
+  "Id": "d531e40a-d0e0-5abc-b9e7-71b332544f4c",
+  "DisplayName": "Sustainability management",
+  "ShortDescription": null,
+  "RichDescription": "Fast developing area in IFS Cloud",
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "7ea65ac3-72ed-57bd-beed-3814eb2c7125",
+  "BusinessCapabilityKey": "4100-Sustainability Management--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Manufacturing",
+  "_sourceRow": 289,
+  "_sourcePlatform": "IFS"
+}

@@ -1,0 +1,26 @@
+{
+  "Id": "54ed175f-01d5-5a74-9184-2e44e58268fb",
+  "DisplayName": "Global Compliance",
+  "ShortDescription": null,
+  "RichDescription": "Global Compliance: Supports local HR compliance globally (multi-language, localizations).",
+  "ModuleType": "3rd Party",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "3a3c986e-2d02-52e4-a054-d4676ce59acc",
+  "BusinessCapabilityKey": "1095-People and Culture-HR Policies & Processes-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "HR Policies & Processes",
+  "ModuleOrApplicationName": "Global Human Resources (Core HR)",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 184,
+  "_sourcePlatform": "Oracle"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "ea184542-cf50-5f8c-8f98-8c639b5ae32e",
+  "DisplayName": "Time & attendance",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "e4ac7abb-56e1-59db-8ce4-1000a41476de",
+  "BusinessCapabilityKey": "1097-People and Culture-Compensation & Benefits-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Compensation & Benefits",
+  "ModuleOrApplicationName": "Human Capital Management",
+  "_sourceRow": 208,
+  "_sourcePlatform": "IFS"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "03021e7a-5397-514e-b124-f61db544b345",
+  "DisplayName": "CPQ",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "3rd Party",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "764910fb-4fc3-52b8-b804-4c3969020525",
+  "BusinessCapabilityKey": "3212-Sales--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "CPQ",
+  "_sourceRow": 273,
+  "_sourcePlatform": "Oracle"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "5b0dfe48-9bef-588c-9278-72a7ae602f91",
+  "DisplayName": "Strategic planning",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "0ee398d7-f8aa-5794-a769-f02ce3e8687b",
+  "BusinessCapabilityKey": "1035-Procurement & Logistics-Sourcing-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sourcing",
+  "ModuleOrApplicationName": "Procurement",
+  "_sourceRow": 117,
+  "_sourcePlatform": "IFS"
+}

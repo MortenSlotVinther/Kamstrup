@@ -1,0 +1,22 @@
+{
+  "Id": "97982a5a-2080-537d-986e-8fabe45dc258",
+  "DisplayName": "Aras Innovator — Manufacturing",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "2d9c07c7-9e84-5198-bf79-29e4be73a205",
+  "BusinessCapabilityKey": "1052-Manufacturing-Manufacturing Order Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Manufacturing Order Management",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 168,
+  "_sourcePlatform": "Aras Innovator"
+}

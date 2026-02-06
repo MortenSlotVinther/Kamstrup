@@ -1,0 +1,22 @@
+{
+  "Id": "bc4fcf53-81ad-5bb9-82ca-14b16464dd53",
+  "DisplayName": "Dynamics 365 — Customer Relationship",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "5f6b0a93-7045-5d97-a67f-ee0d8bc3116b",
+  "ParentPlatformName": "Dynamics 365",
+  "BusinessCapabilityId": "52a6d38f-26b8-52a1-9e6e-7bb92755a547",
+  "BusinessCapabilityKey": "1000-Customer Relationship--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 22,
+  "_sourcePlatform": "Dynamics 365"
+}

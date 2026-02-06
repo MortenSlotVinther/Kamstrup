@@ -1,0 +1,22 @@
+{
+  "Id": "4031ad02-656d-5aa5-9185-d31db4340628",
+  "DisplayName": "Aras Innovator — Strategic Management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "f497a3fe-c695-546b-9941-b9c91fe40a04",
+  "BusinessCapabilityKey": "1055-Strategic Management-Externals Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Externals Management",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 174,
+  "_sourcePlatform": "Aras Innovator"
+}

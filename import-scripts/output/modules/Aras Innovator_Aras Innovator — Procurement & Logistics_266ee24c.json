@@ -1,0 +1,22 @@
+{
+  "Id": "266ee24c-4cf8-512e-a4a9-502e729d7c95",
+  "DisplayName": "Aras Innovator — Procurement & Logistics",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "659611ed-c279-5f52-a338-c7ddb6a354fa",
+  "BusinessCapabilityKey": "1034-Procurement & Logistics-Purchasing-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Purchasing",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 115,
+  "_sourcePlatform": "Aras Innovator"
+}

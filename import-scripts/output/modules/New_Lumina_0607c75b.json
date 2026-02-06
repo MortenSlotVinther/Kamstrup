@@ -1,0 +1,27 @@
+{
+  "Id": "0607c75b-87a2-5746-854c-5612359614cd",
+  "DisplayName": "Lumina",
+  "ShortDescription": null,
+  "RichDescription": "Will tak over for Hogrefe",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "ba654e75-daaf-5130-8cef-4bee2417afac",
+  "ParentPlatformName": "New",
+  "BusinessCapabilityId": "810bf809-9ab8-586d-a2fc-23828d8f48ee",
+  "BusinessCapabilityKey": "1099-People and Culture-Recruiting-",
+  "ApplicationReference": "1156 - Lumina",
+  "CapabilitySubArea": "Recruiting",
+  "ModuleOrApplicationName": "Lumina",
+  "LifeCycle": {
+    "Active": "2027-07-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 337,
+  "_sourcePlatform": "New"
+}

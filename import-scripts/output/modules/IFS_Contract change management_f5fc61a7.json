@@ -1,0 +1,22 @@
+{
+  "Id": "f5fc61a7-2d89-5483-be58-ebca93e130ef",
+  "DisplayName": "Contract change management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "004794e9-c4c5-5434-8693-09cf3592a697",
+  "BusinessCapabilityKey": "1009-Customer Relationship-Contract Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Contract Management",
+  "ModuleOrApplicationName": "Projects",
+  "_sourceRow": 68,
+  "_sourcePlatform": "IFS"
+}

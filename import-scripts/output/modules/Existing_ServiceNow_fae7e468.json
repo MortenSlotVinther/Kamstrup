@@ -1,0 +1,27 @@
+{
+  "Id": "fae7e468-ae8e-53d5-a1f0-927c7e48ec80",
+  "DisplayName": "ServiceNow",
+  "ShortDescription": null,
+  "RichDescription": "Will not be phased out",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6a132c7d-d733-5c42-8255-b059a8c707e0",
+  "ParentPlatformName": "Existing",
+  "BusinessCapabilityId": "67f6522e-c447-5f39-ae93-f3fa5c3ac952",
+  "BusinessCapabilityKey": "4402-People and Culture-Onboarding-",
+  "ApplicationReference": "6 - ServiceNow",
+  "CapabilitySubArea": "Onboarding",
+  "ModuleOrApplicationName": "ServiceNow",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 328,
+  "_sourcePlatform": "Existing"
+}

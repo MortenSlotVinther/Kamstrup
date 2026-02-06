@@ -1,0 +1,22 @@
+{
+  "Id": "0ee7a2cc-cf77-5aaf-9cf4-c61d668c8824",
+  "DisplayName": "Aras Innovator — Manufacturing",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "403b08dd-6efb-580e-8271-ca88662b8324",
+  "BusinessCapabilityKey": "1047-Manufacturing-Infrastructure Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Infrastructure Management",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 149,
+  "_sourcePlatform": "Aras Innovator"
+}

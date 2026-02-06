@@ -1,0 +1,26 @@
+{
+  "Id": "b6fb0a7b-ef5a-5e17-8e4d-933b8534d9dd",
+  "DisplayName": "Case Management",
+  "ShortDescription": null,
+  "RichDescription": "Case Management: Tracks HR service requests and inquiries for faster resolution.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "3a3c986e-2d02-52e4-a054-d4676ce59acc",
+  "BusinessCapabilityKey": "1095-People and Culture-HR Policies & Processes-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "HR Policies & Processes",
+  "ModuleOrApplicationName": "HR Help Desk",
+  "LifeCycle": {
+    "Active": "2030-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 185,
+  "_sourcePlatform": "Oracle"
+}

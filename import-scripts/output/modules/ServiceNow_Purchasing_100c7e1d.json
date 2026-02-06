@@ -1,0 +1,22 @@
+{
+  "Id": "100c7e1d-149e-5d93-b697-1ec95e6ee032",
+  "DisplayName": "Purchasing",
+  "ShortDescription": null,
+  "RichDescription": "Covered in Procurement Service Management—supports purchase request creation, approvals, and tracking (often integrated with ERP).",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "659611ed-c279-5f52-a338-c7ddb6a354fa",
+  "BusinessCapabilityKey": "1034-Procurement & Logistics-Purchasing-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Purchasing",
+  "ModuleOrApplicationName": "Purchasing",
+  "_sourceRow": 113,
+  "_sourcePlatform": "ServiceNow"
+}

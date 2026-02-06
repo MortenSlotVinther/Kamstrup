@@ -1,0 +1,26 @@
+{
+  "Id": "7e75b034-4aaf-5b75-9553-0f45a17aa908",
+  "DisplayName": "Recruitment",
+  "ShortDescription": null,
+  "RichDescription": "Recruitment: Streamlines job posting, applicant tracking, and candidate selection with built-in analytics.",
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "810bf809-9ab8-586d-a2fc-23828d8f48ee",
+  "BusinessCapabilityKey": "1099-People and Culture-Recruiting-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Recruiting",
+  "ModuleOrApplicationName": "Recruiting",
+  "LifeCycle": {
+    "Active": "2027-07-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 218,
+  "_sourcePlatform": "Oracle"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "b353044b-6442-5985-b0b5-4aa697e14272",
+  "DisplayName": "ServiceNow — Sales",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "764910fb-4fc3-52b8-b804-4c3969020525",
+  "BusinessCapabilityKey": "3212-Sales--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 274,
+  "_sourcePlatform": "ServiceNow"
+}

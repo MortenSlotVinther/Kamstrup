@@ -1,0 +1,22 @@
+{
+  "Id": "7f7465fd-4048-51ef-8fdb-613d6bd79eaa",
+  "DisplayName": "Proactive customer engagement",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "20326bdd-6d5e-5aeb-8bc0-dc58eb90ff6a",
+  "BusinessCapabilityKey": "1011-Customer Relationship-Customer Scoring-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Customer Scoring",
+  "ModuleOrApplicationName": "Customer Relantionship Management",
+  "_sourceRow": 71,
+  "_sourcePlatform": "IFS"
+}

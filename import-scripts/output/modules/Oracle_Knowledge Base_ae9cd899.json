@@ -1,0 +1,26 @@
+{
+  "Id": "ae9cd899-3409-5e7e-a3a1-609295f2e6e0",
+  "DisplayName": "Knowledge Base",
+  "ShortDescription": null,
+  "RichDescription": "Knowledge Base: Empowers employees to self-resolve frequently asked questions.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "3a3c986e-2d02-52e4-a054-d4676ce59acc",
+  "BusinessCapabilityKey": "1095-People and Culture-HR Policies & Processes-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "HR Policies & Processes",
+  "ModuleOrApplicationName": "HR Help Desk",
+  "LifeCycle": {
+    "Active": "2030-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 186,
+  "_sourcePlatform": "Oracle"
+}

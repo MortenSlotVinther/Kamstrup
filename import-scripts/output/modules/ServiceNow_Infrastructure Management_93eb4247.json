@@ -1,0 +1,22 @@
+{
+  "Id": "93eb4247-ef69-58d2-a39a-4aaf58cc262f",
+  "DisplayName": "Infrastructure Management",
+  "ShortDescription": null,
+  "RichDescription": "ServiceNow excels in IT infrastructure management; for plant facilities or OT infrastructure, it can track assets, maintenance schedules, and incidents, but not control physical systems.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Infrastructure Management",
+  "_sourceRow": 56,
+  "_sourcePlatform": "ServiceNow"
+}

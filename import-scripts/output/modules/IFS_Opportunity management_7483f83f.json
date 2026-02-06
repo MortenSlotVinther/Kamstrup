@@ -1,0 +1,22 @@
+{
+  "Id": "7483f83f-aa8c-566f-b5cb-515819c32e2c",
+  "DisplayName": "Opportunity management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "cb565bd6-3c45-5acf-8528-ad4bacf96521",
+  "BusinessCapabilityKey": "3006-Marketing-Marketing demand management-Lead generation, management, and nurturing",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Marketing demand management",
+  "ModuleOrApplicationName": "Customer Relantionship Management",
+  "_sourceRow": 241,
+  "_sourcePlatform": "IFS"
+}

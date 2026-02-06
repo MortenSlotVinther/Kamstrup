@@ -1,0 +1,22 @@
+{
+  "Id": "5b799890-4bab-5700-a904-aa7fa78594bc",
+  "DisplayName": "ServiceNow — Platform and Service Operations",
+  "ShortDescription": null,
+  "RichDescription": "We use Chg and Problem mgmt. and Inc mgmt. ITOM is not used",
+  "ModuleType": "Native",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": null,
+  "BusinessCapabilityKey": "1003-Platform and Service Operations--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 27,
+  "_sourcePlatform": "ServiceNow"
+}

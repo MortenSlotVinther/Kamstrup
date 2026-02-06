@@ -1,0 +1,22 @@
+{
+  "Id": "a4f641d0-0706-5546-b139-b6fe6139b709",
+  "DisplayName": "Digital Twin Core",
+  "ShortDescription": null,
+  "RichDescription": "Digital Twin involves everything after the design of a product, it involved the product in all states after it is a physical product.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": null,
+  "BusinessCapabilityKey": null,
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Digital Twin Core",
+  "_sourceRow": 334,
+  "_sourcePlatform": "Aras Innovator"
+}

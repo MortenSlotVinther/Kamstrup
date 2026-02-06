@@ -1,0 +1,22 @@
+{
+  "Id": "3af20742-420b-5f7a-828a-8dddbeb6ed02",
+  "DisplayName": "ServiceNow — Marketing",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "e96039fc-4b99-5b5f-b578-290a88282315",
+  "BusinessCapabilityKey": "3150-Marketing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 256,
+  "_sourcePlatform": "ServiceNow"
+}

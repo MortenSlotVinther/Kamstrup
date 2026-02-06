@@ -1,0 +1,22 @@
+{
+  "Id": "8e87abcc-ec6f-5267-8b28-a68f427c236c",
+  "DisplayName": "Supplier Management Solution",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "76657443-0e4d-56fe-9fff-d40e139ee9de",
+  "BusinessCapabilityKey": "1036-Procurement & Logistics-Supplier Contact Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Supplier Contact Management",
+  "ModuleOrApplicationName": "Supplier Management Solution",
+  "_sourceRow": 124,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "3bb6153a-e2a5-5b4e-9414-59655005096b",
+  "DisplayName": "Finance",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "33d12605-3bde-5aed-b965-a715946c040a",
+  "BusinessCapabilityKey": "1020-Legal--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Finance",
+  "_sourceRow": 88,
+  "_sourcePlatform": "IFS"
+}

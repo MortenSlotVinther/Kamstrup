@@ -1,0 +1,22 @@
+{
+  "Id": "49a02f58-bde6-5eec-82ce-0f1c4c2ef8ba",
+  "DisplayName": "Expense management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "af0ef0d5-86e2-5e11-a249-17adc86d0a32",
+  "BusinessCapabilityKey": "1140-Finance-Settlements & Payments-Travel & Expense Management",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Settlements & Payments",
+  "ModuleOrApplicationName": "Human Capital Management",
+  "_sourceRow": 224,
+  "_sourcePlatform": "IFS"
+}

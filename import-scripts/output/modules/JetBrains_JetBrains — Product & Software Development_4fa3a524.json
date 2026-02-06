@@ -1,0 +1,22 @@
+{
+  "Id": "4fa3a524-90fa-5125-966b-8eb3752ca778",
+  "DisplayName": "JetBrains — Product & Software Development",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "66b616ba-488b-5129-952f-1a78dc32ce9c",
+  "ParentPlatformName": "JetBrains",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 36,
+  "_sourcePlatform": "JetBrain"
+}

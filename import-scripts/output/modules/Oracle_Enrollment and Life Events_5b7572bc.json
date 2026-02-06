@@ -1,0 +1,26 @@
+{
+  "Id": "5b7572bc-0783-5ae2-9a2f-6ff31b71ac7f",
+  "DisplayName": "Enrollment and Life Events",
+  "ShortDescription": null,
+  "RichDescription": "Enrollment and Life Events: Allows employees to enroll and update benefits based on life changes.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "e4ac7abb-56e1-59db-8ce4-1000a41476de",
+  "BusinessCapabilityKey": "1097-People and Culture-Compensation & Benefits-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Compensation & Benefits",
+  "ModuleOrApplicationName": "Benefits",
+  "LifeCycle": {
+    "Active": "2030-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 206,
+  "_sourcePlatform": "Oracle"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "aedba5f4-0f7f-5174-a343-cb1bd76aecc5",
+  "DisplayName": "Payroll integration",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "aef1eb2d-5522-51a2-b003-9ba03a5c9073",
+  "BusinessCapabilityKey": "1025-Finance-Payroll-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Payroll",
+  "ModuleOrApplicationName": "Human Capital Management",
+  "_sourceRow": 100,
+  "_sourcePlatform": "IFS"
+}

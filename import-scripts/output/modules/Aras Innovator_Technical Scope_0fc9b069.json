@@ -1,0 +1,22 @@
+{
+  "Id": "0fc9b069-db08-5b9d-b437-e745fe354bd9",
+  "DisplayName": "Technical Scope",
+  "ShortDescription": "We have further developed this module",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "6127b905-dc80-5cac-a918-3f374de017a4",
+  "BusinessCapabilityKey": "1056-Strategic Management-Innovation & Technology Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Innovation & Technology Management",
+  "ModuleOrApplicationName": "Technical Scope",
+  "_sourceRow": 176,
+  "_sourcePlatform": "Aras Innovator"
+}

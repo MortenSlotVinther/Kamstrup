@@ -1,0 +1,22 @@
+{
+  "Id": "b85f73e5-c53e-5d0e-aa82-64905b143573",
+  "DisplayName": "Variant Management",
+  "ShortDescription": "The strenght is the definition of the variants and the timeline of variants, but not strong as execution system.",
+  "RichDescription": "part of digital thread",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Variant Management",
+  "_sourceRow": 51,
+  "_sourcePlatform": "Aras Innovator"
+}

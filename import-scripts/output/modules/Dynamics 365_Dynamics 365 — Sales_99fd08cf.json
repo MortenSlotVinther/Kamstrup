@@ -1,0 +1,22 @@
+{
+  "Id": "99fd08cf-d64a-507a-8372-5333b81efc61",
+  "DisplayName": "Dynamics 365 — Sales",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "5f6b0a93-7045-5d97-a67f-ee0d8bc3116b",
+  "ParentPlatformName": "Dynamics 365",
+  "BusinessCapabilityId": "764910fb-4fc3-52b8-b804-4c3969020525",
+  "BusinessCapabilityKey": "3212-Sales--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 272,
+  "_sourcePlatform": "Dynamics 365"
+}

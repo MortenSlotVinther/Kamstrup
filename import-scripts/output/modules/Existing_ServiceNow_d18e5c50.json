@@ -1,0 +1,27 @@
+{
+  "Id": "d18e5c50-84d1-5809-a601-4bed7603f276",
+  "DisplayName": "ServiceNow",
+  "ShortDescription": null,
+  "RichDescription": "Will not be phased out",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6a132c7d-d733-5c42-8255-b059a8c707e0",
+  "ParentPlatformName": "Existing",
+  "BusinessCapabilityId": "e885456d-e2bc-561c-9b95-82a1010f6aa2",
+  "BusinessCapabilityKey": "4403-People and Culture-Seperation-",
+  "ApplicationReference": "6 - ServiceNow",
+  "CapabilitySubArea": "Seperation",
+  "ModuleOrApplicationName": "ServiceNow",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 331,
+  "_sourcePlatform": "Existing"
+}

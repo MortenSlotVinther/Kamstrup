@@ -1,0 +1,26 @@
+{
+  "Id": "248c2cd6-9e58-5750-8c88-992edfdc3dde",
+  "DisplayName": "Requirment Engineering",
+  "ShortDescription": "From documents og Excel It is a apprpriate solution",
+  "RichDescription": null,
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Requirment Engineering",
+  "LifeCycle": {
+    "Active": "2027-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 48,
+  "_sourcePlatform": "Aras Innovator"
+}

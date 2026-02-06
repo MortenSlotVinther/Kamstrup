@@ -1,0 +1,27 @@
+{
+  "Id": "6a516dcd-6456-5f40-86a2-7ec90aaab7d1",
+  "DisplayName": "429 - Microsoft Excel",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "d8826ed3-4876-5feb-b1ca-3a1ed50e4f2b",
+  "ParentPlatformName": "Phase Out",
+  "BusinessCapabilityId": "1318275e-8902-593a-889d-c818cbbacafa",
+  "BusinessCapabilityKey": "1045-Product & Software Development-Requirements Definition-",
+  "ApplicationReference": "429 - Microsoft Excel",
+  "CapabilitySubArea": "Requirements Definition",
+  "ModuleOrApplicationName": "429 - Microsoft Excel",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2027-03-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 339,
+  "_sourcePlatform": "Phase Out"
+}

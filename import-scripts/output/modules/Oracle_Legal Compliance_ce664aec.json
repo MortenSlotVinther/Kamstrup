@@ -1,0 +1,26 @@
+{
+  "Id": "ce664aec-668b-570a-bad4-d291b47bf021",
+  "DisplayName": "Legal Compliance",
+  "ShortDescription": null,
+  "RichDescription": "Legal Compliance: Adapts to changing tax laws and regulations.",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "e4ac7abb-56e1-59db-8ce4-1000a41476de",
+  "BusinessCapabilityKey": "1097-People and Culture-Compensation & Benefits-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Compensation & Benefits",
+  "ModuleOrApplicationName": "Payroll",
+  "LifeCycle": {
+    "Active": "2028-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 200,
+  "_sourcePlatform": "Oracle"
+}

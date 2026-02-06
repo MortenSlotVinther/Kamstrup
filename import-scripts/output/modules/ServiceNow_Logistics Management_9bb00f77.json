@@ -1,0 +1,22 @@
+{
+  "Id": "9bb00f77-0361-539c-afa4-cad0ad0aadc6",
+  "DisplayName": "Logistics Management",
+  "ShortDescription": null,
+  "RichDescription": "ServiceNow can orchestrate logistics workflows, track shipments (via integration), and handle incident management, but it’s not a full logistics execution platform",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "d22bab63-c702-531c-b46c-a261d8e67561",
+  "BusinessCapabilityKey": "1033-Procurement & Logistics-Logistics Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Logistics Management",
+  "ModuleOrApplicationName": "Logistics Management",
+  "_sourceRow": 108,
+  "_sourcePlatform": "ServiceNow"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "c3674428-4de8-53a9-89a2-2904701ff4ad",
+  "DisplayName": "Component Engineering",
+  "ShortDescription": "Together with IHS database it is perfect.",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "25b1f6ee-a577-535b-8203-dc891c8172e4",
+  "BusinessCapabilityKey": "1004-Procurement & Logistics--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Component Engineering",
+  "_sourceRow": 32,
+  "_sourcePlatform": "Aras Innovator"
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "6473515e-59f0-5f61-83fa-7fe901450215",
+  "DisplayName": "Quality Management System",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "184548b7-1389-52a5-b4d3-432d9e61322e",
+  "BusinessCapabilityKey": "1043-Product & Software Development-Quality Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Quality Management",
+  "ModuleOrApplicationName": "Quality Management System",
+  "_sourceRow": 137,
+  "_sourcePlatform": "Aras Innovator"
+}

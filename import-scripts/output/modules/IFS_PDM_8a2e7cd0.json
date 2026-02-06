@@ -1,0 +1,22 @@
+{
+  "Id": "8a2e7cd0-753b-54fc-85e1-059c2eeb7930",
+  "DisplayName": "PDM",
+  "ShortDescription": null,
+  "RichDescription": "Assesment TBD, expanded cloud functionalities expected",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "1318275e-8902-593a-889d-c818cbbacafa",
+  "BusinessCapabilityKey": "1045-Product & Software Development-Requirements Definition-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Requirements Definition",
+  "ModuleOrApplicationName": "PDM",
+  "_sourceRow": 145,
+  "_sourcePlatform": "IFS"
+}

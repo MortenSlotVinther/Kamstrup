@@ -1,0 +1,22 @@
+{
+  "Id": "c160255d-cc3f-5759-94ef-204925de4273",
+  "DisplayName": "ServiceNow — Customer Service",
+  "ShortDescription": null,
+  "RichDescription": "FRFS set for demo purpose",
+  "ModuleType": "Native",
+  "Utilization": "High",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "7fa6f779-ba31-557b-a00a-bc2db2df9d8a",
+  "BusinessCapabilityKey": "4201-Customer Service-Customer Service and Support-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Customer Service and Support",
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 310,
+  "_sourcePlatform": "ServiceNow"
+}

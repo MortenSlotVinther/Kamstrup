@@ -1,0 +1,22 @@
+{
+  "Id": "485530b0-8d13-530c-89c7-a02c8bcc637e",
+  "DisplayName": "Sustainability management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "fc5878c0-16cd-5708-97a7-fe632298d7bf",
+  "BusinessCapabilityKey": "4101-Sustainability Management-Circular Economy-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Circular Economy",
+  "ModuleOrApplicationName": "Manufacturing",
+  "_sourceRow": 291,
+  "_sourcePlatform": "IFS"
+}

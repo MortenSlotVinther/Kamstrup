@@ -1,0 +1,22 @@
+{
+  "Id": "cbcb2118-1f2b-5eb2-9646-620c4331c5d5",
+  "DisplayName": "Requirment Engineering",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "e33bc134-e8b1-59ce-89b7-8c4f82e09f80",
+  "BusinessCapabilityKey": "1044-Product & Software Development-R&D-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "R&D",
+  "ModuleOrApplicationName": "Requirment Engineering",
+  "_sourceRow": 141,
+  "_sourcePlatform": "Aras Innovator"
+}

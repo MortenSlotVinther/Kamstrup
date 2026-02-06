@@ -1,0 +1,22 @@
+{
+  "Id": "9576357a-54dd-5661-b76d-17f520fb44fb",
+  "DisplayName": "Program Management",
+  "ShortDescription": "Depending on the capabilities used, can integrate with MS Project",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Program Management",
+  "_sourceRow": 49,
+  "_sourcePlatform": "Aras Innovator"
+}

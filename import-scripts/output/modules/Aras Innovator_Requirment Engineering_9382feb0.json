@@ -1,0 +1,22 @@
+{
+  "Id": "9382feb0-75ae-5aea-b520-0b5bb1021c12",
+  "DisplayName": "Requirment Engineering",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "7f887b8b-4822-5dc4-81fb-1d3350f98773",
+  "BusinessCapabilityKey": "1039-Product & Software Development-Marketing Testing-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Marketing Testing",
+  "ModuleOrApplicationName": "Requirment Engineering",
+  "_sourceRow": 130,
+  "_sourcePlatform": "Aras Innovator"
+}

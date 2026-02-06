@@ -1,0 +1,22 @@
+{
+  "Id": "0e842b25-1389-58fe-8279-573c7eadaa50",
+  "DisplayName": "Test Management",
+  "ShortDescription": "New add on solution to be launced Q4-2025",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "7f887b8b-4822-5dc4-81fb-1d3350f98773",
+  "BusinessCapabilityKey": "1039-Product & Software Development-Marketing Testing-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Marketing Testing",
+  "ModuleOrApplicationName": "Test Management",
+  "_sourceRow": 131,
+  "_sourcePlatform": "Aras Innovator"
+}

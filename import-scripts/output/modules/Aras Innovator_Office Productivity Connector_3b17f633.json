@@ -1,0 +1,22 @@
+{
+  "Id": "3b17f633-178b-5ebd-ab9d-37d18ef96a85",
+  "DisplayName": "Office Productivity Connector",
+  "ShortDescription": "Uncertain of the functional assesment, to be evaluated",
+  "RichDescription": "Improved for O365, better online, collaboration",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": null,
+  "BusinessCapabilityKey": "1017-Enterprise Support-Data and Information Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Office Productivity Connector",
+  "_sourceRow": 86,
+  "_sourcePlatform": "Aras Innovator"
+}

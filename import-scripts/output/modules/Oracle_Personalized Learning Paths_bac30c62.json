@@ -1,0 +1,26 @@
+{
+  "Id": "bac30c62-50e0-50a3-b304-c7dd3e27c82f",
+  "DisplayName": "Personalized Learning Paths",
+  "ShortDescription": null,
+  "RichDescription": "Personalized Learning Paths: Assigns courses based on job role and career goals.",
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "d8df7aaa-8ec1-59c1-a59c-3b7395c4290e",
+  "BusinessCapabilityKey": "1098-People and Culture-Learning & Development-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Learning & Development",
+  "ModuleOrApplicationName": "Learning",
+  "LifeCycle": {
+    "Active": "2027-10-30T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 209,
+  "_sourcePlatform": "Oracle"
+}

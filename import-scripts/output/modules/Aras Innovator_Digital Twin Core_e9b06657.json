@@ -1,0 +1,22 @@
+{
+  "Id": "e9b06657-2d17-584c-9073-e068eaa87f1c",
+  "DisplayName": "Digital Twin Core",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "6db692c7-223d-5d5d-a91b-1d61633acbbf",
+  "BusinessCapabilityKey": "4102-Sustainability Management-Environmental Footprint Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Environmental Footprint Management",
+  "ModuleOrApplicationName": "Digital Twin Core",
+  "_sourceRow": 296,
+  "_sourcePlatform": "Aras Innovator"
+}

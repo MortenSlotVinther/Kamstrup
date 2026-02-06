@@ -1,0 +1,22 @@
+{
+  "Id": "5ec4a334-08ac-5d44-8470-eb80f45d01c9",
+  "DisplayName": "Kubernetes — Product & Software Development",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "4ed8d44e-17cc-513b-aca3-ff4ad89074ad",
+  "ParentPlatformName": "Kubernetes",
+  "BusinessCapabilityId": "23e5de2c-6e0c-559d-8697-31d2168f0921",
+  "BusinessCapabilityKey": "1005-Product & Software Development--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 37,
+  "_sourcePlatform": "Kubernetes"
+}

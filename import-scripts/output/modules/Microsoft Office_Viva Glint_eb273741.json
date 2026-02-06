@@ -1,0 +1,26 @@
+{
+  "Id": "eb273741-e420-505d-8d97-afc3648c5a93",
+  "DisplayName": "Viva Glint",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "50189f89-a4a9-561e-bd4a-7e64879f729a",
+  "ParentPlatformName": "Microsoft Office",
+  "BusinessCapabilityId": "b933e9c0-04c1-509d-ba72-392192bcbc7b",
+  "BusinessCapabilityKey": "1096-People and Culture-Retentation-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Retentation",
+  "ModuleOrApplicationName": "Viva Glint",
+  "LifeCycle": {
+    "Active": "2026-06-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 195,
+  "_sourcePlatform": "Microsoft Office"
+}

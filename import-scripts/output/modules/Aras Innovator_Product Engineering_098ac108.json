@@ -1,0 +1,22 @@
+{
+  "Id": "098ac108-2e86-5657-9573-f7825b051b56",
+  "DisplayName": "Product Engineering",
+  "ShortDescription": "Not used for software development but for software management",
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "df8fb225-b188-56dd-aad8-a58f8ff3c1e0",
+  "BusinessCapabilityKey": "1038-Product & Software Development-Engineering-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Engineering",
+  "ModuleOrApplicationName": "Product Engineering",
+  "_sourceRow": 129,
+  "_sourcePlatform": "Aras Innovator"
+}

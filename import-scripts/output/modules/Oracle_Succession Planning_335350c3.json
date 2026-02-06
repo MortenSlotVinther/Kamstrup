@@ -1,0 +1,26 @@
+{
+  "Id": "335350c3-73c7-557f-8962-63c3ddb5b55f",
+  "DisplayName": "Succession Planning",
+  "ShortDescription": null,
+  "RichDescription": "Succession Planning: Identifies high-potential employees and prepares them for leadership.",
+  "ModuleType": "3rd Party",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "b933e9c0-04c1-509d-ba72-392192bcbc7b",
+  "BusinessCapabilityKey": "1096-People and Culture-Retentation-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Retentation",
+  "ModuleOrApplicationName": "Talent Management",
+  "LifeCycle": {
+    "Active": "2026-07-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 193,
+  "_sourcePlatform": "Oracle"
+}

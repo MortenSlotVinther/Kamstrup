@@ -1,0 +1,27 @@
+{
+  "Id": "53bd5fb1-ce1a-5f51-ad68-0a4cdb3445ed",
+  "DisplayName": "Linkedin",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6a132c7d-d733-5c42-8255-b059a8c707e0",
+  "ParentPlatformName": "Existing",
+  "BusinessCapabilityId": "0516edf7-62a0-5a93-b3b1-37d76753aba6",
+  "BusinessCapabilityKey": "4400-People and Culture-Attraction-",
+  "ApplicationReference": "455 - Linkedin",
+  "CapabilitySubArea": "Attraction",
+  "ModuleOrApplicationName": "Linkedin",
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00",
+    "EndOfLife": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 335,
+  "_sourcePlatform": "Existing"
+}

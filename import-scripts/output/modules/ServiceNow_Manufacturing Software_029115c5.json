@@ -1,0 +1,22 @@
+{
+  "Id": "029115c5-c953-5b5e-b0a1-a68f65a6a777",
+  "DisplayName": "Manufacturing Software",
+  "ShortDescription": null,
+  "RichDescription": "ServiceNow is well-suited for managing the lifecycle, deployment, and updates of manufacturing-related software systems.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Manufacturing Software",
+  "_sourceRow": 63,
+  "_sourcePlatform": "ServiceNow"
+}

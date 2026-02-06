@@ -1,0 +1,22 @@
+{
+  "Id": "129c8fa9-9943-53ac-b6e3-9b3640d4ac5f",
+  "DisplayName": "Quality Management System",
+  "ShortDescription": null,
+  "RichDescription": "When data are placed in Excel",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "8696ab3b-fa24-50cf-80d3-8ef07216c91f",
+  "BusinessCapabilityKey": "1051-Manufacturing-Product Design & Planning-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Product Design & Planning",
+  "ModuleOrApplicationName": "Quality Management System",
+  "_sourceRow": 166,
+  "_sourcePlatform": "Aras Innovator"
+}

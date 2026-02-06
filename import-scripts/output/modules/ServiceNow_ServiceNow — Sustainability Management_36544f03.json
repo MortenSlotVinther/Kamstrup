@@ -1,0 +1,22 @@
+{
+  "Id": "36544f03-2689-5368-b465-e1269c39d15a",
+  "DisplayName": "ServiceNow — Sustainability Management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "7ea65ac3-72ed-57bd-beed-3814eb2c7125",
+  "BusinessCapabilityKey": "4100-Sustainability Management--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": null,
+  "_sourceRow": 290,
+  "_sourcePlatform": "ServiceNow"
+}

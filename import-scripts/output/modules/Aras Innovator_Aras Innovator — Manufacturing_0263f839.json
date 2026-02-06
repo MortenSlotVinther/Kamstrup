@@ -1,0 +1,22 @@
+{
+  "Id": "0263f839-b892-5347-b466-377e988b63e4",
+  "DisplayName": "Aras Innovator — Manufacturing",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "3b6a9cca-02c1-5110-b5cb-6b74f3d15fbd",
+  "BusinessCapabilityKey": "1053-Manufacturing-Manufacturing Steering-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Manufacturing Steering",
+  "ModuleOrApplicationName": "No module",
+  "_sourceRow": 172,
+  "_sourcePlatform": "Aras Innovator"
+}

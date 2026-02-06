@@ -1,0 +1,22 @@
+{
+  "Id": "00d93b57-4500-59a0-87a2-07ccd96fd922",
+  "DisplayName": "Product Design & Planning",
+  "ShortDescription": null,
+  "RichDescription": "Supports project and portfolio planning workflows, but no native CAD, CAM, or production line design capabilities.",
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unreasonable",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": true,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "6eb45322-81d3-5eaf-9eaa-54efb12baf40",
+  "ParentPlatformName": "ServiceNow",
+  "BusinessCapabilityId": "340c40e1-01b1-506b-a305-4e44e42b54c0",
+  "BusinessCapabilityKey": "1006-Manufacturing--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "Product Design & Planning",
+  "_sourceRow": 60,
+  "_sourcePlatform": "ServiceNow"
+}

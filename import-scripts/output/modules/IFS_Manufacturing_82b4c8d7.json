@@ -1,0 +1,22 @@
+{
+  "Id": "82b4c8d7-0c97-5255-be20-35319b226379",
+  "DisplayName": "Manufacturing",
+  "ShortDescription": null,
+  "RichDescription": "MES module via partner",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Appropriate",
+  "ModuleFunctionalFit": "Insufficient",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "ab6f8229-459a-57b9-be31-17b55b22acc5",
+  "BusinessCapabilityKey": "1048-Manufacturing-Machine Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Machine Management",
+  "ModuleOrApplicationName": "Manufacturing",
+  "_sourceRow": 150,
+  "_sourcePlatform": "IFS"
+}

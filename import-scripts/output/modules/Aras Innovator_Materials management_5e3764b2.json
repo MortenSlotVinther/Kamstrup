@@ -1,0 +1,22 @@
+{
+  "Id": "5e3764b2-f713-542e-b9f2-307f36f7bf7b",
+  "DisplayName": "Materials management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "4c1180bb-4e45-5bb1-b486-62cc4e426022",
+  "BusinessCapabilityKey": "1050-Manufacturing-Materials Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Materials Management",
+  "ModuleOrApplicationName": "Materials management",
+  "_sourceRow": 162,
+  "_sourcePlatform": "Aras Innovator"
+}

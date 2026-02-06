@@ -1,0 +1,22 @@
+{
+  "Id": "349f43bc-c051-5998-af12-3203c19d78a1",
+  "DisplayName": "Employee & organization management",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Adequate",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "f0b9d349-94ff-55aa-b2e3-b2361e9c235e",
+  "ParentPlatformName": "IFS",
+  "BusinessCapabilityId": "b933e9c0-04c1-509d-ba72-392192bcbc7b",
+  "BusinessCapabilityKey": "1096-People and Culture-Retentation-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Retentation",
+  "ModuleOrApplicationName": "Human Capital Management",
+  "_sourceRow": 188,
+  "_sourcePlatform": "IFS"
+}

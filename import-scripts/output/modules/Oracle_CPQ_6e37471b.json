@@ -1,0 +1,22 @@
+{
+  "Id": "6e37471b-01cb-5eb3-8ac4-6c46e42a45ea",
+  "DisplayName": "CPQ",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "3rd Party",
+  "Utilization": "Medium",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": true,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "48ba7fee-a51a-5970-8522-de064a404f15",
+  "BusinessCapabilityKey": "3201-Sales-Sales Execution and Customer Engagement-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Sales Execution and Customer Engagement",
+  "ModuleOrApplicationName": "CPQ",
+  "_sourceRow": 266,
+  "_sourcePlatform": "Oracle"
+}

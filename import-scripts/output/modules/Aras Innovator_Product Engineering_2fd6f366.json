@@ -1,0 +1,22 @@
+{
+  "Id": "2fd6f366-42cd-5413-bb95-0718f8dd9237",
+  "DisplayName": "Product Engineering",
+  "ShortDescription": null,
+  "RichDescription": "New enhanced module release end 2025, UCM",
+  "ModuleType": "Native",
+  "Utilization": "Low",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Appropriate",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "636584f0-b1b3-5950-a665-133c2d66ce87",
+  "ParentPlatformName": "Aras Innovator",
+  "BusinessCapabilityId": "d8c52319-810f-5877-a5e6-abadc302c4c8",
+  "BusinessCapabilityKey": "1046-Manufacturing-Change Management-",
+  "ApplicationReference": null,
+  "CapabilitySubArea": "Change Management",
+  "ModuleOrApplicationName": "Product Engineering",
+  "_sourceRow": 148,
+  "_sourcePlatform": "Aras Innovator"
+}

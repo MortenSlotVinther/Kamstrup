@@ -1,0 +1,26 @@
+{
+  "Id": "cbb772bd-5db4-55aa-8b34-929ee1889723",
+  "DisplayName": "Predictive Analytics",
+  "ShortDescription": null,
+  "RichDescription": "Predictive Analytics: Anticipates workforce trends (attrition, skill gaps).",
+  "ModuleType": "Native",
+  "Utilization": "None",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Perfect",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "11130640-6127-5665-a5c4-bf9dd21492c2",
+  "ParentPlatformName": "Oracle",
+  "BusinessCapabilityId": "742872d4-7691-54fd-a9b1-926620dfadef",
+  "BusinessCapabilityKey": "1016-People and Culture--",
+  "ApplicationReference": null,
+  "CapabilitySubArea": null,
+  "ModuleOrApplicationName": "HCM Analytics",
+  "LifeCycle": {
+    "Active": "2030-01-01T00:00:00",
+    "PhaseOut": "2049-12-31T00:00:00"
+  },
+  "_sourceRow": 85,
+  "_sourcePlatform": "Oracle"
+}

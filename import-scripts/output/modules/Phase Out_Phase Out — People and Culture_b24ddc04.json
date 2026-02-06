@@ -1,0 +1,26 @@
+{
+  "Id": "b24ddc04-61ac-547a-863c-74d5b6891d9c",
+  "DisplayName": "Phase Out — People and Culture",
+  "ShortDescription": null,
+  "RichDescription": null,
+  "ModuleType": "Native",
+  "Utilization": "Unknown",
+  "ModuleTechnicalFit": "Unmapped",
+  "ModuleFunctionalFit": "Unmapped",
+  "IsPurchased": false,
+  "AIEnabled": false,
+  "FactSheetType": "ModuleFactSheet",
+  "ParentPlatformId": "d8826ed3-4876-5feb-b1ca-3a1ed50e4f2b",
+  "ParentPlatformName": "Phase Out",
+  "BusinessCapabilityId": "67f6522e-c447-5f39-ae93-f3fa5c3ac952",
+  "BusinessCapabilityKey": "4402-People and Culture-Onboarding-",
+  "ApplicationReference": "355 - ClickLearn",
+  "CapabilitySubArea": "Onboarding",
+  "ModuleOrApplicationName": null,
+  "LifeCycle": {
+    "Active": "2025-01-01T00:00:00",
+    "PhaseOut": "2027-12-30T00:00:00"
+  },
+  "_sourceRow": 330,
+  "_sourcePlatform": "Phase Out"
+}
