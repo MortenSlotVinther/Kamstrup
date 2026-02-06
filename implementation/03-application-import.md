@@ -50,12 +50,16 @@
 
 ### Import logic:
 
-- [ ] Read all 992 data rows from A-Applications sheet (row 3=header, rows 4-995)
-- [ ] For each row, create `ApplicationFactSheet`
-- [ ] Apply all column mappings per table above
-- [ ] Generate deterministic GUID from application number (col A/B) for cross-referencing
-- [ ] Store app number → Guid mapping for Phase 4
-- [ ] Handle empty/null values gracefully (skip field, use default)
+- [x] Read all 992 data rows from A-Applications sheet (row 3=header, rows 4-995)
+- [x] For each row, create `ApplicationFactSheet`
+- [x] Apply all column mappings per table above
+- [x] Generate deterministic GUID from application number (col A/B) for cross-referencing
+- [x] Store app number → Guid mapping for Phase 4 (output/app_number_to_guid.json)
+- [x] Handle empty/null values gracefully (skip field, use default)
+
+**Implementation:** Python script `F:\RootContext\Kamstrup\import-scripts\import_applications.py`  
+**C# Loader:** `F:\RootContext\Kamstrup\import-scripts\load_applications_to_omnigaze.cs`  
+**Output:** `F:\RootContext\Kamstrup\import-scripts\output\` (JSON files)
 
 ---
 
@@ -81,29 +85,29 @@
 
 ### Implementation:
 
-- [ ] Create mapping dictionary: `Dictionary<string, (LifeCyclePhase, string)>`
-- [ ] For each app: set `LifeCycle.Active` or `LifeCycle.PhaseOut` or `LifeCycle.EndOfLife` date from Introduction date
-- [ ] Set `LifecycleStageLabel` (base FactSheet PM 45) to preserve original Kamstrup stage name
-- [ ] If Introduction date is provided (col F), set as the active date for the mapped phase
-- [ ] If Expected End-of-Life Year (col O) is provided, set `LifeCycle.EndOfLife`
+- [x] Create mapping dictionary: `LIFECYCLE_MAPPING` (11 stages → phase + label)
+- [x] For each app: set `LifeCycle.Active` or `LifeCycle.PhaseOut` or `LifeCycle.EndOfLife` date from Introduction date
+- [x] Set `LifecycleStage` (base FactSheet PM 45) to preserve original Kamstrup stage name
+- [x] If Introduction date is provided (col F), set as the active date for the mapped phase
+- [x] If Expected End-of-Life Year (col O) is provided, set `LifeCycle.EndOfLife`
 
 ### TIME mapping (col H):
 
-- [ ] "Tolerate" → `PortFolioStrategy.StrategyEnum.Tolerate`
-- [ ] "Invest" → `PortFolioStrategy.StrategyEnum.Invest`
-- [ ] "Migrate" → `PortFolioStrategy.StrategyEnum.Migrate`
-- [ ] "Eliminate" → `PortFolioStrategy.StrategyEnum.Eliminate`
-- [ ] Empty/null → `PortFolioStrategy.StrategyEnum.Unmapped`
+- [x] "Tolerate" → `PortFolioStrategy.StrategyEnum.Tolerate`
+- [x] "Invest" → `PortFolioStrategy.StrategyEnum.Invest` (7 apps)
+- [x] "Migrate" → `PortFolioStrategy.StrategyEnum.Migrate`
+- [x] "Eliminate" → `PortFolioStrategy.StrategyEnum.Eliminate` (3 apps)
+- [x] Empty/null → `PortFolioStrategy.StrategyEnum.Unmapped`
 
 ### User base mapping (col M):
 
-- [ ] "0-9" → `UserBaseSize.VerySmall`
-- [ ] "10-49" → `UserBaseSize.Small`
-- [ ] "50-99" → `UserBaseSize.Medium`
-- [ ] "100-499" → `UserBaseSize.Large`
-- [ ] "500-999" → `UserBaseSize.VeryLarge`
-- [ ] "1000->" → `UserBaseSize.Enterprise`
-- [ ] Empty → `UserBaseSize.Unknown`
+- [x] "0-9" → `UserBaseSize.VerySmall` (114 apps)
+- [x] "10-49" → `UserBaseSize.Small` (28 apps)
+- [x] "50-99" → `UserBaseSize.Medium` (10 apps)
+- [x] "100-499" → `UserBaseSize.Large` (15 apps)
+- [x] "500-999" → `UserBaseSize.VeryLarge` (8 apps)
+- [x] "1000->" → `UserBaseSize.Enterprise` (19 apps)
+- [x] Empty → `UserBaseSize.Unknown`
 
 ---
 
@@ -118,8 +122,8 @@
 | Distributed Applications | `DistributedApp` (10) | New enum value from Phase 1 |
 | Empty/null | `Unmapped` (0) | Default |
 
-- [ ] Create mapping dictionary
-- [ ] Apply to `HostedOn.Criticality` (note: the property is confusingly named `Criticality` but it's the hosting type)
+- [x] Create mapping dictionary `INSTALL_TYPE_MAPPING`
+- [x] Apply to `HostedOn.Criticality` + `HostingTypeValue` (OnPrem=11, SaaS=81, DistributedApp=175, EdgeComputing=2, Unmapped=723)
 
 ---
 
@@ -136,8 +140,8 @@
 | Yes - Unacceptable Risk | `true` | `Unacceptable` (4) |
 | Unknown/empty | `false` | `NotApplicable` (0) |
 
-- [ ] Create mapping logic
-- [ ] Apply to `AIClassification.UsesAI` and `AIClassification.RiskLevel`
+- [x] Create mapping logic `AI_MAPPING` (13 AI-using apps found)
+- [x] Apply to `AIClassification.UsesAI` and `AIClassification.RiskLevel`
 
 ---
 
@@ -161,9 +165,9 @@
 | Investigate | `Investigate` (6) — new from Phase 1 |
 | Empty | `Unknown` (0) |
 
-- [ ] Map Security approved → `SecurityAssessment.Status`
-- [ ] Map Security approved date → `SecurityAssessment.ApprovedDate`
-- [ ] Map Security debt → `SecurityAssessment.DebtLevel`
+- [x] Map Security approved → `SecurityAssessment.Status` (1 Approved)
+- [x] Map Security approved date → `SecurityAssessment.ApprovedDate`
+- [x] Map Security debt → `SecurityAssessment.DebtLevel` (1 Low, 22 Investigate)
 
 ---
 
@@ -171,12 +175,14 @@
 
 **Col AC (29):** "Sub component to" — references parent application name.
 
-- [ ] After all apps are created, make a second pass:
+- [x] After all apps are created, make a second pass:
   - For each app where "Sub component to" is non-empty
-  - Look up parent app by name in the imported set
-  - Set `HierarchyParentId` → parent app's Id
+  - Look up parent app by NoApplication string in the imported set
+  - Set `_HierarchyParentId` → parent app's Id
   - Add child to parent's `HierarchyChildrenIds`
-- [ ] Handle unresolved references (log warning, don't crash)
+  - Skip self-references (5 apps reference themselves)
+- [x] Handle unresolved references (log warning, don't crash)
+- [x] **Result:** 14 hierarchy links resolved, 9 parent apps, 0 unresolved
 
 ---
 
@@ -211,12 +217,12 @@
 | 38 | Actual saving (Annual) | CustomField |
 | 39 | Y/N + Comment | Validation status |
 
-- [ ] Read rows from A-Applications_Removed, filtering for rows where col 4 (Application) is non-null
-- [ ] Create ApplicationFactSheet for each with `Retired = true`
-- [ ] Set `LifeCycle.EndOfLife` from removal date (col 8)
-- [ ] Set `LifecycleStageLabel = "Removed"`
-- [ ] Set `SuccessorId` if replacement app name (col 11) resolves to an active app
-- [ ] **Validate:** ~88 retired apps, no name conflicts with active apps
+- [x] Read rows from A-Applications_Removed, filtering for rows where col 4 (Application) is non-null
+- [x] Create ApplicationFactSheet for each with `Retired = true`
+- [x] Set `LifeCycle.EndOfLife` from removal date (col 8) — 61 apps have dates
+- [x] Set `LifecycleStage = "Removed"`
+- [x] Set `SuccessorId` if replacement app name (col 11) resolves to an active app
+- [x] **Validated:** 88 retired apps, all marked Retired=true
 
 ---
 
@@ -224,12 +230,18 @@
 
 For cleanup tracking fields and other Kamstrup-specific data, use the CustomFields system:
 
-- [ ] Create `CustomColumnDefinition` entries (programmatically or via admin UI):
+- [x] Create `CustomColumnDefinition` entries (10 definitions in output/custom_column_definitions.json):
   1. "Clean up: Note" — type: TextArea
   2. "Clean up: Recommendation" — type: TextArea
   3. "Clean up: Reason" — type: TextArea
   4. "Clean up: WP Size" — type: Dropdown, values: S, M, L, Project, Project-initiated
-- [ ] Populate `CustomFields` list on each ApplicationFactSheet where cleanup columns have data
+  5. "Item Number" — type: Text
+  6. "Named Users" — type: TextArea
+  7. "License Responsible" — type: Text
+  8. "Yearly Saving (DKR)" — type: Currency
+  9. "Yearly Costs" — type: Currency
+  10. "Actual Saving (Annual)" — type: Currency
+- [x] Populate `CustomFields` list on each ApplicationFactSheet where data exists (527 apps have custom field values)
 
 ---
 
@@ -237,26 +249,26 @@ For cleanup tracking fields and other Kamstrup-specific data, use the CustomFiel
 
 After all apps (active + removed) are imported:
 
-- [ ] For each app where "Replaced by" (col P) is non-empty:
+- [x] For each app where "Replaced by" (col P) is non-empty:
   - Look up replacement app by name
   - Set `SuccessorId` → replacement app's Guid
-- [ ] Log unresolved successor references
+- [x] Log unresolved successor references (4 resolved, 2 unresolved: 'Viva Glint' not in active apps)
 
 ---
 
 ## 3.10 Backup and Execute
 
-- [ ] Backup `FactSheets.bin` → `FactSheets.bin.backup-pre-phase3`
-- [ ] Run import
-- [ ] Generate import report: total imported, skipped rows, mapping failures
+- [x] ~~Backup `FactSheets.bin` → `FactSheets.bin.backup-pre-phase3`~~ (N/A: JSON output approach, no direct .bin modification)
+- [x] Run import script → JSON output files generated
+- [x] Generate import report: output/import_report.txt (992 active, 88 removed, 510 providers, 0 errors)
 
 ---
 
 ## 3.11 Git Commit
 
-- [ ] `git add -A`
-- [ ] `git commit -m "feat: Phase 3 — Kamstrup application import (992 active, ~88 removed)"`
-- [ ] `git push`
+- [x] `git add -A`
+- [x] `git commit -m "feat: Phase 3 — Kamstrup application import (992 active, 88 removed)"`
+- [x] `git push`
 
 ---
 
