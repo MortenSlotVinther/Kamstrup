@@ -448,7 +448,7 @@ def import_organizations(wb) -> tuple:
                 "Id": guid,
                 "DisplayName": bu,
                 "FactSheetType": "OrganizationFactSheet",
-                "OrgType": "BusinessUnit",
+                "OrgType": "Business Unit",
                 "CountryCode": country_code_map.get(c, ""),
                 "HierarchyParentId": countries.get(c),
                 "HierarchyLevel": 2,

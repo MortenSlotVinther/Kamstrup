@@ -74,6 +74,16 @@ def create_factsheet(fs: dict, dry_run: bool) -> bool:
     if fs.get("ShortDescription"):
         create_args["shortDescription"] = fs["ShortDescription"]
 
+    # Organization-specific: OrgType, CountryCode
+    if fs.get("OrgType"):
+        # Normalize "BusinessUnit" → "Business Unit" to match configurable list
+        org_type = fs["OrgType"]
+        if org_type == "BusinessUnit":
+            org_type = "Business Unit"
+        create_args["orgType"] = org_type
+    if fs.get("CountryCode"):
+        create_args["countryCode"] = fs["CountryCode"]
+
     result = call_mcp("CreateFactSheet", create_args, dry_run)
 
     if not result.get("success", True) and not dry_run:
