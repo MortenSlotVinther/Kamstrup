@@ -1,0 +1,1978 @@
+[
+  {
+    "NoApplication": "111 - WinMerge",
+    "DisplayName": "WinMerge",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "JESP: i stedet for beyondCompare. Alterntiver skal tages I betragtning,. Toool til code merge skal findes.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "113 - Keysight ADS",
+    "DisplayName": "Keysight ADS",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "116 - Orcad / Cadence",
+    "DisplayName": "Orcad / Cadence",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "117 - Pads",
+    "DisplayName": "Pads",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "118 - Python",
+    "DisplayName": "Python",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": "Python"
+  },
+  {
+    "NoApplication": "120 - SolidWorks",
+    "DisplayName": "SolidWorks",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "Tegningsgrundlag for alt, vil ikke kunne skiftes, look into the licenses of this, not same versioning and used in Kamstrup, we should use same versions, files in new versions can not be opend by all users.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "129 - Chocolatey",
+    "DisplayName": "Chocolatey",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Er tidsbesparende at anvende.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "130 - Emacs",
+    "DisplayName": "Emacs",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "131 - Freemind",
+    "DisplayName": "Freemind",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "132 - GreenShot",
+    "DisplayName": "GreenShot",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "134 - LINQ Pad (https://www.linqpad.net/)",
+    "DisplayName": "LINQ Pad (https://www.linqpad.net/)",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "136 - Microsoft SQL Management Studio",
+    "DisplayName": "Microsoft SQL Management Studio",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "142 - Notepad++(https://notepad-plus-plus.org/)",
+    "DisplayName": "Notepad++(https://notepad-plus-plus.org/)",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Everyone in Tools and apps use it everyday as advanced notepad.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "15 - JIRA",
+    "DisplayName": "JIRA",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "151 - TeraTerm",
+    "DisplayName": "TeraTerm",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "153 - Wireshark (www.wireshark.org)",
+    "DisplayName": "Wireshark (www.wireshark.org)",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "157 - GIMP (https://www.gimp.org/)",
+    "DisplayName": "GIMP (https://www.gimp.org/)",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Bruges til at producere billeder mv.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "158 - Inkscape (https://inkscape.org/en/)",
+    "DisplayName": "Inkscape (https://inkscape.org/en/)",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "166 - ReSharper",
+    "DisplayName": "ReSharper",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "167 - SQLite Browser (http://sqlitebrowser.org/)",
+    "DisplayName": "SQLite Browser (http://sqlitebrowser.org/)",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "170 - TortoiseSVN (https://tortoisesvn.net/downloads.html)",
+    "DisplayName": "TortoiseSVN (https://tortoisesvn.net/downloads.html)",
+    "HW_LifecycleStage": "8-Phase out",
+    "HW_CleanUp_Note": "Rasmus Krigslund (HC): Hvis vi stadig har tiung vi anvender i SVN, bør det flyttes til git - det har vi længe haft en strategisk initiativ der skulle effektuere. ASGP: tidshorisont?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "172 - Beyond Compare Pro",
+    "DisplayName": "Beyond Compare Pro",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Hvis vi stadig har tiung vi anvender i SVN, bør det flyttes til git - det har vi længe haft en strategisk initiativ der skulle effektuere.\nFRFS Look at winmerge instead",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "175 - CppCheck",
+    "DisplayName": "CppCheck",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "JESP: parasoft alternativ",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "176 - Cygwin",
+    "DisplayName": "Cygwin",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "177 - Git",
+    "DisplayName": "Git",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "18 - Microsoft Visual Studio Pro MSDN",
+    "DisplayName": "Microsoft Visual Studio Pro MSDN",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "181 - J-Link",
+    "DisplayName": "J-Link",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "182 - Kleopetra",
+    "DisplayName": "Kleopetra",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "184 - MC301_Test",
+    "DisplayName": "MC301_Test",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "187 - Orcad (Capture+PCB Editor)",
+    "DisplayName": "Orcad (Capture+PCB Editor)",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "188 - OrCad Capture",
+    "DisplayName": "OrCad Capture",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "190 - Parasoft",
+    "DisplayName": "Parasoft",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "Will not be evaluated in the next years",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "192 - Picoscope",
+    "DisplayName": "Picoscope",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "194 - Putty",
+    "DisplayName": "Putty",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Investigate if better alternative",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "196 - SEGGER Jlink",
+    "DisplayName": "SEGGER Jlink",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "198 - CST Studio Suite",
+    "DisplayName": "CST Studio Suite",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "199 - GITLAB",
+    "DisplayName": "GITLAB",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "264 - Confluence",
+    "DisplayName": "Confluence",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "37 - OpenLM",
+    "DisplayName": "OpenLM",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Åben licens manager - akal underøges nærmere hvis der skal gøres noget.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "422 - Radio mobile",
+    "DisplayName": "Radio mobile",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "43 - Ceedling",
+    "DisplayName": "Ceedling",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "440 - Miro",
+    "DisplayName": "Miro",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "45 - DockLight",
+    "DisplayName": "DockLight",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Investigate this and terraterm, Evaluate for security, FRFS",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "46 - Doxygen",
+    "DisplayName": "Doxygen",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "462 - WhatsApp",
+    "DisplayName": "WhatsApp",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "Rasmus Krigslund: HVordan kan denne være strategisk? Er det ikke SoMe?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "478 - IAR Embedded Workbench for ARM Cortex-M",
+    "DisplayName": "IAR Embedded Workbench for ARM Cortex-M",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "HVordan kan denne være strategisk? Er det ikke SoMe?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "479 - IAR Embedded Workbench for MSP430",
+    "DisplayName": "IAR Embedded Workbench for MSP430",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "480 - Nohau - Compiler",
+    "DisplayName": "Nohau - Compiler",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": "KRST: Nohau er distributør - hvilken specifik compiler er der tale om?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "482 - Google Earth Pro",
+    "DisplayName": "Google Earth Pro",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "495 - VLC Media player",
+    "DisplayName": "VLC Media player",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": "Not important",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "51 - NEC Compiler",
+    "DisplayName": "NEC Compiler",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "511 - Metertool",
+    "DisplayName": "Metertool",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "512 - Logview",
+    "DisplayName": "Logview",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "515 - Metertool X",
+    "DisplayName": "Metertool X",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "516 - MB Sheet",
+    "DisplayName": "MB Sheet",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "517 - RTPatch",
+    "DisplayName": "RTPatch",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "JESP: måske ift. delta fw upload",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "518 - PyCharm",
+    "DisplayName": "PyCharm",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "HC used for autotest so important, could be evaluated in Visual studio next year.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "519 - Moldex3D",
+    "DisplayName": "Moldex3D",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "Denne ville være svær at skifte men alternativt kan findes",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "52 - Orcad",
+    "DisplayName": "Orcad",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "520 - Innofour",
+    "DisplayName": "Innofour",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": "JESP: leverandøren af modelsim?? Fjernes?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "58 - GitKraken",
+    "DisplayName": "GitKraken",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Better altarnatives is appreciated",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "582 - Docker",
+    "DisplayName": "Docker",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "59 - Advanced Serial Port Monitor",
+    "DisplayName": "Advanced Serial Port Monitor",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "593 - Test and Development tool",
+    "DisplayName": "Test and Development tool",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "601 - YABE (Yest Another BACnet Exlporer)",
+    "DisplayName": "YABE (Yest Another BACnet Exlporer)",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "62 - Eclipse",
+    "DisplayName": "Eclipse",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Is it used and how much?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "623 - Draw.IO",
+    "DisplayName": "Draw.IO",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "627 - VSCode",
+    "DisplayName": "VSCode",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "661 - QGIS",
+    "DisplayName": "QGIS",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "662 - Radio Survey",
+    "DisplayName": "Radio Survey",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "666 - Kamstrup Traceability – Unknown device",
+    "DisplayName": "Kamstrup Traceability – Unknown device",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "67 - Mathcad",
+    "DisplayName": "Mathcad",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "68 - ModelSim",
+    "DisplayName": "ModelSim",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "683 - Metertool HCW",
+    "DisplayName": "Metertool HCW",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "69 - Seqzap fra CIM Software Testing",
+    "DisplayName": "Seqzap fra CIM Software Testing",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "692 - WinSCP",
+    "DisplayName": "WinSCP",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "693 - rustrover",
+    "DisplayName": "rustrover",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "694 - clion",
+    "DisplayName": "clion",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Expensive so VS evaluated by Electricity, FRFS, perhaps phase out next year.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "695 - k9s",
+    "DisplayName": "k9s",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "697 - ImHex",
+    "DisplayName": "ImHex",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "699 - jetbrains toolbox",
+    "DisplayName": "jetbrains toolbox",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": "Making it easy to install Jetbrains, but DW can handle this so should be in Company Portal",
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "700 - chrony",
+    "DisplayName": "chrony",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "701 - curl",
+    "DisplayName": "curl",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "702 - labgrid",
+    "DisplayName": "labgrid",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "703 - Java",
+    "DisplayName": "Java",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "Fundemental important in Electricity",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "708 - Git Bash",
+    "DisplayName": "Git Bash",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "709 - MinGW",
+    "DisplayName": "MinGW",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "710 - Ubuntu linux",
+    "DisplayName": "Ubuntu linux",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "Investigate furter",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "711 - Plotly",
+    "DisplayName": "Plotly",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "712 - Cisco VPN",
+    "DisplayName": "Cisco VPN",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "714 - Xilinx Vitis 2022.1",
+    "DisplayName": "Xilinx Vitis 2022.1",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "715 - Xilinx Vivado 2022.1",
+    "DisplayName": "Xilinx Vivado 2022.1",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "716 - LLVM CLANG",
+    "DisplayName": "LLVM CLANG",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "717 - GNU octave",
+    "DisplayName": "GNU octave",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "JESP: matlab replacement",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "719 - GrepWIN",
+    "DisplayName": "GrepWIN",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "JESP: baregreb",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "720 - Spyder",
+    "DisplayName": "Spyder",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Connected to phyton",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": "Python"
+  },
+  {
+    "NoApplication": "722 - SDR Sharp",
+    "DisplayName": "SDR Sharp",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "723 - Arduino IDE",
+    "DisplayName": "Arduino IDE",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "724 - Balena ETCHER",
+    "DisplayName": "Balena ETCHER",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Tool til at flashe SD kort med.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "725 - Logic",
+    "DisplayName": "Logic",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "726 - Kamstrup Service Tool Pack",
+    "DisplayName": "Kamstrup Service Tool Pack",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "727 - Kamstrup Meter Tool",
+    "DisplayName": "Kamstrup Meter Tool",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "728 - Kamstrup READy Manager",
+    "DisplayName": "Kamstrup READy Manager",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "729 - DB Browser for SQLite",
+    "DisplayName": "DB Browser for SQLite",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Needed as database tool for SQLite",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "730 - Graphviz",
+    "DisplayName": "Graphviz",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "732 - Microsoft To Do",
+    "DisplayName": "Microsoft To Do",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "733 - Raspberry Pi Imager",
+    "DisplayName": "Raspberry Pi Imager",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "734 - R&S InstrumentView",
+    "DisplayName": "R&S InstrumentView",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "735 - Signal Hound Spike",
+    "DisplayName": "Signal Hound Spike",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "JESP: duplikate",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "736 - SX1261CalculatorUI",
+    "DisplayName": "SX1261CalculatorUI",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "737 - S2-LP DK",
+    "DisplayName": "S2-LP DK",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "740 - FlowVision",
+    "DisplayName": "FlowVision",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "741 - 5098-1328 FlowIQx2xxModuleConfig",
+    "DisplayName": "5098-1328 FlowIQx2xxModuleConfig",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "742 - Smart RF Studio",
+    "DisplayName": "Smart RF Studio",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "JESP: cc1200 radio tool",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "743 - Simplicity",
+    "DisplayName": "Simplicity",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "744 - MCxx3 ModuleConfig",
+    "DisplayName": "MCxx3 ModuleConfig",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "745 - Bare Tail",
+    "DisplayName": "Bare Tail",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "746 - FireFox",
+    "DisplayName": "FireFox",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "747 - Brave",
+    "DisplayName": "Brave",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "748 - Rake",
+    "DisplayName": "Rake",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "749 - GnuWin32 (GNU Make)",
+    "DisplayName": "GnuWin32 (GNU Make)",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "750 - Google Test & Google Mock",
+    "DisplayName": "Google Test & Google Mock",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "751 - Cmake",
+    "DisplayName": "Cmake",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "752 - Everything",
+    "DisplayName": "Everything",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Fritekstsøgning g på pc. Er den nødvendig? Er I company portal.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "753 - ARM GNU Toolchain",
+    "DisplayName": "ARM GNU Toolchain",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "754 - glab",
+    "DisplayName": "glab",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "755 - Kamstrup's wMbusTool",
+    "DisplayName": "Kamstrup's wMbusTool",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "757 - Keysight 14585A",
+    "DisplayName": "Keysight 14585A",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "JESP: duplikat - mest korrekte entry er den her !",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "758 - OpenSSH",
+    "DisplayName": "OpenSSH",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "759 - USB_ETH driver for DLink adapter",
+    "DisplayName": "USB_ETH driver for DLink adapter",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "760 - USB driver for READy Converter",
+    "DisplayName": "USB driver for READy Converter",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "761 - Silex Virtual Link",
+    "DisplayName": "Silex Virtual Link",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "762 - KEMFileManager",
+    "DisplayName": "KEMFileManager",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "763 - Android Studio",
+    "DisplayName": "Android Studio",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "765 - Blender",
+    "DisplayName": "Blender",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "3D Rendering software, broadly used software. Alternative would be an expensive Adope software. This is open source freware",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "766 - Bluetooth audio reciever",
+    "DisplayName": "Bluetooth audio reciever",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "771 - extraPutty",
+    "DisplayName": "extraPutty",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": "Kan udfases ved alternativer",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "772 - Oracle WM VirtualBox",
+    "DisplayName": "Oracle WM VirtualBox",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": "JESP: på test-pc'ere,\nFRFS look at all alternatives.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "773 - STM32CubeMX",
+    "DisplayName": "STM32CubeMX",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "774 - Spike",
+    "DisplayName": "Spike",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "775 - XCA",
+    "DisplayName": "XCA",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "JESP: ift certifikat håndtering og issue solving omkring det",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "776 - BareGrep",
+    "DisplayName": "BareGrep",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "779 - DenpendcyWalker",
+    "DisplayName": "DenpendcyWalker",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "780 - Easy File Locker",
+    "DisplayName": "Easy File Locker",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "782 - PingForLife",
+    "DisplayName": "PingForLife",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "783 - PortMon - SysInternals",
+    "DisplayName": "PortMon - SysInternals",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "784 - procexp",
+    "DisplayName": "procexp",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "785 - ProcMon",
+    "DisplayName": "ProcMon",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "786 - ProtoC compiler",
+    "DisplayName": "ProtoC compiler",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "787 - spacesniffer",
+    "DisplayName": "spacesniffer",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "789 - Kamstrup Tech-tools (OMS LPWAN Frame Helper)",
+    "DisplayName": "Kamstrup Tech-tools (OMS LPWAN Frame Helper)",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": "JESP: hosted og ikke en decideret applikation",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "790 - K382B_TOOL",
+    "DisplayName": "K382B_TOOL",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "791 - Kamstrup CTS",
+    "DisplayName": "Kamstrup CTS",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": "JESP: mbmc og concentrator auto test",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "792 - Grafana",
+    "DisplayName": "Grafana",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "793 - HxD Hex Editor",
+    "DisplayName": "HxD Hex Editor",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "794 - USB Device Viewer",
+    "DisplayName": "USB Device Viewer",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "795 - Rufus",
+    "DisplayName": "Rufus",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "796 - Qoitech Otii 3",
+    "DisplayName": "Qoitech Otii 3",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "797 - TortoiseGit",
+    "DisplayName": "TortoiseGit",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": "Git kraken could be used instead",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "798 - BACeye",
+    "DisplayName": "BACeye",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "Rasmus Krigslund:\nHvorfor så mange forskellige Git clienter. Vi behøver vil kun én.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "800 - Siemens Totally Integrated Automation Portal V15",
+    "DisplayName": "Siemens Totally Integrated Automation Portal V15",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "JESP: Support til flowbænke",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "801 - LTspice",
+    "DisplayName": "LTspice",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "803 - Kamstrup LogView HCW",
+    "DisplayName": "Kamstrup LogView HCW",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "804 - MC visual C++ redistributable",
+    "DisplayName": "MC visual C++ redistributable",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "805 - Kamstrup KamWaterMeter",
+    "DisplayName": "Kamstrup KamWaterMeter",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "806 - Calypsoviewer",
+    "DisplayName": "Calypsoviewer",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "JESP: ellers alternativ (imod inspektion)",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "807 - FreeFileSync",
+    "DisplayName": "FreeFileSync",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "808 - eDrawing",
+    "DisplayName": "eDrawing",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "810 - Qucs",
+    "DisplayName": "Qucs",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "811 - Atyune",
+    "DisplayName": "Atyune",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "814 - Saturn PCB toolkit",
+    "DisplayName": "Saturn PCB toolkit",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Kan lave udregninger til elektriske print. Free",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "815 - PCB Trace Data",
+    "DisplayName": "PCB Trace Data",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "818 - Instrument tools Water (+100 tools)",
+    "DisplayName": "Instrument tools Water (+100 tools)",
+    "HW_LifecycleStage": "Not in use",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "820 - foxitreader",
+    "DisplayName": "foxitreader",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Også I companyportal",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "822 - MSYS2",
+    "DisplayName": "MSYS2",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "823 - Ruby",
+    "DisplayName": "Ruby",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "JESP: unit test ceedling",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "835 - IAR Embedded Workbench for 78K",
+    "DisplayName": "IAR Embedded Workbench for 78K",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "836 - Image J",
+    "DisplayName": "Image J",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Kan GIMP bruges i stedet men fylder meget mere at installere.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "837 - MobaXterm",
+    "DisplayName": "MobaXterm",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "841 - .net framework",
+    "DisplayName": ".net framework",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "842 - Bluetooth NCP commander",
+    "DisplayName": "Bluetooth NCP commander",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Bruges til udvikling af bluetooth, findes der alternativ?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "843 - Cargo",
+    "DisplayName": "Cargo",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "844 - CutePDFWriter",
+    "DisplayName": "CutePDFWriter",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": "JESP: pdf dokumenter fra schematics / layouts",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "846 - fzf",
+    "DisplayName": "fzf",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "847 - Hatch",
+    "DisplayName": "Hatch",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "848 - JouleScope",
+    "DisplayName": "JouleScope",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "849 - NI package manager",
+    "DisplayName": "NI package manager",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "I følge Søren Tønnes: I FW bruger vi NI USB-6002 I/O boksene i forbindelse med automatiseret test. De er vigtige og kan desværre ikke udfases.\n\nTil disse bruger vi NI-DAQmx driveren, som er en del af NI Softwaren. Driveren installeres via NI Packet Manager:",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "85 - Eltima Serial Port Monitor (www.eltima.com)",
+    "DisplayName": "Eltima Serial Port Monitor (www.eltima.com)",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": "Needed in Tools and aps. But an alternative can be used - but we have lifetime licens for this",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "850 - NI Software",
+    "DisplayName": "NI Software",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "I følge Søren Tønnes: I FW bruger vi NI USB-6002 I/O boksene i forbindelse med automatiseret test. De er vigtige og kan desværre ikke udfases.\n\nTil disse bruger vi NI-DAQmx driveren, som er en del af NI Softwaren. Driveren installeres via NI Packet Manager:",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "851 - Rustup",
+    "DisplayName": "Rustup",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "852 - SD Card formatter",
+    "DisplayName": "SD Card formatter",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "853 - SX Virtual Link",
+    "DisplayName": "SX Virtual Link",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "854 - Typora",
+    "DisplayName": "Typora",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "855 - uBlock Origin",
+    "DisplayName": "uBlock Origin",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "856 - UniFlash",
+    "DisplayName": "UniFlash",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "857 - Windows Terminal",
+    "DisplayName": "Windows Terminal",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "858 - Tabular Editor",
+    "DisplayName": "Tabular Editor",
+    "HW_LifecycleStage": "Not in use",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "859 - Comsol",
+    "DisplayName": "Comsol",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "FEM Software, CFD, Computational fluid dynamics",
+    "HW_CleanUp_Recomendation": "Program is needed or function in program is.",
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "860 - TeX Live",
+    "DisplayName": "TeX Live",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Supporting TPSConverter",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": "TPSConverter"
+  },
+  {
+    "NoApplication": "861 - Sumatra PDF",
+    "DisplayName": "Sumatra PDF",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": "PDF reader, Adobe har ikke god nok funktionalitet.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "862 - Kamstrup msp flasher 1.2",
+    "DisplayName": "Kamstrup msp flasher 1.2",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "864 - (Birdz) Kalao",
+    "DisplayName": "(Birdz) Kalao",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Radiochip på print er koblet på produkter. Kan muligvis udfases på sigt.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "865 - FreeCad",
+    "DisplayName": "FreeCad",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Er på companyportal.",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "866 - DWGSee",
+    "DisplayName": "DWGSee",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Free. Se på makanik filer. Alternativ?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "867 - Kamstrup LabWater Tool",
+    "DisplayName": "Kamstrup LabWater Tool",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "868 - FlowVisionCommand",
+    "DisplayName": "FlowVisionCommand",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "869 - (Kamstrup) OrCad_compare.exe",
+    "DisplayName": "(Kamstrup) OrCad_compare.exe",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "870 - CMWrun",
+    "DisplayName": "CMWrun",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "871 - Agilent 14585 Control SW",
+    "DisplayName": "Agilent 14585 Control SW",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "872 - Analog Engineers",
+    "DisplayName": "Analog Engineers",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Noget til print? Findes der alternativ?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "873 - AppCAD",
+    "DisplayName": "AppCAD",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Noget til print? Findes der alternativ?",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "874 - Bizagi Modeler",
+    "DisplayName": "Bizagi Modeler",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "875 - Communications Tester 6.15.15",
+    "DisplayName": "Communications Tester 6.15.15",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "876 - Keysight Benchvue",
+    "DisplayName": "Keysight Benchvue",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "877 - LoRa Calculator",
+    "DisplayName": "LoRa Calculator",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "878 - PicoGW_UI",
+    "DisplayName": "PicoGW_UI",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Alternativ kan måske findes",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "879 - Simple_RangeCalc_V1.1",
+    "DisplayName": "Simple_RangeCalc_V1.1",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Udregningsprogram til antenner",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "880 - SimSurfing",
+    "DisplayName": "SimSurfing",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "881 - Smith V4.1",
+    "DisplayName": "Smith V4.1",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "882 - Txline",
+    "DisplayName": "Txline",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "883 - Anaconda",
+    "DisplayName": "Anaconda",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Makes installation of phyton easier",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": "Python"
+  },
+  {
+    "NoApplication": "884 - Qspice",
+    "DisplayName": "Qspice",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": "Udregningsprogram til antenner",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "888 - Sentry",
+    "DisplayName": "Sentry",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "In march 2026 we only have this to monitor our apps in App store and Google play, important. Feedback from customers also",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "917 - Git Bash",
+    "DisplayName": "Git Bash",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "941 - Codemeter (DNV-tools)",
+    "DisplayName": "Codemeter (DNV-tools)",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "942 - DNV DLMS Test Client",
+    "DisplayName": "DNV DLMS Test Client",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "943 - DNV TFT test suite",
+    "DisplayName": "DNV TFT test suite",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "958 - Antora",
+    "DisplayName": "Antora",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "959 - Busylight",
+    "DisplayName": "Busylight",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "960 - Fluke energy analyze",
+    "DisplayName": "Fluke energy analyze",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": "Fundemental important in Electricity",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "961 - Freeplane",
+    "DisplayName": "Freeplane",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "962 - GC-prevue",
+    "DisplayName": "GC-prevue",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "963 - Gradle",
+    "DisplayName": "Gradle",
+    "HW_LifecycleStage": "1-Strategic",
+    "HW_CleanUp_Note": "Java er en forudsætning for Gradel",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "964 - Gurux",
+    "DisplayName": "Gurux",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "965 - Influx",
+    "DisplayName": "Influx",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "966 - Inno Setup",
+    "DisplayName": "Inno Setup",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "967 - Kamstrup metertool for e-meter",
+    "DisplayName": "Kamstrup metertool for e-meter",
+    "HW_LifecycleStage": "3-Kamstrup application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "968 - Kroki",
+    "DisplayName": "Kroki",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "969 - Padstack editor",
+    "DisplayName": "Padstack editor",
+    "HW_LifecycleStage": "5-Investigate",
+    "HW_CleanUp_Note": "Bo Rosenberg Pedersen:\nPadstack editor er ikke et selvstændigt program - kan det være et andet program de mener.\nFRFS , part of Cadance so remove from list. DELETE",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "970 - PC library expert",
+    "DisplayName": "PC library expert",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "971 - Quacs Studio",
+    "DisplayName": "Quacs Studio",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "972 - Segger Ozone",
+    "DisplayName": "Segger Ozone",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "973 - Solidmaker",
+    "DisplayName": "Solidmaker",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "974 - STS Key generator",
+    "DisplayName": "STS Key generator",
+    "HW_LifecycleStage": "2-Important application",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "976 - Tableau",
+    "DisplayName": "Tableau",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": "FRFS, Could be replased by PowerBI",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "977 - Trueport",
+    "DisplayName": "Trueport",
+    "HW_LifecycleStage": "7-Potential for phase out",
+    "HW_CleanUp_Note": "FRFS, used in test but time for phase out in Electricity is an issue",
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  },
+  {
+    "NoApplication": "979 - WiX Toolset",
+    "DisplayName": "WiX Toolset",
+    "HW_LifecycleStage": "4-Saved for now",
+    "HW_CleanUp_Note": null,
+    "HW_CleanUp_Recomendation": null,
+    "HW_Sub_component_to": null
+  }
+]

@@ -13,7 +13,7 @@ os.environ["OMNIGAZE_MCP_API_KEY"] = "UvaWbr1OUc5T36OAR7YooMwc0J3BMaRUzk0zLE5gSW
 sys.path.insert(0, r"F:\RootContext\OmniGazeEA\.claude\skills\omnigaze-internal\scripts")
 from mcp_client import call_tool
 
-OUTPUT_DIR = r"F:\RootContext\Kamstrup\import-scripts\output"
+OUTPUT_DIR = r"F:\RootContext\Kamstrup\04-import-scripts\output"
 API_KEY = os.environ["OMNIGAZE_MCP_API_KEY"]
 
 TYPE_MAP = {

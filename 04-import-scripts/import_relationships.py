@@ -277,21 +277,19 @@ def extract_app_organization_relationships(ws, lookups: dict) -> list:
 
     for row in ws.iter_rows(min_row=5, values_only=True):
         app_str = safe_str(row[11] if len(row) > 11 else None)
-        cc = safe_str(row[8] if len(row) > 8 else None)      # col 9: CountryCode
-        ba = safe_str(row[9] if len(row) > 9 else None)      # col 10: Business Area
-        dept = safe_str(row[10] if len(row) > 10 else None)   # col 11: DepartmentTeam
+        idorg = safe_str(row[21] if len(row) > 21 else None)  # col 22: IdOrg (canonical FK)
 
-        if not app_str or not cc:
+        if not app_str or not idorg:
             continue
 
         app_guid = resolve_app(app_str, app_lookup)
         if not app_guid:
             continue
 
-        org_guid = resolve_org_from_kamstrup_data(cc, ba, dept, org_lookup)
+        # Direct FK resolution -> reaches team level deterministically.
+        org_guid = org_lookup.get(idorg)
         if not org_guid:
-            org_key = f"{cc}|{ba}|{dept}"
-            unresolved_orgs.add(org_key)
+            unresolved_orgs.add(idorg)
             continue
 
         pair = (app_guid, org_guid)
@@ -424,18 +422,16 @@ def extract_capability_organization_relationships(ws, lookups: dict) -> list:
 
     for row in ws.iter_rows(min_row=5, values_only=True):
         cap_key = safe_str(row[3] if len(row) > 3 else None)
-        cc = safe_str(row[8] if len(row) > 8 else None)
-        ba = safe_str(row[9] if len(row) > 9 else None)
-        dept = safe_str(row[10] if len(row) > 10 else None)
+        idorg = safe_str(row[21] if len(row) > 21 else None)  # col 22: IdOrg (canonical FK)
 
-        if not cap_key or not cc:
+        if not cap_key or not idorg:
             continue
 
         cap_guid = cap_lookup.get(cap_key)
         if not cap_guid:
             continue
 
-        org_guid = resolve_org_from_kamstrup_data(cc, ba, dept, org_lookup)
+        org_guid = org_lookup.get(idorg)
         if not org_guid:
             continue
 

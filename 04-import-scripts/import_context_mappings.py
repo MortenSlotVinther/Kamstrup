@@ -240,6 +240,9 @@ def import_context_mappings(excel_path: str, output_dir: str):
     print("\nLoading lookups...")
     lookups = load_lookups(output_dir)
     cap_lookup = lookups["capabilities"]
+    # Case-insensitive fallback: 2 cap-keys i KamstrupData har stavefejl i case
+    # (fx "Software Development" vs B-BC "Software development"). Match dem alligevel.
+    cap_lookup_ci = {k.lower(): v for k, v in cap_lookup.items()}
     org_lookup = lookups["organizations"]
     process_lookup = lookups["processes"]
     vs_lookup = lookups["value_streams"]
@@ -287,9 +290,10 @@ def import_context_mappings(excel_path: str, output_dir: str):
         cap_l2 = safe_str(row[5] if len(row) > 5 else None)    # col F: Capability L2
         cap_l3 = safe_str(row[6] if len(row) > 6 else None)    # col G: Capability L3
         # col H (index 7) is "Not used"
-        cc = safe_str(row[8] if len(row) > 8 else None)        # col I: CountryCode
-        ba = safe_str(row[9] if len(row) > 9 else None)        # col J: Business Area
-        dept = safe_str(row[10] if len(row) > 10 else None)     # col K: DepartmentTeam
+        cc = safe_str(row[8] if len(row) > 8 else None)        # col I: CountryCode (display only)
+        ba = safe_str(row[9] if len(row) > 9 else None)        # col J: Business Area (display only)
+        dept = safe_str(row[10] if len(row) > 10 else None)     # col K: DepartmentTeam (display only)
+        idorg = safe_str(row[21] if len(row) > 21 else None)    # col V (22): IdOrg (canonical org FK)
         app_str = safe_str(row[11] if len(row) > 11 else None)  # col L: NoApplication
         app_name = safe_str(row[12] if len(row) > 12 else None) # col M: Application Name
         time_str = safe_str(row[13] if len(row) > 13 else None) # col N: Gartner TIME
@@ -311,21 +315,21 @@ def import_context_mappings(excel_path: str, output_dir: str):
             warnings["unresolved_apps"].add(app_str)
             continue
 
-        # Resolve Business Capability
-        cap_guid = cap_lookup.get(cap_key)
+        # Resolve Business Capability (case-insensitive fallback for case-mismatches i kilde)
+        cap_guid = cap_lookup.get(cap_key) or cap_lookup_ci.get(cap_key.lower())
         if not cap_guid:
             stats["rows_skipped_no_cap"] += 1
             warnings["unresolved_caps"].add(cap_key)
             continue
 
-        # Resolve Organization (optional)
+        # Resolve Organization via canonical IdOrg FK (reaches team level).
         org_guid = None
-        if cc:
-            org_guid = resolve_org(cc, ba, dept, org_lookup)
+        if idorg:
+            org_guid = org_lookup.get(idorg)
             if org_guid:
                 stats["orgs_resolved"] += 1
             else:
-                warnings["unresolved_orgs"].add(f"{cc}|{ba}|{dept}")
+                warnings["unresolved_orgs"].add(idorg)
 
         # Resolve Process (optional)
         proc_guid = None

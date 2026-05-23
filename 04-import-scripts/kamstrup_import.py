@@ -358,164 +358,140 @@ def import_business_capabilities(wb, vs_lookup: dict) -> tuple:
 
 def import_organizations(wb) -> tuple:
     """
-    Import O-Organization sheet.
-    Returns: (list_of_factsheets, org_lookup_dict)
+    Import O-Organization sheet (NEW schema with IdOrg / ORG_Concat keys).
+
+    Row-aligned columns (1-indexed): 2=Organization/BU, 3=Business Area,
+    4=Country, 6=ORG_Concat, 7=ID, 8=IdOrg.
+    NOTE: CountryCode (col 12) and DepartmentTeam (col 17) are SEPARATE
+    reference/lookup lists — they are NOT aligned to the org row and must
+    not be read per-row.
+
+    IdOrg is the canonical key, encoded as
+        {ID}_{CountryCode}_{BU}_{BusinessArea}_{Team}
+    and is exactly what KamstrupData references (col 22). Both IdOrg and
+    ORG_Concat are unique per row. Every org row becomes its most-specific
+    node, parented under Country -> Business Unit -> Business Area, so the
+    structure reaches Team level.
+
+    Returns: (list_of_factsheets, org_lookup) where org_lookup maps BOTH
+    IdOrg and ORG_Concat -> the leaf factsheet GUID, so Phase 4/5 resolve
+    organization deterministically down to team level.
     """
     print("\n[3/6] Importing Organizations...")
     ws = wb["O-Organization"]
 
     rows = []
     for row in ws.iter_rows(min_row=3, values_only=True):
-        org_bu = safe_str(row[1] if len(row) > 1 else None)        # col B = Level 2 (Org/BU)
-        biz_area = safe_str(row[2] if len(row) > 2 else None)       # col C = Level 3 (Business Area)
-        country = safe_str(row[3] if len(row) > 3 else None)        # col D = Level 1 (Country)
-        country_code = safe_str(row[8] if len(row) > 8 else None)   # col I = CountryCode
-        country_name = safe_str(row[9] if len(row) > 9 else None)   # col J = Country display name
-        dept_team = safe_str(row[13] if len(row) > 13 else None)    # col N = DepartmentTeam (Level 4)
-
-        if not country and not org_bu:
+        def g(i):
+            return safe_str(row[i]) if len(row) > i else ""
+        bu = g(1)         # col B = Organization / Business Unit
+        biz_area = g(2)   # col C = Business Area
+        country = g(3)    # col D = Country
+        concat = g(5)     # col F = ORG_Concat
+        idorg = g(7)      # col H = IdOrg (canonical key)
+        if not idorg:
             continue
-
         rows.append({
-            "country": country,
-            "country_code": country_code,
-            "country_name": country_name,
-            "org_bu": org_bu,
-            "biz_area": biz_area,
-            "dept_team": dept_team,
+            "bu": bu, "biz_area": biz_area, "country": country,
+            "concat": concat, "idorg": idorg,
         })
 
     log.info(f"Read {len(rows)} data rows from O-Organization")
 
+    def country_code_of(idorg: str) -> str:
+        parts = idorg.split("_")
+        return parts[1] if len(parts) > 1 else ""
+
+    def team_of(idorg: str, cc: str, bu: str, ba: str) -> str:
+        """Team = IdOrg with the known {ID}_{CC}_{BU}_{BA}_ prefix stripped.
+        Empty when this row is itself a Business-Area/department-level unit."""
+        prefix = f"{idorg.split('_')[0]}_{cc}_{bu}_{ba}_"
+        if idorg.startswith(prefix):
+            return idorg[len(prefix):].strip()
+        return ""
+
     factsheets = []
+    countries = {}       # country -> guid
+    bus_units = {}       # (country, bu) -> guid
+    departments = {}     # (country, bu, ba) -> guid
+    org_lookup = {}      # IdOrg / ORG_Concat -> leaf guid
+    team_nodes = 0
 
-    # Pass 1: Countries (L1)
-    countries = {}
     for r in rows:
-        c = r["country"]
-        if c and c not in countries:
-            guid = deterministic_guid("Org_Country", c)
-            countries[c] = guid
-            # Try to get country code from the row
-            cc = r["country_code"] if r["country"] == r.get("country_name", "") else ""
-            # Actually map country to code from unique rows where this country appears
+        country, bu, ba = r["country"], r["bu"], r["biz_area"]
+        idorg, concat = r["idorg"], r["concat"]
+        cc = country_code_of(idorg)
+
+        # L1 Country
+        country_guid = None
+        if country:
+            if country not in countries:
+                cguid = deterministic_guid("Org_Country", country)
+                countries[country] = cguid
+                factsheets.append({
+                    "Id": cguid, "DisplayName": country,
+                    "FactSheetType": "OrganizationFactSheet",
+                    "OrgType": "Country", "CountryCode": cc,
+                    "HierarchyParentId": None, "HierarchyLevel": 1,
+                })
+            country_guid = countries[country]
+
+        # L2 Business Unit
+        bu_guid = None
+        if bu and country:
+            bkey = (country, bu)
+            if bkey not in bus_units:
+                bguid = deterministic_guid("Org_BU", f"{country}::{bu}")
+                bus_units[bkey] = bguid
+                factsheets.append({
+                    "Id": bguid, "DisplayName": bu,
+                    "FactSheetType": "OrganizationFactSheet",
+                    "OrgType": "Business Unit", "CountryCode": cc,
+                    "HierarchyParentId": country_guid, "HierarchyLevel": 2,
+                })
+            bu_guid = bus_units[bkey]
+
+        # L3 Department / Business Area
+        dept_guid = None
+        if ba and bu and country:
+            dkey = (country, bu, ba)
+            if dkey not in departments:
+                dguid = deterministic_guid("Org_Dept", f"{country}::{bu}::{ba}")
+                departments[dkey] = dguid
+                factsheets.append({
+                    "Id": dguid, "DisplayName": ba,
+                    "FactSheetType": "OrganizationFactSheet",
+                    "OrgType": "Department", "CountryCode": cc,
+                    "HierarchyParentId": bu_guid, "HierarchyLevel": 3,
+                })
+            dept_guid = departments[dkey]
+
+        # L4 leaf for this exact IdOrg
+        team = team_of(idorg, cc, bu, ba)
+        parent_for_leaf = dept_guid or bu_guid or country_guid
+        if team:
+            leaf_guid = deterministic_guid("Org_Team", idorg)
             factsheets.append({
-                "Id": guid,
-                "DisplayName": c,
+                "Id": leaf_guid, "DisplayName": team,
                 "FactSheetType": "OrganizationFactSheet",
-                "OrgType": "Country",
-                "CountryCode": "",
-                "HierarchyParentId": None,
-                "HierarchyLevel": 1,
+                "OrgType": "Team", "CountryCode": cc,
+                "HierarchyParentId": parent_for_leaf, "HierarchyLevel": 4,
             })
+            team_nodes += 1
+        else:
+            # No team segment: the Business-Area/department node IS this unit.
+            leaf_guid = dept_guid or bu_guid or country_guid
 
-    # Enrich country codes from the data (col I maps to col J country names)
-    # The country_code and country_name columns are separate lookup columns
-    country_code_map = {}  # country_name -> country_code
-    for r in rows:
-        cn = r["country_name"]
-        cc = r["country_code"]
-        if cn and cc:
-            country_code_map[cn] = cc
-    
-    # Also map from the main country column (col D) to the first available code
-    for r in rows:
-        c = r["country"]
-        if c and c not in country_code_map:
-            # Try to find in country_name map
-            pass
-    
-    # Apply country codes
-    for fs in factsheets:
-        if fs["FactSheetType"] == "OrganizationFactSheet" and fs["OrgType"] == "Country":
-            cc = country_code_map.get(fs["DisplayName"], "")
-            fs["CountryCode"] = cc
+        # Canonical resolution keys (used by Phase 4/5)
+        if leaf_guid:
+            org_lookup[idorg] = leaf_guid
+            if concat:
+                org_lookup[concat] = leaf_guid
 
-    log.info(f"L1 Countries: {len(countries)} — {sorted(countries.keys())}")
-
-    # Pass 2: Business Units (L2)
-    bus_units = {}
-    for r in rows:
-        bu = r["org_bu"]
-        c = r["country"]
-        if not bu or not c:
-            continue
-        key = (c, bu)
-        if key not in bus_units:
-            guid = deterministic_guid("Org_BU", f"{c}::{bu}")
-            bus_units[key] = guid
-            factsheets.append({
-                "Id": guid,
-                "DisplayName": bu,
-                "FactSheetType": "OrganizationFactSheet",
-                "OrgType": "Business Unit",
-                "CountryCode": country_code_map.get(c, ""),
-                "HierarchyParentId": countries.get(c),
-                "HierarchyLevel": 2,
-            })
-
-    log.info(f"L2 Business Units: {len(bus_units)}")
-
-    # Pass 3: Business Areas / Departments (L3)
-    departments = {}
-    for r in rows:
-        ba = r["biz_area"]
-        bu = r["org_bu"]
-        c = r["country"]
-        if not ba or not bu or not c:
-            continue
-        key = (c, bu, ba)
-        if key not in departments:
-            guid = deterministic_guid("Org_Dept", f"{c}::{bu}::{ba}")
-            departments[key] = guid
-            factsheets.append({
-                "Id": guid,
-                "DisplayName": ba,
-                "FactSheetType": "OrganizationFactSheet",
-                "OrgType": "Department",
-                "CountryCode": country_code_map.get(c, ""),
-                "HierarchyParentId": bus_units.get((c, bu)),
-                "HierarchyLevel": 3,
-            })
-
-    log.info(f"L3 Departments/Areas: {len(departments)}")
-
-    # Pass 4: Teams (L4) from col N
-    teams = {}
-    for r in rows:
-        team = r["dept_team"]
-        ba = r["biz_area"]
-        bu = r["org_bu"]
-        c = r["country"]
-        if not team or not ba or not bu or not c:
-            continue
-        key = (c, bu, ba, team)
-        if key not in teams:
-            guid = deterministic_guid("Org_Team", f"{c}::{bu}::{ba}::{team}")
-            teams[key] = guid
-            factsheets.append({
-                "Id": guid,
-                "DisplayName": team,
-                "FactSheetType": "OrganizationFactSheet",
-                "OrgType": "Team",
-                "CountryCode": country_code_map.get(c, ""),
-                "HierarchyParentId": departments.get((c, bu, ba)),
-                "HierarchyLevel": 4,
-            })
-
-    log.info(f"L4 Teams: {len(teams)}")
-
-    total = len(countries) + len(bus_units) + len(departments) + len(teams)
+    total = len(countries) + len(bus_units) + len(departments) + team_nodes
     log.count("Organizations", total)
-
-    # Build org lookup for Phase 4
-    org_lookup = {}
-    for (c, bu), guid in bus_units.items():
-        org_lookup[f"{c}::{bu}"] = guid
-    for (c, bu, ba), guid in departments.items():
-        org_lookup[f"{c}::{bu}::{ba}"] = guid
-    for c, guid in countries.items():
-        org_lookup[c] = guid
+    log.info(f"Orgs: {len(countries)} countries, {len(bus_units)} BUs, "
+             f"{len(departments)} departments, {team_nodes} teams")
 
     return factsheets, org_lookup
 

@@ -63,7 +63,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 4, NoApp=563 - Instant translate",
       "AdditionalMetadata": {
@@ -152,7 +152,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 5, NoApp=416 - Funnel",
       "AdditionalMetadata": {
@@ -238,7 +238,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 6, NoApp=22 - Iris",
       "AdditionalMetadata": {
@@ -327,7 +327,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 7, NoApp=356 - Cludo",
       "AdditionalMetadata": {
@@ -421,7 +421,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 8, NoApp=11 - Sitecore (CMS)",
       "AdditionalMetadata": {
@@ -500,7 +500,7 @@
     },
     "Owners": [],
     "SuccessorId": [
-      "dd1bbd65-af76-5ee5-beed-4a8fa7cbe1d6"
+      "f0fdab5e-01ea-50dd-9187-87d1c5d7cf47"
     ],
     "CustomFields": [
       {
@@ -518,7 +518,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 9, NoApp=449 - Pingdom",
       "AdditionalMetadata": {
@@ -595,7 +595,7 @@
     },
     "Owners": [],
     "SuccessorId": [
-      "dd1bbd65-af76-5ee5-beed-4a8fa7cbe1d6"
+      "f0fdab5e-01ea-50dd-9187-87d1c5d7cf47"
     ],
     "CustomFields": [
       {
@@ -609,7 +609,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 10, NoApp=691 - Capmon",
       "AdditionalMetadata": {
@@ -699,7 +699,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 11, NoApp=468 - Kensington",
       "AdditionalMetadata": {
@@ -784,7 +784,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 12, NoApp=575 - DecisionWise",
       "AdditionalMetadata": {
@@ -865,7 +865,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 13, NoApp=493 - Screenpresso",
       "AdditionalMetadata": {
@@ -946,7 +946,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 14, NoApp=497 - Slidesgo",
       "AdditionalMetadata": {
@@ -1027,7 +1027,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 15, NoApp=498 - Wepik",
       "AdditionalMetadata": {
@@ -1108,7 +1108,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 16, NoApp=578 - Service.kamstrup.com",
       "AdditionalMetadata": {
@@ -1189,7 +1189,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 17, NoApp=220 - SRO",
       "AdditionalMetadata": {
@@ -1274,7 +1274,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 18, NoApp=565 - Happyscribe",
       "AdditionalMetadata": {
@@ -1300,7 +1300,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "9558cee6-91f7-44a9-9a94-65b5340fd130",
+    "Id": "2634ed04-7982-55fd-99e9-dd7eac362e8b",
     "DisplayName": "PureService Supportpoint",
     "Category": "Networking and Security",
     "RichDescription": "Intune can do the same, so it is removed. MSAD told the info.",
@@ -1359,7 +1359,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 19, NoApp=PureService Supportpoint",
       "AdditionalMetadata": {
@@ -1377,7 +1377,7 @@
     "_Org": null,
     "_SuperUser": null,
     "_NoApplication": "PureService Supportpoint",
-    "_AppNo": null,
+    "_AppNo": 9999,
     "_HierarchyParentId": null
   },
   {
@@ -1448,7 +1448,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 20, NoApp=411 - Sleeknote",
       "AdditionalMetadata": {
@@ -1541,7 +1541,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 21, NoApp=386 - nShift As - ( tidl Consignor AS )",
       "AdditionalMetadata": {
@@ -1567,7 +1567,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "275085dd-5f82-45b4-a8f6-e0bd28a125c1",
+    "Id": "2634ed04-7982-55fd-99e9-dd7eac362e8b",
     "DisplayName": "PowerBi Novicell Hosting",
     "Category": "",
     "RichDescription": "SET har bekræftet dette",
@@ -1630,7 +1630,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 22, NoApp=PowerBi Novicell Hosting",
       "AdditionalMetadata": {
@@ -1648,7 +1648,7 @@
     "_Org": null,
     "_SuperUser": null,
     "_NoApplication": "PowerBi Novicell Hosting",
-    "_AppNo": null,
+    "_AppNo": 9999,
     "_HierarchyParentId": null
   },
   {
@@ -1711,7 +1711,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 23, NoApp=566 - Hootsuite",
       "AdditionalMetadata": {
@@ -1800,7 +1800,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 24, NoApp=415 - Dealfront",
       "AdditionalMetadata": {
@@ -1885,7 +1885,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 25, NoApp=200 - HP ALM",
       "AdditionalMetadata": {
@@ -1958,7 +1958,7 @@
     },
     "Owners": [],
     "SuccessorId": [
-      "59343415-67f8-506b-9b5a-967d8ce58910"
+      "613bdbf8-b193-5776-8834-dd5b5bd5b0a2"
     ],
     "CustomFields": [
       {
@@ -1976,7 +1976,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 26, NoApp=948 - Mercell Opic",
       "AdditionalMetadata": {
@@ -2066,7 +2066,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 27, NoApp=949 - Mercell Opic Analysis",
       "AdditionalMetadata": {
@@ -2159,7 +2159,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 28, NoApp=410 - Semrush",
       "AdditionalMetadata": {
@@ -2185,7 +2185,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "a317045d-2799-490c-9ded-b4b039a9b270",
+    "Id": "3c5db6d8-308b-4cff-8c5c-cf0cbba40575",
     "DisplayName": "Opsgenie",
     "Category": "Utilities and Miscellaneous",
     "RichDescription": "MANO and ANUP has confirmed this",
@@ -2236,7 +2236,7 @@
     },
     "Owners": [],
     "SuccessorId": [
-      "8e9f0d04-e35c-5fc8-888e-11d261821588"
+      "963103d0-fd33-55f0-8e73-94b67426c580"
     ],
     "CustomFields": [
       {
@@ -2246,7 +2246,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 29, NoApp=Opsgenie",
       "AdditionalMetadata": {
@@ -2323,7 +2323,7 @@
     "CustomFields": [],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 30, NoApp=96 - Microsoft team Foundation server",
       "AdditionalMetadata": {
@@ -2399,7 +2399,7 @@
     "CustomFields": [],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 31, NoApp=713 - WSL",
       "AdditionalMetadata": {
@@ -2489,7 +2489,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 32, NoApp=372 - ipaper",
       "AdditionalMetadata": {
@@ -2582,7 +2582,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 33, NoApp=407 - Screamingfrog",
       "AdditionalMetadata": {
@@ -2667,7 +2667,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 34, NoApp=112 - Xmind",
       "AdditionalMetadata": {
@@ -2752,7 +2752,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 35, NoApp=954 - Ordbogen.com",
       "AdditionalMetadata": {
@@ -2841,7 +2841,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 36, NoApp=764 - OBS Studio",
       "AdditionalMetadata": {
@@ -2927,7 +2927,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 37, NoApp=925 - Java for JetBrains tools",
       "AdditionalMetadata": {
@@ -3012,7 +3012,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 38, NoApp=913 - Azure Data Studio",
       "AdditionalMetadata": {
@@ -3097,7 +3097,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 39, NoApp=910 - MarkdownPad 2",
       "AdditionalMetadata": {
@@ -3182,7 +3182,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 40, NoApp=698 - meld",
       "AdditionalMetadata": {
@@ -3267,7 +3267,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 41, NoApp=935 - SourceMonitor - static code analysis",
       "AdditionalMetadata": {
@@ -3352,7 +3352,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 42, NoApp=1090 - Signal",
       "AdditionalMetadata": {
@@ -3433,7 +3433,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 43, NoApp=178 - gwim",
       "AdditionalMetadata": {
@@ -3519,7 +3519,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 44, NoApp=707 - Irfanview",
       "AdditionalMetadata": {
@@ -3604,7 +3604,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 45, NoApp=840 - Key Metric",
       "AdditionalMetadata": {
@@ -3680,7 +3680,7 @@
     },
     "Owners": [],
     "SuccessorId": [
-      "86a0bc6b-f329-516e-8465-e5ce39c26c67"
+      "910f3b2a-9a4b-5c7f-9a43-42a2bc8743f8"
     ],
     "CustomFields": [
       {
@@ -3694,7 +3694,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 46, NoApp=359 - Oracle Content HUB",
       "AdditionalMetadata": {
@@ -3783,7 +3783,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 47, NoApp=537 - Power BI Premium USL Sub Per User",
       "AdditionalMetadata": {
@@ -3867,7 +3867,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 48, NoApp=168 - Sublime Text 3 (https://www.sublimetext.com/3)",
       "AdditionalMetadata": {
@@ -3951,7 +3951,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 49, NoApp=524 - UI Control Suite",
       "AdditionalMetadata": {
@@ -4034,7 +4034,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 50, NoApp=696 - Cyberchef",
       "AdditionalMetadata": {
@@ -4114,7 +4114,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 51, NoApp=812 - Viewmate",
       "AdditionalMetadata": {
@@ -4194,7 +4194,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 52, NoApp=818 - Instrument tools Water (+100 tools)",
       "AdditionalMetadata": {
@@ -4274,7 +4274,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 53, NoApp=819 - Hercules",
       "AdditionalMetadata": {
@@ -4354,7 +4354,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 54, NoApp=824 - Temurin (multiple versions, JAVA)",
       "AdditionalMetadata": {
@@ -4434,7 +4434,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 55, NoApp=825 - Device Monitoring Studio",
       "AdditionalMetadata": {
@@ -4514,7 +4514,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 56, NoApp=845 - FRHED",
       "AdditionalMetadata": {
@@ -4598,7 +4598,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 57, NoApp=1017 - Goland",
       "AdditionalMetadata": {
@@ -4686,7 +4686,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 58, NoApp=355 - ClickLearn",
       "AdditionalMetadata": {
@@ -4774,7 +4774,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 59, NoApp=406 - Microsoft Dynamics CID (Data)",
       "AdditionalMetadata": {
@@ -4862,7 +4862,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 60, NoApp=458 - Canva Free",
       "AdditionalMetadata": {
@@ -4872,8 +4872,7 @@
         "NoApplication": "458 - Canva Free",
         "CostType": "License",
         "Currency": "DKR",
-        "Country": "DK10",
-        "UsedInCapabilityMapping": "#N/A"
+        "Country": "DK10"
       }
     },
     "HierarchyChildrenIds": [],
@@ -4887,7 +4886,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "85bb6689-99db-4c0c-81fb-597d2d5b84cb",
+    "Id": "c1c3f074-7b5a-419b-89fe-1ed2d6f9fece",
     "DisplayName": "Ahref",
     "Category": "Utilities and Miscellaneous",
     "RichDescription": "Free version of a system that was used. I have canceled the account",
@@ -4946,7 +4945,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 61, NoApp=Ahref",
       "AdditionalMetadata": {
@@ -5030,7 +5029,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 62, NoApp=1067 - Sitecore Stream",
       "AdditionalMetadata": {
@@ -5118,7 +5117,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 63, NoApp=1079 - Meltwater",
       "AdditionalMetadata": {
@@ -5207,7 +5206,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 64, NoApp=413 - SEOsurfer",
       "AdditionalMetadata": {
@@ -5232,7 +5231,87 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "74fff683-7ec7-4597-bb49-bee24e497a2d",
+    "Id": "e92d3352-0c1a-5a18-b3f4-78203ae9e75b",
+    "DisplayName": "EMS10",
+    "Category": "Kamstrup - Customer Software",
+    "RichDescription": null,
+    "Url": null,
+    "Responsible": null,
+    "Retired": true,
+    "LifeCycle": {
+      "Plan": null,
+      "PhaseIn": null,
+      "Active": null,
+      "PhaseOut": null,
+      "EndOfLife": "2026-03-17T00:00:00"
+    },
+    "LifecycleStage": "Removed",
+    "PortFolioStrategy": {
+      "TIME": "Unmapped",
+      "Description": null
+    },
+    "HostedOn": {
+      "Criticality": "Unmapped",
+      "HostingTypeValue": null,
+      "HostingTypeDescription": null
+    },
+    "ApplicationTypeTags": [],
+    "PlatformTags": [],
+    "OrganizationTags": [
+      "Customer Services"
+    ],
+    "UserBase": {
+      "Size": "Unknown",
+      "Count": null,
+      "Description": null,
+      "UserType": "Unknown"
+    },
+    "AIClassification": {
+      "UsesAI": false,
+      "RiskLevel": "NotApplicable",
+      "ReviewStatus": "NotReviewed",
+      "AICapabilities": null,
+      "ReviewDate": null
+    },
+    "SecurityAssessment": {
+      "Status": "NotAssessed",
+      "ApprovedDate": null,
+      "NextReviewDate": null,
+      "DebtLevel": "Unknown",
+      "Notes": null
+    },
+    "Owners": [],
+    "SuccessorId": [],
+    "CustomFields": [
+      {
+        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
+        "Value": "0"
+      }
+    ],
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-05-22T20:21:59",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 65, NoApp=276 - EMS10",
+      "AdditionalMetadata": {
+        "ImportPhase": "Phase3",
+        "SourceSheet": "A-Applications_Removed",
+        "RowNumber": "65",
+        "NoApplication": "276 - EMS10"
+      }
+    },
+    "HierarchyChildrenIds": [],
+    "_SoftwareVendor": null,
+    "_Consultancy": null,
+    "_SupportingApplications": null,
+    "_Org": null,
+    "_SuperUser": null,
+    "_NoApplication": "276 - EMS10",
+    "_AppNo": 276,
+    "_HierarchyParentId": null
+  },
+  {
+    "Id": "d2337d4a-d83c-4428-a3dd-f0fde092cb47",
     "DisplayName": "Hercules",
     "Category": "",
     "RichDescription": null,
@@ -5284,13 +5363,13 @@
     "CustomFields": [],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 69, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 71, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "69",
+        "RowNumber": "71",
         "NoApplication": ""
       }
     },
@@ -5305,7 +5384,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "4a758f5a-f152-4be2-b09d-e3f5eeb5e651",
+    "Id": "316eaca6-037b-44c4-9046-3751b9731ebe",
     "DisplayName": "IdLevel123",
     "Category": "Capbility level 1",
     "RichDescription": "CountryCode",
@@ -5364,13 +5443,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 210, NoApp=FromDate",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 212, NoApp=FromDate",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "210",
+        "RowNumber": "212",
         "NoApplication": "FromDate",
         "YearlyCostTakeover": "NoApplication",
         "CostType": "Value Stream"
@@ -5387,7 +5466,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "c44dc885-13a4-4bcf-990d-016dbb7a948c",
+    "Id": "20474d4e-20b9-424e-bef6-737eb670a2a7",
     "DisplayName": "998-Not mapped to capability--",
     "Category": "Not mapped to capability",
     "RichDescription": "DK10",
@@ -5446,13 +5525,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 211, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 213, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "211",
+        "RowNumber": "213",
         "NoApplication": "",
         "YearlyCostTakeover": "1017 - Goland"
       }
@@ -5468,7 +5547,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "9ee658d7-ed0b-4e6b-a93e-98a6ea9748fd",
+    "Id": "e2ba3bd6-854d-4b3b-8c87-11b995ce9149",
     "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -5527,171 +5606,7 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
-      "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 212, NoApp=None",
-      "AdditionalMetadata": {
-        "ImportPhase": "Phase3",
-        "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "212",
-        "NoApplication": "",
-        "YearlyCostTakeover": "168 - Sublime Text 3 (https://www.sublimetext.com/3)",
-        "CostType": "Idea-to-Release (I2R)"
-      }
-    },
-    "HierarchyChildrenIds": [],
-    "_SoftwareVendor": null,
-    "_Consultancy": null,
-    "_SupportingApplications": null,
-    "_Org": null,
-    "_SuperUser": null,
-    "_NoApplication": null,
-    "_AppNo": null,
-    "_HierarchyParentId": null
-  },
-  {
-    "Id": "1686c08d-d50e-46f1-a4a1-c1091b2a3771",
-    "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
-    "Category": "Product & Software Development",
-    "RichDescription": "DK10",
-    "Url": null,
-    "Responsible": null,
-    "Retired": true,
-    "LifeCycle": {
-      "Plan": null,
-      "PhaseIn": null,
-      "Active": null,
-      "PhaseOut": null,
-      "EndOfLife": null
-    },
-    "LifecycleStage": "Removed",
-    "PortFolioStrategy": {
-      "TIME": "Unmapped",
-      "Description": null
-    },
-    "HostedOn": {
-      "Criticality": "Unmapped",
-      "HostingTypeValue": null,
-      "HostingTypeDescription": null
-    },
-    "ApplicationTypeTags": [],
-    "PlatformTags": [],
-    "OrganizationTags": [
-      "Engineering"
-    ],
-    "UserBase": {
-      "Size": "Unknown",
-      "Count": null,
-      "Description": null,
-      "UserType": "Unknown"
-    },
-    "AIClassification": {
-      "UsesAI": false,
-      "RiskLevel": "NotApplicable",
-      "ReviewStatus": "NotReviewed",
-      "AICapabilities": null,
-      "ReviewDate": null
-    },
-    "SecurityAssessment": {
-      "Status": "NotAssessed",
-      "ApprovedDate": null,
-      "NextReviewDate": null,
-      "DebtLevel": "Unknown",
-      "Notes": null
-    },
-    "Owners": [],
-    "SuccessorId": [],
-    "CustomFields": [
-      {
-        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
-        "Value": "Construction & Development"
-      }
-    ],
-    "CreationMetadata": {
-      "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
-      "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 213, NoApp=None",
-      "AdditionalMetadata": {
-        "ImportPhase": "Phase3",
-        "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "213",
-        "NoApplication": "",
-        "YearlyCostTakeover": "168 - Sublime Text 3 (https://www.sublimetext.com/3)",
-        "CostType": "Idea-to-Release (I2R)"
-      }
-    },
-    "HierarchyChildrenIds": [],
-    "_SoftwareVendor": null,
-    "_Consultancy": null,
-    "_SupportingApplications": null,
-    "_Org": null,
-    "_SuperUser": null,
-    "_NoApplication": null,
-    "_AppNo": null,
-    "_HierarchyParentId": null
-  },
-  {
-    "Id": "ad061f42-94be-48bc-a762-57a8ea5affe0",
-    "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
-    "Category": "Product & Software Development",
-    "RichDescription": "DK10",
-    "Url": null,
-    "Responsible": null,
-    "Retired": true,
-    "LifeCycle": {
-      "Plan": null,
-      "PhaseIn": null,
-      "Active": null,
-      "PhaseOut": null,
-      "EndOfLife": null
-    },
-    "LifecycleStage": "Removed",
-    "PortFolioStrategy": {
-      "TIME": "Unmapped",
-      "Description": null
-    },
-    "HostedOn": {
-      "Criticality": "Unmapped",
-      "HostingTypeValue": null,
-      "HostingTypeDescription": null
-    },
-    "ApplicationTypeTags": [],
-    "PlatformTags": [],
-    "OrganizationTags": [
-      "Engineering"
-    ],
-    "UserBase": {
-      "Size": "Unknown",
-      "Count": null,
-      "Description": null,
-      "UserType": "Unknown"
-    },
-    "AIClassification": {
-      "UsesAI": false,
-      "RiskLevel": "NotApplicable",
-      "ReviewStatus": "NotReviewed",
-      "AICapabilities": null,
-      "ReviewDate": null
-    },
-    "SecurityAssessment": {
-      "Status": "NotAssessed",
-      "ApprovedDate": null,
-      "NextReviewDate": null,
-      "DebtLevel": "Unknown",
-      "Notes": null
-    },
-    "Owners": [],
-    "SuccessorId": [],
-    "CustomFields": [
-      {
-        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
-        "Value": "Construction & Development"
-      }
-    ],
-    "CreationMetadata": {
-      "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 214, NoApp=None",
       "AdditionalMetadata": {
@@ -5714,7 +5629,171 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "ab1df5d5-0e9f-4d7c-997d-37b302581cd5",
+    "Id": "3d38061f-bad7-4ff1-b6ee-3a726b90bd40",
+    "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
+    "Category": "Product & Software Development",
+    "RichDescription": "DK10",
+    "Url": null,
+    "Responsible": null,
+    "Retired": true,
+    "LifeCycle": {
+      "Plan": null,
+      "PhaseIn": null,
+      "Active": null,
+      "PhaseOut": null,
+      "EndOfLife": null
+    },
+    "LifecycleStage": "Removed",
+    "PortFolioStrategy": {
+      "TIME": "Unmapped",
+      "Description": null
+    },
+    "HostedOn": {
+      "Criticality": "Unmapped",
+      "HostingTypeValue": null,
+      "HostingTypeDescription": null
+    },
+    "ApplicationTypeTags": [],
+    "PlatformTags": [],
+    "OrganizationTags": [
+      "Engineering"
+    ],
+    "UserBase": {
+      "Size": "Unknown",
+      "Count": null,
+      "Description": null,
+      "UserType": "Unknown"
+    },
+    "AIClassification": {
+      "UsesAI": false,
+      "RiskLevel": "NotApplicable",
+      "ReviewStatus": "NotReviewed",
+      "AICapabilities": null,
+      "ReviewDate": null
+    },
+    "SecurityAssessment": {
+      "Status": "NotAssessed",
+      "ApprovedDate": null,
+      "NextReviewDate": null,
+      "DebtLevel": "Unknown",
+      "Notes": null
+    },
+    "Owners": [],
+    "SuccessorId": [],
+    "CustomFields": [
+      {
+        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
+        "Value": "Construction & Development"
+      }
+    ],
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-05-22T20:21:59",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 215, NoApp=None",
+      "AdditionalMetadata": {
+        "ImportPhase": "Phase3",
+        "SourceSheet": "A-Applications_Removed",
+        "RowNumber": "215",
+        "NoApplication": "",
+        "YearlyCostTakeover": "168 - Sublime Text 3 (https://www.sublimetext.com/3)",
+        "CostType": "Idea-to-Release (I2R)"
+      }
+    },
+    "HierarchyChildrenIds": [],
+    "_SoftwareVendor": null,
+    "_Consultancy": null,
+    "_SupportingApplications": null,
+    "_Org": null,
+    "_SuperUser": null,
+    "_NoApplication": null,
+    "_AppNo": null,
+    "_HierarchyParentId": null
+  },
+  {
+    "Id": "3bdfb3ac-b435-44f5-8917-8622d249d2c0",
+    "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
+    "Category": "Product & Software Development",
+    "RichDescription": "DK10",
+    "Url": null,
+    "Responsible": null,
+    "Retired": true,
+    "LifeCycle": {
+      "Plan": null,
+      "PhaseIn": null,
+      "Active": null,
+      "PhaseOut": null,
+      "EndOfLife": null
+    },
+    "LifecycleStage": "Removed",
+    "PortFolioStrategy": {
+      "TIME": "Unmapped",
+      "Description": null
+    },
+    "HostedOn": {
+      "Criticality": "Unmapped",
+      "HostingTypeValue": null,
+      "HostingTypeDescription": null
+    },
+    "ApplicationTypeTags": [],
+    "PlatformTags": [],
+    "OrganizationTags": [
+      "Engineering"
+    ],
+    "UserBase": {
+      "Size": "Unknown",
+      "Count": null,
+      "Description": null,
+      "UserType": "Unknown"
+    },
+    "AIClassification": {
+      "UsesAI": false,
+      "RiskLevel": "NotApplicable",
+      "ReviewStatus": "NotReviewed",
+      "AICapabilities": null,
+      "ReviewDate": null
+    },
+    "SecurityAssessment": {
+      "Status": "NotAssessed",
+      "ApprovedDate": null,
+      "NextReviewDate": null,
+      "DebtLevel": "Unknown",
+      "Notes": null
+    },
+    "Owners": [],
+    "SuccessorId": [],
+    "CustomFields": [
+      {
+        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
+        "Value": "Construction & Development"
+      }
+    ],
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-05-22T20:21:59",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 216, NoApp=None",
+      "AdditionalMetadata": {
+        "ImportPhase": "Phase3",
+        "SourceSheet": "A-Applications_Removed",
+        "RowNumber": "216",
+        "NoApplication": "",
+        "YearlyCostTakeover": "168 - Sublime Text 3 (https://www.sublimetext.com/3)",
+        "CostType": "Idea-to-Release (I2R)"
+      }
+    },
+    "HierarchyChildrenIds": [],
+    "_SoftwareVendor": null,
+    "_Consultancy": null,
+    "_SupportingApplications": null,
+    "_Org": null,
+    "_SuperUser": null,
+    "_NoApplication": null,
+    "_AppNo": null,
+    "_HierarchyParentId": null
+  },
+  {
+    "Id": "34bfb730-df01-45fc-be95-6aa21cb574c6",
     "DisplayName": "998-Not mapped to capability--",
     "Category": "Not mapped to capability",
     "RichDescription": "DK10",
@@ -5773,13 +5852,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 215, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 217, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "215",
+        "RowNumber": "217",
         "NoApplication": "",
         "YearlyCostTakeover": "524 - UI Control Suite"
       }
@@ -5795,7 +5874,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "6ffd354f-b133-49a2-9a9d-83b8a6082865",
+    "Id": "157cd821-ada8-4bc6-9973-7d571cffe4b8",
     "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -5854,13 +5933,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 216, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 218, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "216",
+        "RowNumber": "218",
         "NoApplication": "",
         "YearlyCostTakeover": "696 - Cyberchef",
         "CostType": "Idea-to-Release (I2R)"
@@ -5877,7 +5956,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "5173435a-5060-4552-85ea-25e555518445",
+    "Id": "a11a298e-32b0-4116-a20b-7fa653703b66",
     "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -5936,177 +6015,177 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
-      "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 217, NoApp=None",
-      "AdditionalMetadata": {
-        "ImportPhase": "Phase3",
-        "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "217",
-        "NoApplication": "",
-        "YearlyCostTakeover": "812 - Viewmate",
-        "CostType": "Idea-to-Release (I2R)"
-      }
-    },
-    "HierarchyChildrenIds": [],
-    "_SoftwareVendor": null,
-    "_Consultancy": null,
-    "_SupportingApplications": null,
-    "_Org": null,
-    "_SuperUser": null,
-    "_NoApplication": null,
-    "_AppNo": null,
-    "_HierarchyParentId": null
-  },
-  {
-    "Id": "ab9a70e3-5eb3-42e8-9b10-c90985d3ff18",
-    "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
-    "Category": "Product & Software Development",
-    "RichDescription": "DK10",
-    "Url": null,
-    "Responsible": null,
-    "Retired": true,
-    "LifeCycle": {
-      "Plan": null,
-      "PhaseIn": null,
-      "Active": null,
-      "PhaseOut": null,
-      "EndOfLife": null
-    },
-    "LifecycleStage": "Removed",
-    "PortFolioStrategy": {
-      "TIME": "Unmapped",
-      "Description": null
-    },
-    "HostedOn": {
-      "Criticality": "Unmapped",
-      "HostingTypeValue": null,
-      "HostingTypeDescription": null
-    },
-    "ApplicationTypeTags": [],
-    "PlatformTags": [],
-    "OrganizationTags": [
-      "Engineering"
-    ],
-    "UserBase": {
-      "Size": "Unknown",
-      "Count": null,
-      "Description": null,
-      "UserType": "Unknown"
-    },
-    "AIClassification": {
-      "UsesAI": false,
-      "RiskLevel": "NotApplicable",
-      "ReviewStatus": "NotReviewed",
-      "AICapabilities": null,
-      "ReviewDate": null
-    },
-    "SecurityAssessment": {
-      "Status": "NotAssessed",
-      "ApprovedDate": null,
-      "NextReviewDate": null,
-      "DebtLevel": "Unknown",
-      "Notes": null
-    },
-    "Owners": [],
-    "SuccessorId": [],
-    "CustomFields": [
-      {
-        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
-        "Value": "Construction & Development"
-      }
-    ],
-    "CreationMetadata": {
-      "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
-      "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 218, NoApp=None",
-      "AdditionalMetadata": {
-        "ImportPhase": "Phase3",
-        "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "218",
-        "NoApplication": "",
-        "YearlyCostTakeover": "812 - Viewmate",
-        "CostType": "Idea-to-Release (I2R)"
-      }
-    },
-    "HierarchyChildrenIds": [],
-    "_SoftwareVendor": null,
-    "_Consultancy": null,
-    "_SupportingApplications": null,
-    "_Org": null,
-    "_SuperUser": null,
-    "_NoApplication": null,
-    "_AppNo": null,
-    "_HierarchyParentId": null
-  },
-  {
-    "Id": "f016a00b-1b22-4aef-88cd-96eff774219d",
-    "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
-    "Category": "Product & Software Development",
-    "RichDescription": "DK10",
-    "Url": null,
-    "Responsible": null,
-    "Retired": true,
-    "LifeCycle": {
-      "Plan": null,
-      "PhaseIn": null,
-      "Active": null,
-      "PhaseOut": null,
-      "EndOfLife": null
-    },
-    "LifecycleStage": "Removed",
-    "PortFolioStrategy": {
-      "TIME": "Unmapped",
-      "Description": null
-    },
-    "HostedOn": {
-      "Criticality": "Unmapped",
-      "HostingTypeValue": null,
-      "HostingTypeDescription": null
-    },
-    "ApplicationTypeTags": [],
-    "PlatformTags": [],
-    "OrganizationTags": [
-      "Engineering"
-    ],
-    "UserBase": {
-      "Size": "Unknown",
-      "Count": null,
-      "Description": null,
-      "UserType": "Unknown"
-    },
-    "AIClassification": {
-      "UsesAI": false,
-      "RiskLevel": "NotApplicable",
-      "ReviewStatus": "NotReviewed",
-      "AICapabilities": null,
-      "ReviewDate": null
-    },
-    "SecurityAssessment": {
-      "Status": "NotAssessed",
-      "ApprovedDate": null,
-      "NextReviewDate": null,
-      "DebtLevel": "Unknown",
-      "Notes": null
-    },
-    "Owners": [],
-    "SuccessorId": [],
-    "CustomFields": [
-      {
-        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
-        "Value": "Construction & Development"
-      }
-    ],
-    "CreationMetadata": {
-      "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
       "SourceIdentifier": "Kamstrup A-Applications_Removed Row 219, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
         "RowNumber": "219",
+        "NoApplication": "",
+        "YearlyCostTakeover": "812 - Viewmate",
+        "CostType": "Idea-to-Release (I2R)"
+      }
+    },
+    "HierarchyChildrenIds": [],
+    "_SoftwareVendor": null,
+    "_Consultancy": null,
+    "_SupportingApplications": null,
+    "_Org": null,
+    "_SuperUser": null,
+    "_NoApplication": null,
+    "_AppNo": null,
+    "_HierarchyParentId": null
+  },
+  {
+    "Id": "98e9c8cd-d27f-4b43-a4f8-7da7979026bb",
+    "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
+    "Category": "Product & Software Development",
+    "RichDescription": "DK10",
+    "Url": null,
+    "Responsible": null,
+    "Retired": true,
+    "LifeCycle": {
+      "Plan": null,
+      "PhaseIn": null,
+      "Active": null,
+      "PhaseOut": null,
+      "EndOfLife": null
+    },
+    "LifecycleStage": "Removed",
+    "PortFolioStrategy": {
+      "TIME": "Unmapped",
+      "Description": null
+    },
+    "HostedOn": {
+      "Criticality": "Unmapped",
+      "HostingTypeValue": null,
+      "HostingTypeDescription": null
+    },
+    "ApplicationTypeTags": [],
+    "PlatformTags": [],
+    "OrganizationTags": [
+      "Engineering"
+    ],
+    "UserBase": {
+      "Size": "Unknown",
+      "Count": null,
+      "Description": null,
+      "UserType": "Unknown"
+    },
+    "AIClassification": {
+      "UsesAI": false,
+      "RiskLevel": "NotApplicable",
+      "ReviewStatus": "NotReviewed",
+      "AICapabilities": null,
+      "ReviewDate": null
+    },
+    "SecurityAssessment": {
+      "Status": "NotAssessed",
+      "ApprovedDate": null,
+      "NextReviewDate": null,
+      "DebtLevel": "Unknown",
+      "Notes": null
+    },
+    "Owners": [],
+    "SuccessorId": [],
+    "CustomFields": [
+      {
+        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
+        "Value": "Construction & Development"
+      }
+    ],
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-05-22T20:21:59",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 220, NoApp=None",
+      "AdditionalMetadata": {
+        "ImportPhase": "Phase3",
+        "SourceSheet": "A-Applications_Removed",
+        "RowNumber": "220",
+        "NoApplication": "",
+        "YearlyCostTakeover": "812 - Viewmate",
+        "CostType": "Idea-to-Release (I2R)"
+      }
+    },
+    "HierarchyChildrenIds": [],
+    "_SoftwareVendor": null,
+    "_Consultancy": null,
+    "_SupportingApplications": null,
+    "_Org": null,
+    "_SuperUser": null,
+    "_NoApplication": null,
+    "_AppNo": null,
+    "_HierarchyParentId": null
+  },
+  {
+    "Id": "e4664fa0-0caa-47ae-8d81-439825d846b3",
+    "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
+    "Category": "Product & Software Development",
+    "RichDescription": "DK10",
+    "Url": null,
+    "Responsible": null,
+    "Retired": true,
+    "LifeCycle": {
+      "Plan": null,
+      "PhaseIn": null,
+      "Active": null,
+      "PhaseOut": null,
+      "EndOfLife": null
+    },
+    "LifecycleStage": "Removed",
+    "PortFolioStrategy": {
+      "TIME": "Unmapped",
+      "Description": null
+    },
+    "HostedOn": {
+      "Criticality": "Unmapped",
+      "HostingTypeValue": null,
+      "HostingTypeDescription": null
+    },
+    "ApplicationTypeTags": [],
+    "PlatformTags": [],
+    "OrganizationTags": [
+      "Engineering"
+    ],
+    "UserBase": {
+      "Size": "Unknown",
+      "Count": null,
+      "Description": null,
+      "UserType": "Unknown"
+    },
+    "AIClassification": {
+      "UsesAI": false,
+      "RiskLevel": "NotApplicable",
+      "ReviewStatus": "NotReviewed",
+      "AICapabilities": null,
+      "ReviewDate": null
+    },
+    "SecurityAssessment": {
+      "Status": "NotAssessed",
+      "ApprovedDate": null,
+      "NextReviewDate": null,
+      "DebtLevel": "Unknown",
+      "Notes": null
+    },
+    "Owners": [],
+    "SuccessorId": [],
+    "CustomFields": [
+      {
+        "ColumnId": "b8edc51f-a38e-5ecc-b247-bcf9758a1c26",
+        "Value": "Construction & Development"
+      }
+    ],
+    "CreationMetadata": {
+      "Source": "CSVImport",
+      "CreatedAt": "2026-05-22T20:21:59",
+      "CreatedBy": "KamstrupImport",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 221, NoApp=None",
+      "AdditionalMetadata": {
+        "ImportPhase": "Phase3",
+        "SourceSheet": "A-Applications_Removed",
+        "RowNumber": "221",
         "NoApplication": "",
         "YearlyCostTakeover": "818 - Instrument tools Water (+100 tools)",
         "CostType": "Idea-to-Release (I2R)"
@@ -6123,7 +6202,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "f2936cae-0cf8-4333-9801-f6e3b2c13f0e",
+    "Id": "7669eb5f-a4d7-4701-aec2-38b7a9e08aed",
     "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -6182,13 +6261,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 220, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 222, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "220",
+        "RowNumber": "222",
         "NoApplication": "",
         "YearlyCostTakeover": "819 - Hercules",
         "CostType": "Idea-to-Release (I2R)"
@@ -6205,7 +6284,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "35a0da62-42b5-460b-a5bd-b92b18726070",
+    "Id": "3702d5b6-fd73-4e8f-8561-d3634e011e3e",
     "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -6264,13 +6343,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 221, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 223, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "221",
+        "RowNumber": "223",
         "NoApplication": "",
         "YearlyCostTakeover": "824 - Temurin (multiple versions, JAVA)",
         "CostType": "Idea-to-Release (I2R)"
@@ -6287,7 +6366,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "158859c6-d3e4-4e85-a773-d95f96285275",
+    "Id": "455f8cf5-f37c-4078-9e11-8b62e525a815",
     "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -6346,13 +6425,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 222, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 224, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "222",
+        "RowNumber": "224",
         "NoApplication": "",
         "YearlyCostTakeover": "825 - Device Monitoring Studio",
         "CostType": "Idea-to-Release (I2R)"
@@ -6369,7 +6448,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "fa0b0efb-6230-49dd-b602-149fcc752aba",
+    "Id": "f455d91b-eb19-4a68-9c53-ec3ca7560f77",
     "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -6428,13 +6507,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 223, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 225, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "223",
+        "RowNumber": "225",
         "NoApplication": "",
         "YearlyCostTakeover": "845 - FRHED",
         "CostType": "Idea-to-Release (I2R)"
@@ -6451,7 +6530,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "27f7775e-9187-4201-8bad-801ebee6489a",
+    "Id": "285b7515-b522-4016-9743-9a1892d78b94",
     "DisplayName": "1005-Product & Software Development--",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -6510,13 +6589,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 224, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 226, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "224",
+        "RowNumber": "226",
         "NoApplication": "",
         "YearlyCostTakeover": "858 - Tabular Editor",
         "CostType": "Idea-to-Release (I2R)"
@@ -6533,7 +6612,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "bc5a8811-ab11-4608-b9ee-88642471bb8f",
+    "Id": "d7fa9651-77de-47d6-82cf-455f4db891b7",
     "DisplayName": "4552-Digital Platform and Operations-AI, Data & Analytics-Data Management",
     "Category": "Digital Platform and Operations",
     "RichDescription": "DK10",
@@ -6592,13 +6671,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 225, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 227, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "225",
+        "RowNumber": "227",
         "NoApplication": "",
         "YearlyCostTakeover": "858 - Tabular Editor"
       }
@@ -6614,7 +6693,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "1ca1d38b-30f1-4d2f-9e56-cba32c43b80a",
+    "Id": "a9d78604-0317-4eec-9b88-bac4ec62f133",
     "DisplayName": "1205-Product & Software Development-Engineering-Construction & Development",
     "Category": "Product & Software Development",
     "RichDescription": "DK10",
@@ -6673,13 +6752,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 226, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 228, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "226",
+        "RowNumber": "228",
         "NoApplication": "",
         "YearlyCostTakeover": "168 - Sublime Text 3 (https://www.sublimetext.com/3)",
         "CostType": "Idea-to-Release (I2R)"
@@ -6696,7 +6775,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "a6b6a268-6887-434e-be37-34c12f201377",
+    "Id": "e45891fd-d8b0-45f0-a97e-c1c2c961ee75",
     "DisplayName": "4402-People and Culture-Onboarding-",
     "Category": "People and Culture",
     "RichDescription": "DK10",
@@ -6755,13 +6834,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 229, NoApp=45292",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 231, NoApp=45292",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "229",
+        "RowNumber": "231",
         "NoApplication": "45292",
         "YearlyCostTakeover": "355 - ClickLearn",
         "CostType": "Hire-to-Retire (H2R)"
@@ -6778,7 +6857,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "63a189df-a9af-491a-ac0d-eeba1c1aad40",
+    "Id": "91806304-77bf-4664-9a6d-d93fa4a77b3e",
     "DisplayName": "4402-People and Culture-Onboarding-",
     "Category": "People and Culture",
     "RichDescription": "NO10",
@@ -6837,13 +6916,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 230, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 232, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "230",
+        "RowNumber": "232",
         "NoApplication": "",
         "YearlyCostTakeover": "355 - ClickLearn",
         "CostType": "Hire-to-Retire (H2R)"
@@ -6860,7 +6939,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "25867ad3-1a05-4122-a9b5-d70fec43181e",
+    "Id": "0bb0fd27-163d-4720-b038-070ed126d30d",
     "DisplayName": "3006-Marketing-Marketing demand management-Lead generation, management, and nurturing",
     "Category": "Marketing",
     "RichDescription": "DK10",
@@ -6919,13 +6998,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 231, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 233, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "231",
+        "RowNumber": "233",
         "NoApplication": "",
         "YearlyCostTakeover": "406 - Microsoft Dynamics CID (Data)"
       }
@@ -6941,7 +7020,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "52762d57-428b-420c-aedd-c88dcf95db1a",
+    "Id": "36426f43-dc73-4613-9984-889038d98ff4",
     "DisplayName": "3013-Marketing-Data and insights management-Performance meassurement",
     "Category": "Marketing",
     "RichDescription": "DK10",
@@ -7000,13 +7079,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 232, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 234, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "232",
+        "RowNumber": "234",
         "NoApplication": "",
         "YearlyCostTakeover": "406 - Microsoft Dynamics CID (Data)"
       }
@@ -7022,7 +7101,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "fad4ecec-a63c-42da-a98d-351d03fe2ee1",
+    "Id": "5dd3e5ab-c630-4dbf-ab55-72b589488466",
     "DisplayName": "3016-Marketing-Customer experience and data management-Customer data management",
     "Category": "Marketing",
     "RichDescription": "DK10",
@@ -7081,13 +7160,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 233, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 235, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "233",
+        "RowNumber": "235",
         "NoApplication": "",
         "YearlyCostTakeover": "406 - Microsoft Dynamics CID (Data)",
         "CostType": "Customer Service and Support"
@@ -7104,7 +7183,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "ba91e12a-45bb-4170-974c-bb3ade644a96",
+    "Id": "968a26b0-6003-4122-b915-f95109eca612",
     "DisplayName": "3017-Marketing-Customer experience and data management-Customer experience management",
     "Category": "Marketing",
     "RichDescription": "DK10",
@@ -7163,13 +7242,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 234, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 236, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "234",
+        "RowNumber": "236",
         "NoApplication": "",
         "YearlyCostTakeover": "406 - Microsoft Dynamics CID (Data)",
         "CostType": "Customer Service and Support"
@@ -7186,7 +7265,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "8cdf0b4f-9d63-4550-a745-2e1e2248a148",
+    "Id": "1b50d1c3-d307-402b-bf52-9c1d674ce76f",
     "DisplayName": "3019-Marketing-Customer experience and data management-Compliance and data privacy management",
     "Category": "Marketing",
     "RichDescription": "DK10",
@@ -7245,13 +7324,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 235, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 237, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "235",
+        "RowNumber": "237",
         "NoApplication": "",
         "YearlyCostTakeover": "406 - Microsoft Dynamics CID (Data)"
       }
@@ -7267,7 +7346,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "53599df7-7a41-49a8-bfac-4174426b987f",
+    "Id": "41bb7d79-0ba4-48b2-b09b-1327a841e76d",
     "DisplayName": "3060-Sales-Sales Execution and Customer Engagement-Customer Insights",
     "Category": "Sales",
     "RichDescription": "DK10",
@@ -7326,13 +7405,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 236, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 238, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "236",
+        "RowNumber": "238",
         "NoApplication": "",
         "YearlyCostTakeover": "406 - Microsoft Dynamics CID (Data)",
         "CostType": "Customer Service and Support"
@@ -7349,7 +7428,7 @@
     "_HierarchyParentId": null
   },
   {
-    "Id": "99e17f05-082e-4c83-a930-52ef47513174",
+    "Id": "4c3698d8-cf69-4602-94bb-138b1685d8b4",
     "DisplayName": "3060-Sales-Sales Execution and Customer Engagement-Customer Insights",
     "Category": "Sales",
     "RichDescription": "NO10",
@@ -7408,13 +7487,13 @@
     ],
     "CreationMetadata": {
       "Source": "CSVImport",
-      "CreatedAt": "2026-02-06T18:38:04",
+      "CreatedAt": "2026-05-22T20:21:59",
       "CreatedBy": "KamstrupImport",
-      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 237, NoApp=None",
+      "SourceIdentifier": "Kamstrup A-Applications_Removed Row 239, NoApp=None",
       "AdditionalMetadata": {
         "ImportPhase": "Phase3",
         "SourceSheet": "A-Applications_Removed",
-        "RowNumber": "237",
+        "RowNumber": "239",
         "NoApplication": "",
         "YearlyCostTakeover": "406 - Microsoft Dynamics CID (Data)",
         "CostType": "Customer Service and Support"

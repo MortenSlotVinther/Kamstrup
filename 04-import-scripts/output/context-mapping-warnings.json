@@ -1,10 +1,6 @@
 {
   "unresolved_apps": [],
-  "unresolved_caps": [
-    "",
-    "3095-Sales-Sales Management of Indirect Sales-Partner Channel management",
-    "4301-Manufacturing-Manufacturing Software-Software Development"
-  ],
+  "unresolved_caps": [],
   "unresolved_orgs": [],
   "unresolved_processes": [
     "NoProcess",
@@ -16,7 +12,5 @@
     "P20-Communication Management-SP20.2-Sustainability Communication & Reporting",
     "P36-Talent attraction, Recruitment & Exit-SP36.2-Employee Exit"
   ],
-  "unresolved_value_streams": [
-    "#NAME?"
-  ]
+  "unresolved_value_streams": []
 }

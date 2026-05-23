@@ -1,25 +1,25 @@
 {
-  "generated": "2026-02-06T18:46:48.904449",
-  "total_relationships": 9088,
+  "generated": "2026-05-22T20:22:00.943196",
+  "total_relationships": 10624,
   "by_type": {
-    "AppToCapability": 2230,
-    "AppToOrganization": 2646,
-    "AppToProcess": 1406,
+    "AppToCapability": 2250,
+    "AppToOrganization": 3591,
+    "AppToProcess": 1423,
     "CapabilityToValueStream": 223,
-    "CapabilityToOrganization": 1649,
+    "CapabilityToOrganization": 2202,
     "ProcessToValueStream": 12,
-    "AppToProvider": 803,
+    "AppToProvider": 804,
     "AppToPlatform": 85,
     "AppToApp": 34
   },
   "stats": {
-    "App→Capability": 2230,
-    "App→Organization": 2646,
-    "App→Process": 1406,
+    "App→Capability": 2250,
+    "App→Organization": 3591,
+    "App→Process": 1423,
     "Capability→ValueStream": 223,
-    "Capability→Organization": 1649,
+    "Capability→Organization": 2202,
     "Process→ValueStream": 12,
-    "App→Provider": 803,
+    "App→Provider": 804,
     "App→Platform": 85,
     "App→App (Supporting)": 34
   }

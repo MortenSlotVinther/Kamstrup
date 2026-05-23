@@ -233,15 +233,24 @@ def parse_active_applications(ws, report: ImportReport):
         # Col 3 = No (numeric ID)
         app_no = safe_int(ws.cell(row=row_idx, column=3).value)
         
-        # Generate deterministic GUID
-        if app_no is not None:
+        # Generate deterministic GUID.
+        # NOTE: the 'No' column (app_no) is NOT unique in the source — there are
+        # 8 duplicate numbers (e.g. No=1113 is BOTH "Git Hub" and "Speedship").
+        # Seeding the GUID from app_no alone collapses each pair into one factsheet
+        # (≈8 apps lost on merge). Seed from the unique NoApplication string
+        # ("1113 - Git Hub") so colliding numbers stay distinct; KamstrupData
+        # references apps by this same "No - Name" string, so resolution is intact.
+        if no_application:
+            app_guid = str(uuid.uuid5(KAMSTRUP_APP_NAMESPACE, no_application))
+        elif app_no is not None:
             app_guid = generate_deterministic_guid(app_no)
-            app_number_to_guid[app_no] = app_guid
-            if no_application:
-                app_number_to_guid[no_application] = app_guid
         else:
             app_guid = str(uuid.uuid4())
             report.warn(f"Row {row_idx}: No app number for '{app_name}', using random GUID")
+        if app_no is not None:
+            app_number_to_guid[app_no] = app_guid
+            if no_application:
+                app_number_to_guid[no_application] = app_guid
         
         app_name_to_guid[app_name] = app_guid
         
@@ -407,11 +416,11 @@ def parse_active_applications(ws, report: ImportReport):
         
         app["Owners"] = owners
         
-        # Col 20 - Supported by Group IT → OrganizationTags
+        # Col 20 - Tier (NEW schema: T0 / T1-D ...) → OrganizationTags
         org_tags = []
-        supported_it = safe_str(ws.cell(row=row_idx, column=20).value)
-        if supported_it and supported_it.upper() in ("X", "YES"):
-            org_tags.append("Supported by Group IT")
+        tier = safe_str(ws.cell(row=row_idx, column=20).value)
+        if tier:
+            org_tags.append(f"Tier:{tier}")
         
         # Col 42 - Crown Jewels → OrganizationTags
         crown_jewel = safe_str(ws.cell(row=row_idx, column=42).value)

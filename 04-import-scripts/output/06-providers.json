@@ -2244,6 +2244,12 @@
     "ProviderType": "Software Vendor"
   },
   {
+    "Id": "279f2746-e296-5c48-a0fb-ece143f78897",
+    "DisplayName": "Sharegate",
+    "FactSheetType": "ProviderFactSheet",
+    "ProviderType": "Software Vendor"
+  },
+  {
     "Id": "0a3dadce-63d1-58b5-92bf-2fe2dbe9b014",
     "DisplayName": "Siemens",
     "FactSheetType": "ProviderFactSheet",
